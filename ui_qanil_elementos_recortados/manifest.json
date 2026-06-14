@@ -1,0 +1,450 @@
+{
+  "pack": "Crónicas de Q'anil - UI elementos recortados",
+  "format": "PNG transparent",
+  "type": "UI sprites / interfaz, no tiles de mapa",
+  "assets": [
+    {
+      "file": "source_sheets/start_menu_sheet_limpio.png",
+      "type": "source_sheet_clean",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "file": "source_sheets/pause_menu_sheet_limpio.png",
+      "type": "source_sheet_clean",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "file": "start_menu/logo/logo_cronicas_de_qanil.png",
+      "size": [
+        579,
+        249
+      ]
+    },
+    {
+      "file": "start_menu/logo/subtitle_el_ascenso_de_oscar_leon.png",
+      "size": [
+        560,
+        68
+      ]
+    },
+    {
+      "file": "start_menu/panels/panel_principal_pergamino.png",
+      "size": [
+        453,
+        488
+      ]
+    },
+    {
+      "file": "start_menu/plaques/placa_version_hecho_en_guatemala.png",
+      "size": [
+        376,
+        56
+      ]
+    },
+    {
+      "file": "start_menu/plaques/placa_frase_maiz.png",
+      "size": [
+        287,
+        72
+      ]
+    },
+    {
+      "file": "start_menu/plaques/rotulo_santiago_gualan_zacapa.png",
+      "size": [
+        181,
+        188
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/medallon_jade.png",
+      "size": [
+        69,
+        95
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/emblema_maiz.png",
+      "size": [
+        105,
+        102
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/selector_diamante_verde.png",
+      "size": [
+        37,
+        55
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/linea_divisoria_jade.png",
+      "size": [
+        104,
+        19
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/colgante_jade.png",
+      "size": [
+        150,
+        254
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/piezas_marco_completo.png",
+      "size": [
+        195,
+        435
+      ]
+    },
+    {
+      "file": "start_menu/ornaments/ornamentos_inferiores.png",
+      "size": [
+        269,
+        78
+      ]
+    },
+    {
+      "file": "start_menu/buttons_normal/btn_nueva_partida.png",
+      "size": [
+        210,
+        44
+      ]
+    },
+    {
+      "file": "start_menu/buttons_hover/btn_nueva_partida.png",
+      "size": [
+        208,
+        43
+      ]
+    },
+    {
+      "file": "start_menu/buttons_selected/btn_nueva_partida.png",
+      "size": [
+        213,
+        56
+      ]
+    },
+    {
+      "file": "start_menu/buttons_normal/btn_continuar.png",
+      "size": [
+        210,
+        45
+      ]
+    },
+    {
+      "file": "start_menu/buttons_hover/btn_continuar.png",
+      "size": [
+        207,
+        46
+      ]
+    },
+    {
+      "file": "start_menu/buttons_selected/btn_continuar.png",
+      "size": [
+        214,
+        53
+      ]
+    },
+    {
+      "file": "start_menu/buttons_normal/btn_cargar_partida.png",
+      "size": [
+        210,
+        44
+      ]
+    },
+    {
+      "file": "start_menu/buttons_hover/btn_cargar_partida.png",
+      "size": [
+        206,
+        45
+      ]
+    },
+    {
+      "file": "start_menu/buttons_selected/btn_cargar_partida.png",
+      "size": [
+        211,
+        51
+      ]
+    },
+    {
+      "file": "start_menu/buttons_normal/btn_configuracion.png",
+      "size": [
+        210,
+        43
+      ]
+    },
+    {
+      "file": "start_menu/buttons_hover/btn_configuracion.png",
+      "size": [
+        206,
+        42
+      ]
+    },
+    {
+      "file": "start_menu/buttons_selected/btn_configuracion.png",
+      "size": [
+        211,
+        58
+      ]
+    },
+    {
+      "file": "start_menu/buttons_normal/btn_creditos.png",
+      "size": [
+        210,
+        48
+      ]
+    },
+    {
+      "file": "start_menu/buttons_hover/btn_creditos.png",
+      "size": [
+        207,
+        49
+      ]
+    },
+    {
+      "file": "start_menu/buttons_selected/btn_creditos.png",
+      "size": [
+        214,
+        56
+      ]
+    },
+    {
+      "file": "start_menu/buttons_normal/btn_salir.png",
+      "size": [
+        210,
+        49
+      ]
+    },
+    {
+      "file": "start_menu/buttons_hover/btn_salir.png",
+      "size": [
+        209,
+        48
+      ]
+    },
+    {
+      "file": "start_menu/buttons_selected/btn_salir.png",
+      "size": [
+        210,
+        58
+      ]
+    },
+    {
+      "file": "pause_menu/header/header_juego_en_pausa.png",
+      "size": [
+        521,
+        153
+      ]
+    },
+    {
+      "file": "pause_menu/panels/panel_menu_principal.png",
+      "size": [
+        319,
+        579
+      ]
+    },
+    {
+      "file": "pause_menu/panels/panel_estado_personaje.png",
+      "size": [
+        379,
+        360
+      ]
+    },
+    {
+      "file": "pause_menu/panels/panel_objetivo_actual.png",
+      "size": [
+        379,
+        175
+      ]
+    },
+    {
+      "file": "pause_menu/ornaments/barra_seleccion_vacia.png",
+      "size": [
+        338,
+        58
+      ]
+    },
+    {
+      "file": "pause_menu/icons/iconos_estado_recursos.png",
+      "size": [
+        389,
+        42
+      ]
+    },
+    {
+      "file": "pause_menu/icons/emblemas_maiz_jade.png",
+      "size": [
+        151,
+        68
+      ]
+    },
+    {
+      "file": "pause_menu/ornaments/lineas_divisorias.png",
+      "size": [
+        193,
+        36
+      ]
+    },
+    {
+      "file": "pause_menu/ornaments/marco_retrato_vacio.png",
+      "size": [
+        88,
+        102
+      ]
+    },
+    {
+      "file": "pause_menu/icons/retrato_oscar.png",
+      "size": [
+        116,
+        102
+      ]
+    },
+    {
+      "file": "pause_menu/plaques/placa_version_hecho_en_guatemala.png",
+      "size": [
+        352,
+        57
+      ]
+    },
+    {
+      "file": "pause_menu/plaques/placa_frase_maiz.png",
+      "size": [
+        277,
+        72
+      ]
+    },
+    {
+      "file": "pause_menu/icons/thumb_compuerta_canal.png",
+      "size": [
+        104,
+        100
+      ]
+    },
+    {
+      "file": "pause_menu/ornaments/piezas_marco_pausa.png",
+      "size": [
+        395,
+        119
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_reanudar.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_reanudar.png",
+      "size": [
+        236,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_inventario.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_inventario.png",
+      "size": [
+        237,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_habilidades.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_habilidades.png",
+      "size": [
+        236,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_mapa.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_mapa.png",
+      "size": [
+        237,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_misiones.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_misiones.png",
+      "size": [
+        235,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_guardar.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_guardar.png",
+      "size": [
+        236,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_configuracion.png",
+      "size": [
+        237,
+        52
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_configuracion.png",
+      "size": [
+        237,
+        56
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_normal/btn_salir_menu_principal.png",
+      "size": [
+        237,
+        51
+      ]
+    },
+    {
+      "file": "pause_menu/buttons_selected/btn_salir_menu_principal.png",
+      "size": [
+        236,
+        56
+      ]
+    }
+  ]
+}
