@@ -1,0 +1,33 @@
+{
+  "weatherEffects": {
+    "arido_calido": {
+      "statMod": { "energy_consumption": 1.5 },
+      "description": "El calor sofocante agota tu energía rápidamente. Necesitas agua."
+    },
+    "frio_extremo": {
+      "statMod": { "agility": 0.8, "health_regen": 0.5 },
+      "description": "El frío entumece tus músculos. Sin ropa térmica, tu salud no se recupera."
+    },
+    "muy_humedo_calido": {
+      "statMod": { "stamina_regen": 0.7 },
+      "description": "La humedad dificulta la respiración. Te cansas más rápido."
+    },
+    "templado": {
+      "statMod": {},
+      "description": "El clima es perfecto para la aventura."
+    }
+  },
+  "tradeLogic": {
+    "baseMarkup": 1.2,
+    "scarcityMultiplier": 2.0,
+    "abundanceMultiplier": 0.5,
+    "regionalSpecialties": {
+      "zacapa": ["maiz", "frijol"],
+      "chiquimula": ["jade", "plata"],
+      "izabal": ["conchas", "peces_exoticos"],
+      "huehuetenango": ["fragmento_estelar", "plata_antigua"],
+      "alta_verapaz": ["cafe_especial", "cardamomo"],
+      "escuintla": ["caña_de_azucar", "sal_volcanica"]
+    }
+  }
+}

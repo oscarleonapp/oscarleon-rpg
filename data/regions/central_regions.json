@@ -1,0 +1,26 @@
+[
+  {
+    "id": "guatemala",
+    "department": "Guatemala",
+    "fantasyName": "Reino de la Ceiba Blanca",
+    "biome": "bosque_de_montaña",
+    "climate": "templado",
+    "levelRange": [34, 38],
+    "startingVillage": "Ciudad del Alba",
+    "resources": ["oro", "textiles_reales"],
+    "boss": "el_canciller_de_la_ceiba_negra",
+    "relic": "corona_de_jade"
+  },
+  {
+    "id": "sacatepequez",
+    "department": "Sacatepéquez",
+    "fantasyName": "Ciudad de los Volcanes Dormidos",
+    "biome": "bosque_de_montaña",
+    "climate": "templado_frio",
+    "levelRange": [39, 42],
+    "startingVillage": "Antigua Q’anil",
+    "resources": ["obsidiana_purpura", "flores_eternas"],
+    "boss": "el_campanero_de_obsidiana",
+    "relic": "campana_de_obsidiana"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "mq_capital_01": {
+    "id": "mq_capital_01",
+    "title": "La Sombra sobre la Ceiba",
+    "narrative": "El Reino de la Ceiba Blanca (Guatemala) está bajo el control del Canciller, quien usa antiguos artefactos de Kaminaljuyú para corromper a la guardia.",
+    "objectives": [
+      { "id": "cap_obj_01", "type": "stealth", "description": "Infiltrarse en las ruinas bajo la ciudad moderna para encontrar el Códice de Cristal." },
+      { "id": "cap_obj_02", "type": "boss_fight", "description": "Derrotar al Canciller en el Gran Salón del Palacio." }
+    ],
+    "lore_note": "Kaminaljuyú fue el corazón comercial del altiplano. El Canciller busca el 'Ojo de Obsidiana' enterrado en sus montículos."
+  }
+}

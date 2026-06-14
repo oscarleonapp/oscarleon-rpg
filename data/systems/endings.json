@@ -1,0 +1,42 @@
+{
+  "endingsLogic": [
+    {
+      "id": "final_luz",
+      "title": "Final de Luz",
+      "description": "Oscar salva a Karen, purifica Guatemala y sella a Xibal para siempre.",
+      "conditions": {
+        "karen_saved": true,
+        "relics_collected": 22,
+        "boss_aj_kak_defeated": true
+      }
+    },
+    {
+      "id": "final_rey_agricultor",
+      "title": "El Rey Agricultor",
+      "description": "Oscar derrota a la sombra, rechaza la corona y vuelve a Zacapa para hacer florecer la tierra.",
+      "conditions": {
+        "boss_aj_kak_defeated": true,
+        "farming_skill_maxed": true,
+        "average_reputation": { ">=": 80 }
+      }
+    },
+    {
+      "id": "final_dos_guardianes",
+      "title": "Los Dos Guardianes",
+      "description": "Oscar y Karen gobiernan juntos como protectores de Q’anil.",
+      "conditions": {
+        "boss_aj_kak_defeated": true,
+        "karen_bond": 100
+      }
+    },
+    {
+      "id": "final_oscuro",
+      "title": "La Sombra Permanece",
+      "description": "Oscar vence al cuerpo físico de Xibal, pero la corrupción se esparce. El sacrificio no fue suficiente.",
+      "conditions": {
+        "boss_aj_kak_defeated": true,
+        "relics_collected": { "<": 15 }
+      }
+    }
+  ]
+}

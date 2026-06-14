@@ -1,0 +1,31 @@
+{
+  "system": "farming",
+  "mechanics": {
+    "stages": ["seed", "sprout", "growing", "ready"],
+    "requirements": ["water", "soil_quality"],
+    "tools": ["hoe", "watering_can"]
+  },
+  "crops": [
+    {
+      "id": "maiz",
+      "name": "Maíz",
+      "growthTime": 3,
+      "yield": [2, 5],
+      "levelRequired": 1
+    },
+    {
+      "id": "frijol",
+      "name": "Frijol",
+      "growthTime": 2,
+      "yield": [3, 6],
+      "levelRequired": 1
+    },
+    {
+      "id": "cacao",
+      "name": "Cacao",
+      "growthTime": 10,
+      "yield": [1, 3],
+      "levelRequired": 20
+    }
+  ]
+}

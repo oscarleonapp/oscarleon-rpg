@@ -1,0 +1,23 @@
+{
+  "id": "mq_karen_intro",
+  "title": "El Susurro de la Ceiba Blanca",
+  "trigger": "Level 15 / Entry to Izabal",
+  "narrative": "Oscar tiene su primer sueño con una figura luminosa que le pide proteger el Reino Central.",
+  "objectives": [
+    {
+      "id": "karen_obj_01",
+      "type": "dream_sequence",
+      "description": "Escucha el mensaje de Karen Sayle en el Templo de Quiriguá."
+    },
+    {
+      "id": "karen_obj_02",
+      "type": "find_item",
+      "item": "fragmento_de_jade_lunar",
+      "quantity": 1
+    }
+  ],
+  "rewards": {
+    "xp": 500,
+    "unlock": "karen_connection_v1"
+  }
+}

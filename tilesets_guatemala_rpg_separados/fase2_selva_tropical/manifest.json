@@ -1,0 +1,9877 @@
+{
+  "phase": "fase2_selva_tropical",
+  "source": "hoja_de_tiles_de_jungla_tropical.png",
+  "count": 987,
+  "tiles": [
+    {
+      "file": "fase2_selva_tropical_001.png",
+      "bbox": [
+        675,
+        14,
+        20,
+        12
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase2_selva_tropical_002.png",
+      "bbox": [
+        1093,
+        14,
+        25,
+        26
+      ],
+      "area": 245
+    },
+    {
+      "file": "fase2_selva_tropical_003.png",
+      "bbox": [
+        121,
+        15,
+        17,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_004.png",
+      "bbox": [
+        733,
+        15,
+        12,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_005.png",
+      "bbox": [
+        761,
+        15,
+        25,
+        13
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase2_selva_tropical_006.png",
+      "bbox": [
+        797,
+        15,
+        30,
+        15
+      ],
+      "area": 161
+    },
+    {
+      "file": "fase2_selva_tropical_007.png",
+      "bbox": [
+        561,
+        16,
+        12,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_008.png",
+      "bbox": [
+        1120,
+        16,
+        12,
+        19
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase2_selva_tropical_009.png",
+      "bbox": [
+        786,
+        19,
+        14,
+        15
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_010.png",
+      "bbox": [
+        991,
+        19,
+        13,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_011.png",
+      "bbox": [
+        834,
+        23,
+        21,
+        16
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase2_selva_tropical_012.png",
+      "bbox": [
+        672,
+        24,
+        13,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_013.png",
+      "bbox": [
+        768,
+        25,
+        17,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_014.png",
+      "bbox": [
+        742,
+        28,
+        16,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_015.png",
+      "bbox": [
+        792,
+        28,
+        16,
+        17
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_016.png",
+      "bbox": [
+        680,
+        31,
+        27,
+        19
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase2_selva_tropical_017.png",
+      "bbox": [
+        767,
+        36,
+        13,
+        16
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_018.png",
+      "bbox": [
+        1075,
+        36,
+        28,
+        23
+      ],
+      "area": 196
+    },
+    {
+      "file": "fase2_selva_tropical_019.png",
+      "bbox": [
+        1161,
+        36,
+        21,
+        19
+      ],
+      "area": 146
+    },
+    {
+      "file": "fase2_selva_tropical_020.png",
+      "bbox": [
+        1101,
+        38,
+        30,
+        17
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase2_selva_tropical_021.png",
+      "bbox": [
+        764,
+        40,
+        41,
+        63
+      ],
+      "area": 766
+    },
+    {
+      "file": "fase2_selva_tropical_022.png",
+      "bbox": [
+        149,
+        41,
+        39,
+        28
+      ],
+      "area": 524
+    },
+    {
+      "file": "fase2_selva_tropical_023.png",
+      "bbox": [
+        702,
+        42,
+        14,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_024.png",
+      "bbox": [
+        676,
+        43,
+        25,
+        18
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase2_selva_tropical_025.png",
+      "bbox": [
+        757,
+        46,
+        15,
+        16
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_026.png",
+      "bbox": [
+        630,
+        48,
+        13,
+        21
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase2_selva_tropical_027.png",
+      "bbox": [
+        1061,
+        49,
+        24,
+        27
+      ],
+      "area": 194
+    },
+    {
+      "file": "fase2_selva_tropical_028.png",
+      "bbox": [
+        1085,
+        50,
+        27,
+        29
+      ],
+      "area": 185
+    },
+    {
+      "file": "fase2_selva_tropical_029.png",
+      "bbox": [
+        656,
+        53,
+        21,
+        29
+      ],
+      "area": 219
+    },
+    {
+      "file": "fase2_selva_tropical_030.png",
+      "bbox": [
+        682,
+        58,
+        26,
+        22
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_031.png",
+      "bbox": [
+        641,
+        59,
+        13,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_032.png",
+      "bbox": [
+        1161,
+        59,
+        11,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_033.png",
+      "bbox": [
+        1178,
+        63,
+        13,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_034.png",
+      "bbox": [
+        303,
+        68,
+        12,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_035.png",
+      "bbox": [
+        695,
+        68,
+        12,
+        16
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_036.png",
+      "bbox": [
+        1205,
+        68,
+        18,
+        14
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_037.png",
+      "bbox": [
+        935,
+        71,
+        13,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_038.png",
+      "bbox": [
+        670,
+        72,
+        20,
+        22
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase2_selva_tropical_039.png",
+      "bbox": [
+        1063,
+        72,
+        16,
+        18
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase2_selva_tropical_040.png",
+      "bbox": [
+        760,
+        77,
+        13,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_041.png",
+      "bbox": [
+        1147,
+        80,
+        16,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_042.png",
+      "bbox": [
+        735,
+        81,
+        9,
+        15
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_043.png",
+      "bbox": [
+        221,
+        82,
+        12,
+        19
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_044.png",
+      "bbox": [
+        692,
+        83,
+        17,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_045.png",
+      "bbox": [
+        1184,
+        85,
+        13,
+        13
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_046.png",
+      "bbox": [
+        189,
+        86,
+        12,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_047.png",
+      "bbox": [
+        1050,
+        87,
+        30,
+        25
+      ],
+      "area": 242
+    },
+    {
+      "file": "fase2_selva_tropical_048.png",
+      "bbox": [
+        1210,
+        87,
+        16,
+        11
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_049.png",
+      "bbox": [
+        1038,
+        90,
+        14,
+        20
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_050.png",
+      "bbox": [
+        651,
+        92,
+        15,
+        16
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_051.png",
+      "bbox": [
+        668,
+        92,
+        14,
+        20
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_052.png",
+      "bbox": [
+        778,
+        92,
+        25,
+        20
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase2_selva_tropical_053.png",
+      "bbox": [
+        687,
+        93,
+        16,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_054.png",
+      "bbox": [
+        1073,
+        97,
+        20,
+        12
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_055.png",
+      "bbox": [
+        842,
+        114,
+        48,
+        15
+      ],
+      "area": 221
+    },
+    {
+      "file": "fase2_selva_tropical_056.png",
+      "bbox": [
+        935,
+        114,
+        97,
+        96
+      ],
+      "area": 7876
+    },
+    {
+      "file": "fase2_selva_tropical_057.png",
+      "bbox": [
+        1210,
+        114,
+        11,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_058.png",
+      "bbox": [
+        16,
+        115,
+        14,
+        20
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_059.png",
+      "bbox": [
+        34,
+        115,
+        17,
+        10
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_060.png",
+      "bbox": [
+        120,
+        115,
+        13,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_061.png",
+      "bbox": [
+        799,
+        115,
+        14,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_062.png",
+      "bbox": [
+        834,
+        115,
+        95,
+        95
+      ],
+      "area": 5830
+    },
+    {
+      "file": "fase2_selva_tropical_063.png",
+      "bbox": [
+        1037,
+        115,
+        95,
+        95
+      ],
+      "area": 5088
+    },
+    {
+      "file": "fase2_selva_tropical_064.png",
+      "bbox": [
+        1067,
+        115,
+        25,
+        13
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase2_selva_tropical_065.png",
+      "bbox": [
+        1141,
+        115,
+        98,
+        95
+      ],
+      "area": 4912
+    },
+    {
+      "file": "fase2_selva_tropical_066.png",
+      "bbox": [
+        1154,
+        115,
+        15,
+        9
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_067.png",
+      "bbox": [
+        786,
+        116,
+        16,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_068.png",
+      "bbox": [
+        771,
+        117,
+        20,
+        18
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_069.png",
+      "bbox": [
+        714,
+        123,
+        12,
+        15
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_070.png",
+      "bbox": [
+        747,
+        125,
+        81,
+        67
+      ],
+      "area": 1408
+    },
+    {
+      "file": "fase2_selva_tropical_071.png",
+      "bbox": [
+        630,
+        126,
+        96,
+        83
+      ],
+      "area": 4641
+    },
+    {
+      "file": "fase2_selva_tropical_072.png",
+      "bbox": [
+        229,
+        127,
+        13,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_073.png",
+      "bbox": [
+        741,
+        127,
+        12,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_074.png",
+      "bbox": [
+        552,
+        138,
+        67,
+        71
+      ],
+      "area": 1041
+    },
+    {
+      "file": "fase2_selva_tropical_075.png",
+      "bbox": [
+        834,
+        141,
+        11,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_076.png",
+      "bbox": [
+        182,
+        149,
+        15,
+        14
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_077.png",
+      "bbox": [
+        609,
+        157,
+        16,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_078.png",
+      "bbox": [
+        123,
+        159,
+        14,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_079.png",
+      "bbox": [
+        732,
+        164,
+        20,
+        17
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_080.png",
+      "bbox": [
+        581,
+        167,
+        28,
+        29
+      ],
+      "area": 221
+    },
+    {
+      "file": "fase2_selva_tropical_081.png",
+      "bbox": [
+        765,
+        168,
+        63,
+        42
+      ],
+      "area": 947
+    },
+    {
+      "file": "fase2_selva_tropical_082.png",
+      "bbox": [
+        609,
+        169,
+        14,
+        15
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_083.png",
+      "bbox": [
+        1116,
+        173,
+        16,
+        17
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase2_selva_tropical_084.png",
+      "bbox": [
+        732,
+        179,
+        19,
+        23
+      ],
+      "area": 158
+    },
+    {
+      "file": "fase2_selva_tropical_085.png",
+      "bbox": [
+        586,
+        198,
+        19,
+        11
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_086.png",
+      "bbox": [
+        743,
+        200,
+        14,
+        9
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_087.png",
+      "bbox": [
+        349,
+        212,
+        12,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_088.png",
+      "bbox": [
+        15,
+        213,
+        99,
+        95
+      ],
+      "area": 6650
+    },
+    {
+      "file": "fase2_selva_tropical_089.png",
+      "bbox": [
+        120,
+        213,
+        14,
+        17
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase2_selva_tropical_090.png",
+      "bbox": [
+        152,
+        213,
+        14,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_091.png",
+      "bbox": [
+        167,
+        213,
+        48,
+        47
+      ],
+      "area": 887
+    },
+    {
+      "file": "fase2_selva_tropical_092.png",
+      "bbox": [
+        427,
+        213,
+        46,
+        57
+      ],
+      "area": 965
+    },
+    {
+      "file": "fase2_selva_tropical_093.png",
+      "bbox": [
+        529,
+        213,
+        50,
+        50
+      ],
+      "area": 991
+    },
+    {
+      "file": "fase2_selva_tropical_094.png",
+      "bbox": [
+        559,
+        213,
+        24,
+        17
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase2_selva_tropical_095.png",
+      "bbox": [
+        589,
+        213,
+        12,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_096.png",
+      "bbox": [
+        631,
+        213,
+        95,
+        95
+      ],
+      "area": 4918
+    },
+    {
+      "file": "fase2_selva_tropical_097.png",
+      "bbox": [
+        731,
+        213,
+        97,
+        95
+      ],
+      "area": 7584
+    },
+    {
+      "file": "fase2_selva_tropical_098.png",
+      "bbox": [
+        834,
+        213,
+        95,
+        95
+      ],
+      "area": 7514
+    },
+    {
+      "file": "fase2_selva_tropical_099.png",
+      "bbox": [
+        935,
+        213,
+        96,
+        95
+      ],
+      "area": 7091
+    },
+    {
+      "file": "fase2_selva_tropical_100.png",
+      "bbox": [
+        1037,
+        213,
+        96,
+        95
+      ],
+      "area": 5700
+    },
+    {
+      "file": "fase2_selva_tropical_101.png",
+      "bbox": [
+        1140,
+        213,
+        99,
+        72
+      ],
+      "area": 3863
+    },
+    {
+      "file": "fase2_selva_tropical_102.png",
+      "bbox": [
+        95,
+        214,
+        15,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_103.png",
+      "bbox": [
+        221,
+        214,
+        22,
+        24
+      ],
+      "area": 179
+    },
+    {
+      "file": "fase2_selva_tropical_104.png",
+      "bbox": [
+        266,
+        216,
+        19,
+        15
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase2_selva_tropical_105.png",
+      "bbox": [
+        282,
+        217,
+        36,
+        44
+      ],
+      "area": 517
+    },
+    {
+      "file": "fase2_selva_tropical_106.png",
+      "bbox": [
+        400,
+        218,
+        20,
+        21
+      ],
+      "area": 137
+    },
+    {
+      "file": "fase2_selva_tropical_107.png",
+      "bbox": [
+        380,
+        222,
+        25,
+        30
+      ],
+      "area": 230
+    },
+    {
+      "file": "fase2_selva_tropical_108.png",
+      "bbox": [
+        231,
+        227,
+        70,
+        39
+      ],
+      "area": 913
+    },
+    {
+      "file": "fase2_selva_tropical_109.png",
+      "bbox": [
+        576,
+        228,
+        12,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_110.png",
+      "bbox": [
+        272,
+        230,
+        17,
+        15
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_111.png",
+      "bbox": [
+        465,
+        238,
+        13,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_112.png",
+      "bbox": [
+        444,
+        241,
+        28,
+        23
+      ],
+      "area": 189
+    },
+    {
+      "file": "fase2_selva_tropical_113.png",
+      "bbox": [
+        120,
+        242,
+        10,
+        19
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_114.png",
+      "bbox": [
+        396,
+        242,
+        21,
+        17
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase2_selva_tropical_115.png",
+      "bbox": [
+        191,
+        247,
+        9,
+        15
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_116.png",
+      "bbox": [
+        528,
+        251,
+        13,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_117.png",
+      "bbox": [
+        221,
+        254,
+        62,
+        34
+      ],
+      "area": 833
+    },
+    {
+      "file": "fase2_selva_tropical_118.png",
+      "bbox": [
+        715,
+        254,
+        11,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_119.png",
+      "bbox": [
+        193,
+        257,
+        22,
+        19
+      ],
+      "area": 146
+    },
+    {
+      "file": "fase2_selva_tropical_120.png",
+      "bbox": [
+        542,
+        260,
+        16,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_121.png",
+      "bbox": [
+        277,
+        262,
+        22,
+        13
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_122.png",
+      "bbox": [
+        399,
+        263,
+        17,
+        13
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase2_selva_tropical_123.png",
+      "bbox": [
+        431,
+        263,
+        16,
+        13
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_124.png",
+      "bbox": [
+        528,
+        264,
+        21,
+        35
+      ],
+      "area": 181
+    },
+    {
+      "file": "fase2_selva_tropical_125.png",
+      "bbox": [
+        120,
+        267,
+        10,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_126.png",
+      "bbox": [
+        1194,
+        267,
+        19,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase2_selva_tropical_127.png",
+      "bbox": [
+        280,
+        272,
+        28,
+        25
+      ],
+      "area": 227
+    },
+    {
+      "file": "fase2_selva_tropical_128.png",
+      "bbox": [
+        1190,
+        272,
+        46,
+        36
+      ],
+      "area": 554
+    },
+    {
+      "file": "fase2_selva_tropical_129.png",
+      "bbox": [
+        388,
+        275,
+        20,
+        16
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase2_selva_tropical_130.png",
+      "bbox": [
+        600,
+        275,
+        24,
+        33
+      ],
+      "area": 325
+    },
+    {
+      "file": "fase2_selva_tropical_131.png",
+      "bbox": [
+        1103,
+        275,
+        9,
+        15
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_132.png",
+      "bbox": [
+        143,
+        277,
+        24,
+        19
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase2_selva_tropical_133.png",
+      "bbox": [
+        120,
+        278,
+        16,
+        20
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase2_selva_tropical_134.png",
+      "bbox": [
+        1176,
+        280,
+        18,
+        10
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_135.png",
+      "bbox": [
+        1191,
+        280,
+        23,
+        13
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase2_selva_tropical_136.png",
+      "bbox": [
+        592,
+        284,
+        14,
+        9
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_137.png",
+      "bbox": [
+        1141,
+        284,
+        17,
+        12
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_138.png",
+      "bbox": [
+        339,
+        286,
+        12,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_139.png",
+      "bbox": [
+        228,
+        287,
+        16,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_140.png",
+      "bbox": [
+        289,
+        287,
+        29,
+        21
+      ],
+      "area": 191
+    },
+    {
+      "file": "fase2_selva_tropical_141.png",
+      "bbox": [
+        1163,
+        288,
+        31,
+        20
+      ],
+      "area": 256
+    },
+    {
+      "file": "fase2_selva_tropical_142.png",
+      "bbox": [
+        577,
+        289,
+        13,
+        13
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_143.png",
+      "bbox": [
+        161,
+        291,
+        13,
+        15
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_144.png",
+      "bbox": [
+        324,
+        291,
+        14,
+        16
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_145.png",
+      "bbox": [
+        348,
+        293,
+        22,
+        15
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase2_selva_tropical_146.png",
+      "bbox": [
+        583,
+        299,
+        19,
+        9
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_147.png",
+      "bbox": [
+        16,
+        313,
+        98,
+        92
+      ],
+      "area": 5930
+    },
+    {
+      "file": "fase2_selva_tropical_148.png",
+      "bbox": [
+        120,
+        313,
+        95,
+        77
+      ],
+      "area": 4742
+    },
+    {
+      "file": "fase2_selva_tropical_149.png",
+      "bbox": [
+        221,
+        313,
+        97,
+        80
+      ],
+      "area": 5069
+    },
+    {
+      "file": "fase2_selva_tropical_150.png",
+      "bbox": [
+        324,
+        313,
+        96,
+        61
+      ],
+      "area": 3580
+    },
+    {
+      "file": "fase2_selva_tropical_151.png",
+      "bbox": [
+        427,
+        313,
+        96,
+        96
+      ],
+      "area": 6850
+    },
+    {
+      "file": "fase2_selva_tropical_152.png",
+      "bbox": [
+        630,
+        313,
+        96,
+        78
+      ],
+      "area": 2742
+    },
+    {
+      "file": "fase2_selva_tropical_153.png",
+      "bbox": [
+        905,
+        313,
+        17,
+        10
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_154.png",
+      "bbox": [
+        935,
+        313,
+        96,
+        96
+      ],
+      "area": 5230
+    },
+    {
+      "file": "fase2_selva_tropical_155.png",
+      "bbox": [
+        1140,
+        313,
+        99,
+        96
+      ],
+      "area": 5314
+    },
+    {
+      "file": "fase2_selva_tropical_156.png",
+      "bbox": [
+        529,
+        314,
+        17,
+        14
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase2_selva_tropical_157.png",
+      "bbox": [
+        738,
+        314,
+        21,
+        12
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase2_selva_tropical_158.png",
+      "bbox": [
+        834,
+        314,
+        95,
+        70
+      ],
+      "area": 3264
+    },
+    {
+      "file": "fase2_selva_tropical_159.png",
+      "bbox": [
+        1042,
+        314,
+        16,
+        9
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_160.png",
+      "bbox": [
+        761,
+        315,
+        36,
+        21
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase2_selva_tropical_161.png",
+      "bbox": [
+        1019,
+        315,
+        12,
+        16
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_162.png",
+      "bbox": [
+        1038,
+        315,
+        94,
+        94
+      ],
+      "area": 5208
+    },
+    {
+      "file": "fase2_selva_tropical_163.png",
+      "bbox": [
+        565,
+        317,
+        25,
+        18
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase2_selva_tropical_164.png",
+      "bbox": [
+        542,
+        322,
+        13,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_165.png",
+      "bbox": [
+        784,
+        323,
+        28,
+        10
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_166.png",
+      "bbox": [
+        598,
+        324,
+        26,
+        50
+      ],
+      "area": 402
+    },
+    {
+      "file": "fase2_selva_tropical_167.png",
+      "bbox": [
+        529,
+        325,
+        19,
+        21
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase2_selva_tropical_168.png",
+      "bbox": [
+        582,
+        325,
+        26,
+        17
+      ],
+      "area": 155
+    },
+    {
+      "file": "fase2_selva_tropical_169.png",
+      "bbox": [
+        545,
+        326,
+        19,
+        17
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase2_selva_tropical_170.png",
+      "bbox": [
+        803,
+        331,
+        18,
+        14
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_171.png",
+      "bbox": [
+        750,
+        334,
+        14,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_172.png",
+      "bbox": [
+        789,
+        335,
+        16,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_173.png",
+      "bbox": [
+        732,
+        336,
+        31,
+        20
+      ],
+      "area": 155
+    },
+    {
+      "file": "fase2_selva_tropical_174.png",
+      "bbox": [
+        762,
+        336,
+        21,
+        15
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase2_selva_tropical_175.png",
+      "bbox": [
+        529,
+        343,
+        19,
+        15
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_176.png",
+      "bbox": [
+        777,
+        344,
+        13,
+        10
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_177.png",
+      "bbox": [
+        559,
+        345,
+        14,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_178.png",
+      "bbox": [
+        659,
+        349,
+        17,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_179.png",
+      "bbox": [
+        685,
+        357,
+        16,
+        13
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_180.png",
+      "bbox": [
+        532,
+        358,
+        27,
+        12
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase2_selva_tropical_181.png",
+      "bbox": [
+        571,
+        358,
+        11,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_182.png",
+      "bbox": [
+        764,
+        358,
+        35,
+        26
+      ],
+      "area": 313
+    },
+    {
+      "file": "fase2_selva_tropical_183.png",
+      "bbox": [
+        326,
+        359,
+        90,
+        46
+      ],
+      "area": 1817
+    },
+    {
+      "file": "fase2_selva_tropical_184.png",
+      "bbox": [
+        594,
+        365,
+        30,
+        33
+      ],
+      "area": 368
+    },
+    {
+      "file": "fase2_selva_tropical_185.png",
+      "bbox": [
+        533,
+        367,
+        26,
+        18
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase2_selva_tropical_186.png",
+      "bbox": [
+        748,
+        367,
+        18,
+        16
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase2_selva_tropical_187.png",
+      "bbox": [
+        791,
+        368,
+        20,
+        21
+      ],
+      "area": 173
+    },
+    {
+      "file": "fase2_selva_tropical_188.png",
+      "bbox": [
+        811,
+        369,
+        16,
+        9
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_189.png",
+      "bbox": [
+        835,
+        374,
+        32,
+        34
+      ],
+      "area": 408
+    },
+    {
+      "file": "fase2_selva_tropical_190.png",
+      "bbox": [
+        266,
+        375,
+        28,
+        26
+      ],
+      "area": 230
+    },
+    {
+      "file": "fase2_selva_tropical_191.png",
+      "bbox": [
+        867,
+        375,
+        12,
+        15
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_192.png",
+      "bbox": [
+        292,
+        376,
+        19,
+        13
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_193.png",
+      "bbox": [
+        395,
+        376,
+        18,
+        11
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_194.png",
+      "bbox": [
+        659,
+        377,
+        22,
+        16
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase2_selva_tropical_195.png",
+      "bbox": [
+        984,
+        377,
+        11,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_196.png",
+      "bbox": [
+        529,
+        378,
+        27,
+        28
+      ],
+      "area": 274
+    },
+    {
+      "file": "fase2_selva_tropical_197.png",
+      "bbox": [
+        325,
+        381,
+        20,
+        24
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase2_selva_tropical_198.png",
+      "bbox": [
+        678,
+        381,
+        14,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_199.png",
+      "bbox": [
+        780,
+        381,
+        48,
+        28
+      ],
+      "area": 354
+    },
+    {
+      "file": "fase2_selva_tropical_200.png",
+      "bbox": [
+        778,
+        382,
+        22,
+        17
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase2_selva_tropical_201.png",
+      "bbox": [
+        905,
+        382,
+        24,
+        26
+      ],
+      "area": 187
+    },
+    {
+      "file": "fase2_selva_tropical_202.png",
+      "bbox": [
+        663,
+        385,
+        62,
+        24
+      ],
+      "area": 598
+    },
+    {
+      "file": "fase2_selva_tropical_203.png",
+      "bbox": [
+        743,
+        385,
+        16,
+        15
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_204.png",
+      "bbox": [
+        632,
+        386,
+        22,
+        23
+      ],
+      "area": 207
+    },
+    {
+      "file": "fase2_selva_tropical_205.png",
+      "bbox": [
+        854,
+        386,
+        50,
+        23
+      ],
+      "area": 318
+    },
+    {
+      "file": "fase2_selva_tropical_206.png",
+      "bbox": [
+        142,
+        387,
+        17,
+        10
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_207.png",
+      "bbox": [
+        188,
+        387,
+        14,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_208.png",
+      "bbox": [
+        253,
+        387,
+        14,
+        9
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_209.png",
+      "bbox": [
+        64,
+        389,
+        17,
+        12
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase2_selva_tropical_210.png",
+      "bbox": [
+        33,
+        390,
+        25,
+        19
+      ],
+      "area": 158
+    },
+    {
+      "file": "fase2_selva_tropical_211.png",
+      "bbox": [
+        232,
+        390,
+        13,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_212.png",
+      "bbox": [
+        584,
+        390,
+        16,
+        17
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase2_selva_tropical_213.png",
+      "bbox": [
+        1081,
+        391,
+        12,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_214.png",
+      "bbox": [
+        1225,
+        391,
+        14,
+        16
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_215.png",
+      "bbox": [
+        295,
+        392,
+        16,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_216.png",
+      "bbox": [
+        547,
+        394,
+        29,
+        15
+      ],
+      "area": 169
+    },
+    {
+      "file": "fase2_selva_tropical_217.png",
+      "bbox": [
+        651,
+        394,
+        17,
+        15
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_218.png",
+      "bbox": [
+        735,
+        394,
+        19,
+        14
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_219.png",
+      "bbox": [
+        198,
+        395,
+        13,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_220.png",
+      "bbox": [
+        49,
+        397,
+        17,
+        10
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_221.png",
+      "bbox": [
+        244,
+        397,
+        19,
+        11
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_222.png",
+      "bbox": [
+        350,
+        397,
+        16,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_223.png",
+      "bbox": [
+        759,
+        398,
+        15,
+        10
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_224.png",
+      "bbox": [
+        972,
+        398,
+        13,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_225.png",
+      "bbox": [
+        887,
+        399,
+        19,
+        10
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_226.png",
+      "bbox": [
+        333,
+        439,
+        12,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_227.png",
+      "bbox": [
+        1159,
+        444,
+        11,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_228.png",
+      "bbox": [
+        510,
+        446,
+        15,
+        14
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_229.png",
+      "bbox": [
+        1074,
+        450,
+        13,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_230.png",
+      "bbox": [
+        798,
+        451,
+        16,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_231.png",
+      "bbox": [
+        94,
+        469,
+        11,
+        14
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_232.png",
+      "bbox": [
+        155,
+        512,
+        11,
+        14
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_233.png",
+      "bbox": [
+        685,
+        521,
+        26,
+        21
+      ],
+      "area": 182
+    },
+    {
+      "file": "fase2_selva_tropical_234.png",
+      "bbox": [
+        802,
+        521,
+        34,
+        31
+      ],
+      "area": 284
+    },
+    {
+      "file": "fase2_selva_tropical_235.png",
+      "bbox": [
+        150,
+        523,
+        11,
+        17
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_236.png",
+      "bbox": [
+        725,
+        523,
+        22,
+        24
+      ],
+      "area": 182
+    },
+    {
+      "file": "fase2_selva_tropical_237.png",
+      "bbox": [
+        575,
+        524,
+        14,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_238.png",
+      "bbox": [
+        362,
+        525,
+        20,
+        24
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase2_selva_tropical_239.png",
+      "bbox": [
+        232,
+        527,
+        20,
+        21
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase2_selva_tropical_240.png",
+      "bbox": [
+        512,
+        527,
+        21,
+        20
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase2_selva_tropical_241.png",
+      "bbox": [
+        315,
+        528,
+        14,
+        20
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase2_selva_tropical_242.png",
+      "bbox": [
+        612,
+        528,
+        16,
+        14
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_243.png",
+      "bbox": [
+        182,
+        529,
+        11,
+        14
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_244.png",
+      "bbox": [
+        258,
+        531,
+        31,
+        21
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase2_selva_tropical_245.png",
+      "bbox": [
+        468,
+        531,
+        25,
+        26
+      ],
+      "area": 181
+    },
+    {
+      "file": "fase2_selva_tropical_246.png",
+      "bbox": [
+        54,
+        532,
+        12,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_247.png",
+      "bbox": [
+        407,
+        533,
+        13,
+        21
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase2_selva_tropical_248.png",
+      "bbox": [
+        572,
+        535,
+        17,
+        14
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_249.png",
+      "bbox": [
+        622,
+        535,
+        17,
+        18
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase2_selva_tropical_250.png",
+      "bbox": [
+        682,
+        535,
+        16,
+        15
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase2_selva_tropical_251.png",
+      "bbox": [
+        784,
+        537,
+        21,
+        19
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase2_selva_tropical_252.png",
+      "bbox": [
+        1013,
+        537,
+        10,
+        17
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_253.png",
+      "bbox": [
+        246,
+        539,
+        15,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_254.png",
+      "bbox": [
+        324,
+        539,
+        22,
+        16
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase2_selva_tropical_255.png",
+      "bbox": [
+        554,
+        539,
+        16,
+        14
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase2_selva_tropical_256.png",
+      "bbox": [
+        662,
+        539,
+        21,
+        18
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase2_selva_tropical_257.png",
+      "bbox": [
+        757,
+        540,
+        11,
+        16
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_258.png",
+      "bbox": [
+        74,
+        541,
+        23,
+        26
+      ],
+      "area": 215
+    },
+    {
+      "file": "fase2_selva_tropical_259.png",
+      "bbox": [
+        345,
+        542,
+        18,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_260.png",
+      "bbox": [
+        640,
+        543,
+        23,
+        13
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_261.png",
+      "bbox": [
+        768,
+        543,
+        18,
+        15
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase2_selva_tropical_262.png",
+      "bbox": [
+        41,
+        544,
+        16,
+        11
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_263.png",
+      "bbox": [
+        182,
+        544,
+        33,
+        20
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase2_selva_tropical_264.png",
+      "bbox": [
+        1119,
+        545,
+        15,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_265.png",
+      "bbox": [
+        137,
+        546,
+        13,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_266.png",
+      "bbox": [
+        1220,
+        547,
+        13,
+        15
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_267.png",
+      "bbox": [
+        444,
+        548,
+        23,
+        13
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase2_selva_tropical_268.png",
+      "bbox": [
+        1021,
+        549,
+        14,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_269.png",
+      "bbox": [
+        864,
+        551,
+        15,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_270.png",
+      "bbox": [
+        41,
+        552,
+        17,
+        11
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_271.png",
+      "bbox": [
+        964,
+        552,
+        25,
+        20
+      ],
+      "area": 163
+    },
+    {
+      "file": "fase2_selva_tropical_272.png",
+      "bbox": [
+        164,
+        554,
+        20,
+        12
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_273.png",
+      "bbox": [
+        1148,
+        555,
+        20,
+        19
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase2_selva_tropical_274.png",
+      "bbox": [
+        59,
+        557,
+        11,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_275.png",
+      "bbox": [
+        1220,
+        559,
+        15,
+        14
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_276.png",
+      "bbox": [
+        28,
+        573,
+        56,
+        73
+      ],
+      "area": 1049
+    },
+    {
+      "file": "fase2_selva_tropical_277.png",
+      "bbox": [
+        257,
+        573,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_278.png",
+      "bbox": [
+        422,
+        573,
+        26,
+        15
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase2_selva_tropical_279.png",
+      "bbox": [
+        243,
+        576,
+        20,
+        24
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase2_selva_tropical_280.png",
+      "bbox": [
+        144,
+        578,
+        46,
+        44
+      ],
+      "area": 681
+    },
+    {
+      "file": "fase2_selva_tropical_281.png",
+      "bbox": [
+        690,
+        578,
+        56,
+        77
+      ],
+      "area": 1196
+    },
+    {
+      "file": "fase2_selva_tropical_282.png",
+      "bbox": [
+        801,
+        578,
+        34,
+        25
+      ],
+      "area": 329
+    },
+    {
+      "file": "fase2_selva_tropical_283.png",
+      "bbox": [
+        270,
+        580,
+        17,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_284.png",
+      "bbox": [
+        408,
+        581,
+        37,
+        58
+      ],
+      "area": 833
+    },
+    {
+      "file": "fase2_selva_tropical_285.png",
+      "bbox": [
+        506,
+        581,
+        43,
+        24
+      ],
+      "area": 397
+    },
+    {
+      "file": "fase2_selva_tropical_286.png",
+      "bbox": [
+        832,
+        582,
+        23,
+        25
+      ],
+      "area": 236
+    },
+    {
+      "file": "fase2_selva_tropical_287.png",
+      "bbox": [
+        322,
+        583,
+        34,
+        36
+      ],
+      "area": 432
+    },
+    {
+      "file": "fase2_selva_tropical_288.png",
+      "bbox": [
+        259,
+        588,
+        12,
+        15
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_289.png",
+      "bbox": [
+        623,
+        588,
+        35,
+        20
+      ],
+      "area": 340
+    },
+    {
+      "file": "fase2_selva_tropical_290.png",
+      "bbox": [
+        44,
+        591,
+        18,
+        19
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_291.png",
+      "bbox": [
+        507,
+        597,
+        39,
+        21
+      ],
+      "area": 285
+    },
+    {
+      "file": "fase2_selva_tropical_292.png",
+      "bbox": [
+        800,
+        598,
+        14,
+        16
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase2_selva_tropical_293.png",
+      "bbox": [
+        1045,
+        599,
+        19,
+        17
+      ],
+      "area": 147
+    },
+    {
+      "file": "fase2_selva_tropical_294.png",
+      "bbox": [
+        812,
+        601,
+        16,
+        16
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase2_selva_tropical_295.png",
+      "bbox": [
+        1021,
+        601,
+        26,
+        19
+      ],
+      "area": 211
+    },
+    {
+      "file": "fase2_selva_tropical_296.png",
+      "bbox": [
+        263,
+        602,
+        11,
+        14
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_297.png",
+      "bbox": [
+        825,
+        602,
+        15,
+        14
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_298.png",
+      "bbox": [
+        924,
+        603,
+        24,
+        25
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase2_selva_tropical_299.png",
+      "bbox": [
+        251,
+        605,
+        11,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_300.png",
+      "bbox": [
+        1060,
+        605,
+        26,
+        20
+      ],
+      "area": 194
+    },
+    {
+      "file": "fase2_selva_tropical_301.png",
+      "bbox": [
+        651,
+        606,
+        21,
+        24
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase2_selva_tropical_302.png",
+      "bbox": [
+        844,
+        606,
+        29,
+        30
+      ],
+      "area": 331
+    },
+    {
+      "file": "fase2_selva_tropical_303.png",
+      "bbox": [
+        933,
+        606,
+        25,
+        30
+      ],
+      "area": 281
+    },
+    {
+      "file": "fase2_selva_tropical_304.png",
+      "bbox": [
+        155,
+        607,
+        15,
+        18
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase2_selva_tropical_305.png",
+      "bbox": [
+        319,
+        607,
+        28,
+        39
+      ],
+      "area": 334
+    },
+    {
+      "file": "fase2_selva_tropical_306.png",
+      "bbox": [
+        171,
+        608,
+        9,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_307.png",
+      "bbox": [
+        611,
+        608,
+        32,
+        28
+      ],
+      "area": 317
+    },
+    {
+      "file": "fase2_selva_tropical_308.png",
+      "bbox": [
+        47,
+        609,
+        14,
+        15
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_309.png",
+      "bbox": [
+        406,
+        610,
+        14,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase2_selva_tropical_310.png",
+      "bbox": [
+        521,
+        612,
+        24,
+        17
+      ],
+      "area": 130
+    },
+    {
+      "file": "fase2_selva_tropical_311.png",
+      "bbox": [
+        548,
+        612,
+        14,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_312.png",
+      "bbox": [
+        808,
+        612,
+        11,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_313.png",
+      "bbox": [
+        794,
+        613,
+        21,
+        25
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase2_selva_tropical_314.png",
+      "bbox": [
+        999,
+        613,
+        27,
+        25
+      ],
+      "area": 232
+    },
+    {
+      "file": "fase2_selva_tropical_315.png",
+      "bbox": [
+        265,
+        614,
+        10,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_316.png",
+      "bbox": [
+        251,
+        615,
+        13,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_317.png",
+      "bbox": [
+        817,
+        615,
+        23,
+        17
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase2_selva_tropical_318.png",
+      "bbox": [
+        341,
+        616,
+        12,
+        45
+      ],
+      "area": 218
+    },
+    {
+      "file": "fase2_selva_tropical_319.png",
+      "bbox": [
+        1137,
+        616,
+        54,
+        38
+      ],
+      "area": 780
+    },
+    {
+      "file": "fase2_selva_tropical_320.png",
+      "bbox": [
+        1043,
+        617,
+        17,
+        17
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_321.png",
+      "bbox": [
+        145,
+        618,
+        11,
+        14
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_322.png",
+      "bbox": [
+        665,
+        618,
+        27,
+        27
+      ],
+      "area": 196
+    },
+    {
+      "file": "fase2_selva_tropical_323.png",
+      "bbox": [
+        36,
+        619,
+        32,
+        33
+      ],
+      "area": 380
+    },
+    {
+      "file": "fase2_selva_tropical_324.png",
+      "bbox": [
+        171,
+        620,
+        10,
+        19
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_325.png",
+      "bbox": [
+        1076,
+        621,
+        20,
+        25
+      ],
+      "area": 242
+    },
+    {
+      "file": "fase2_selva_tropical_326.png",
+      "bbox": [
+        235,
+        622,
+        13,
+        28
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_327.png",
+      "bbox": [
+        514,
+        622,
+        17,
+        18
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_328.png",
+      "bbox": [
+        1026,
+        622,
+        14,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_329.png",
+      "bbox": [
+        858,
+        623,
+        18,
+        17
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase2_selva_tropical_330.png",
+      "bbox": [
+        151,
+        624,
+        17,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase2_selva_tropical_331.png",
+      "bbox": [
+        408,
+        624,
+        9,
+        31
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase2_selva_tropical_332.png",
+      "bbox": [
+        250,
+        626,
+        26,
+        61
+      ],
+      "area": 329
+    },
+    {
+      "file": "fase2_selva_tropical_333.png",
+      "bbox": [
+        656,
+        628,
+        12,
+        15
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_334.png",
+      "bbox": [
+        25,
+        629,
+        16,
+        48
+      ],
+      "area": 284
+    },
+    {
+      "file": "fase2_selva_tropical_335.png",
+      "bbox": [
+        164,
+        629,
+        10,
+        17
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_336.png",
+      "bbox": [
+        428,
+        629,
+        15,
+        16
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_337.png",
+      "bbox": [
+        924,
+        629,
+        15,
+        17
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase2_selva_tropical_338.png",
+      "bbox": [
+        249,
+        630,
+        18,
+        24
+      ],
+      "area": 172
+    },
+    {
+      "file": "fase2_selva_tropical_339.png",
+      "bbox": [
+        815,
+        631,
+        11,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_340.png",
+      "bbox": [
+        143,
+        632,
+        11,
+        19
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase2_selva_tropical_341.png",
+      "bbox": [
+        848,
+        632,
+        27,
+        18
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase2_selva_tropical_342.png",
+      "bbox": [
+        941,
+        632,
+        16,
+        18
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase2_selva_tropical_343.png",
+      "bbox": [
+        1039,
+        632,
+        18,
+        21
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase2_selva_tropical_344.png",
+      "bbox": [
+        1065,
+        632,
+        12,
+        14
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_345.png",
+      "bbox": [
+        319,
+        633,
+        21,
+        34
+      ],
+      "area": 253
+    },
+    {
+      "file": "fase2_selva_tropical_346.png",
+      "bbox": [
+        553,
+        633,
+        13,
+        17
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase2_selva_tropical_347.png",
+      "bbox": [
+        1026,
+        633,
+        14,
+        22
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase2_selva_tropical_348.png",
+      "bbox": [
+        529,
+        634,
+        13,
+        15
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_349.png",
+      "bbox": [
+        672,
+        634,
+        14,
+        14
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_350.png",
+      "bbox": [
+        563,
+        635,
+        24,
+        18
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase2_selva_tropical_351.png",
+      "bbox": [
+        1056,
+        635,
+        11,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_352.png",
+      "bbox": [
+        151,
+        636,
+        22,
+        17
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase2_selva_tropical_353.png",
+      "bbox": [
+        994,
+        637,
+        19,
+        16
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase2_selva_tropical_354.png",
+      "bbox": [
+        605,
+        638,
+        16,
+        18
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase2_selva_tropical_355.png",
+      "bbox": [
+        683,
+        638,
+        27,
+        23
+      ],
+      "area": 297
+    },
+    {
+      "file": "fase2_selva_tropical_356.png",
+      "bbox": [
+        788,
+        638,
+        13,
+        18
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_357.png",
+      "bbox": [
+        882,
+        638,
+        13,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_358.png",
+      "bbox": [
+        171,
+        639,
+        9,
+        15
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_359.png",
+      "bbox": [
+        617,
+        641,
+        15,
+        20
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase2_selva_tropical_360.png",
+      "bbox": [
+        414,
+        642,
+        18,
+        20
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase2_selva_tropical_361.png",
+      "bbox": [
+        507,
+        642,
+        14,
+        19
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_362.png",
+      "bbox": [
+        521,
+        642,
+        10,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_363.png",
+      "bbox": [
+        655,
+        642,
+        14,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_364.png",
+      "bbox": [
+        869,
+        642,
+        16,
+        19
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase2_selva_tropical_365.png",
+      "bbox": [
+        814,
+        643,
+        12,
+        26
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase2_selva_tropical_366.png",
+      "bbox": [
+        1043,
+        643,
+        15,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_367.png",
+      "bbox": [
+        841,
+        644,
+        11,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_368.png",
+      "bbox": [
+        1079,
+        644,
+        17,
+        14
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase2_selva_tropical_369.png",
+      "bbox": [
+        491,
+        645,
+        19,
+        23
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase2_selva_tropical_370.png",
+      "bbox": [
+        529,
+        645,
+        13,
+        14
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_371.png",
+      "bbox": [
+        709,
+        645,
+        26,
+        20
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase2_selva_tropical_372.png",
+      "bbox": [
+        849,
+        645,
+        13,
+        13
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_373.png",
+      "bbox": [
+        1013,
+        646,
+        12,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_374.png",
+      "bbox": [
+        1116,
+        646,
+        42,
+        41
+      ],
+      "area": 493
+    },
+    {
+      "file": "fase2_selva_tropical_375.png",
+      "bbox": [
+        860,
+        648,
+        9,
+        14
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_376.png",
+      "bbox": [
+        1179,
+        648,
+        29,
+        25
+      ],
+      "area": 232
+    },
+    {
+      "file": "fase2_selva_tropical_377.png",
+      "bbox": [
+        65,
+        649,
+        9,
+        17
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_378.png",
+      "bbox": [
+        996,
+        650,
+        18,
+        19
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase2_selva_tropical_379.png",
+      "bbox": [
+        1067,
+        650,
+        26,
+        21
+      ],
+      "area": 169
+    },
+    {
+      "file": "fase2_selva_tropical_380.png",
+      "bbox": [
+        927,
+        652,
+        14,
+        18
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_381.png",
+      "bbox": [
+        1028,
+        652,
+        17,
+        23
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase2_selva_tropical_382.png",
+      "bbox": [
+        171,
+        653,
+        9,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_383.png",
+      "bbox": [
+        555,
+        653,
+        13,
+        9
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_384.png",
+      "bbox": [
+        606,
+        653,
+        17,
+        15
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_385.png",
+      "bbox": [
+        731,
+        653,
+        15,
+        16
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_386.png",
+      "bbox": [
+        1149,
+        653,
+        31,
+        30
+      ],
+      "area": 394
+    },
+    {
+      "file": "fase2_selva_tropical_387.png",
+      "bbox": [
+        677,
+        654,
+        26,
+        37
+      ],
+      "area": 429
+    },
+    {
+      "file": "fase2_selva_tropical_388.png",
+      "bbox": [
+        786,
+        654,
+        19,
+        14
+      ],
+      "area": 118
+    },
+    {
+      "file": "fase2_selva_tropical_389.png",
+      "bbox": [
+        942,
+        654,
+        15,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_390.png",
+      "bbox": [
+        564,
+        655,
+        16,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_391.png",
+      "bbox": [
+        841,
+        655,
+        11,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_392.png",
+      "bbox": [
+        527,
+        656,
+        16,
+        16
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase2_selva_tropical_393.png",
+      "bbox": [
+        850,
+        656,
+        11,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_394.png",
+      "bbox": [
+        1196,
+        657,
+        28,
+        36
+      ],
+      "area": 190
+    },
+    {
+      "file": "fase2_selva_tropical_395.png",
+      "bbox": [
+        319,
+        658,
+        34,
+        33
+      ],
+      "area": 300
+    },
+    {
+      "file": "fase2_selva_tropical_396.png",
+      "bbox": [
+        620,
+        658,
+        12,
+        15
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_397.png",
+      "bbox": [
+        873,
+        658,
+        14,
+        10
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_398.png",
+      "bbox": [
+        1083,
+        658,
+        25,
+        41
+      ],
+      "area": 304
+    },
+    {
+      "file": "fase2_selva_tropical_399.png",
+      "bbox": [
+        503,
+        659,
+        14,
+        17
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase2_selva_tropical_400.png",
+      "bbox": [
+        633,
+        659,
+        26,
+        30
+      ],
+      "area": 292
+    },
+    {
+      "file": "fase2_selva_tropical_401.png",
+      "bbox": [
+        712,
+        659,
+        22,
+        19
+      ],
+      "area": 167
+    },
+    {
+      "file": "fase2_selva_tropical_402.png",
+      "bbox": [
+        433,
+        661,
+        9,
+        17
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_403.png",
+      "bbox": [
+        812,
+        663,
+        31,
+        26
+      ],
+      "area": 294
+    },
+    {
+      "file": "fase2_selva_tropical_404.png",
+      "bbox": [
+        939,
+        663,
+        18,
+        15
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase2_selva_tropical_405.png",
+      "bbox": [
+        1027,
+        663,
+        50,
+        34
+      ],
+      "area": 487
+    },
+    {
+      "file": "fase2_selva_tropical_406.png",
+      "bbox": [
+        599,
+        664,
+        22,
+        32
+      ],
+      "area": 202
+    },
+    {
+      "file": "fase2_selva_tropical_407.png",
+      "bbox": [
+        1003,
+        664,
+        15,
+        14
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_408.png",
+      "bbox": [
+        486,
+        665,
+        21,
+        19
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase2_selva_tropical_409.png",
+      "bbox": [
+        559,
+        665,
+        19,
+        15
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_410.png",
+      "bbox": [
+        783,
+        665,
+        19,
+        17
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase2_selva_tropical_411.png",
+      "bbox": [
+        866,
+        665,
+        20,
+        15
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase2_selva_tropical_412.png",
+      "bbox": [
+        165,
+        666,
+        15,
+        17
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_413.png",
+      "bbox": [
+        733,
+        666,
+        13,
+        17
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase2_selva_tropical_414.png",
+      "bbox": [
+        915,
+        666,
+        20,
+        33
+      ],
+      "area": 260
+    },
+    {
+      "file": "fase2_selva_tropical_415.png",
+      "bbox": [
+        153,
+        667,
+        15,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_416.png",
+      "bbox": [
+        535,
+        667,
+        23,
+        15
+      ],
+      "area": 151
+    },
+    {
+      "file": "fase2_selva_tropical_417.png",
+      "bbox": [
+        615,
+        668,
+        17,
+        19
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_418.png",
+      "bbox": [
+        1066,
+        669,
+        19,
+        17
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_419.png",
+      "bbox": [
+        1184,
+        669,
+        18,
+        15
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase2_selva_tropical_420.png",
+      "bbox": [
+        1009,
+        670,
+        22,
+        17
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase2_selva_tropical_421.png",
+      "bbox": [
+        22,
+        671,
+        15,
+        18
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase2_selva_tropical_422.png",
+      "bbox": [
+        139,
+        671,
+        13,
+        17
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_423.png",
+      "bbox": [
+        1028,
+        671,
+        27,
+        10
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_424.png",
+      "bbox": [
+        46,
+        672,
+        25,
+        14
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase2_selva_tropical_425.png",
+      "bbox": [
+        710,
+        672,
+        14,
+        17
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_426.png",
+      "bbox": [
+        836,
+        672,
+        22,
+        20
+      ],
+      "area": 145
+    },
+    {
+      "file": "fase2_selva_tropical_427.png",
+      "bbox": [
+        936,
+        672,
+        21,
+        18
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase2_selva_tropical_428.png",
+      "bbox": [
+        498,
+        673,
+        38,
+        19
+      ],
+      "area": 298
+    },
+    {
+      "file": "fase2_selva_tropical_429.png",
+      "bbox": [
+        972,
+        673,
+        11,
+        17
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_430.png",
+      "bbox": [
+        647,
+        675,
+        28,
+        26
+      ],
+      "area": 312
+    },
+    {
+      "file": "fase2_selva_tropical_431.png",
+      "bbox": [
+        721,
+        675,
+        25,
+        22
+      ],
+      "area": 197
+    },
+    {
+      "file": "fase2_selva_tropical_432.png",
+      "bbox": [
+        150,
+        676,
+        31,
+        24
+      ],
+      "area": 199
+    },
+    {
+      "file": "fase2_selva_tropical_433.png",
+      "bbox": [
+        415,
+        677,
+        15,
+        14
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase2_selva_tropical_434.png",
+      "bbox": [
+        874,
+        677,
+        11,
+        17
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_435.png",
+      "bbox": [
+        34,
+        678,
+        31,
+        21
+      ],
+      "area": 210
+    },
+    {
+      "file": "fase2_selva_tropical_436.png",
+      "bbox": [
+        745,
+        678,
+        25,
+        26
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase2_selva_tropical_437.png",
+      "bbox": [
+        314,
+        679,
+        17,
+        11
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_438.png",
+      "bbox": [
+        772,
+        679,
+        17,
+        16
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase2_selva_tropical_439.png",
+      "bbox": [
+        879,
+        679,
+        27,
+        25
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase2_selva_tropical_440.png",
+      "bbox": [
+        996,
+        679,
+        20,
+        20
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase2_selva_tropical_441.png",
+      "bbox": [
+        125,
+        680,
+        28,
+        25
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase2_selva_tropical_442.png",
+      "bbox": [
+        390,
+        680,
+        17,
+        22
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_443.png",
+      "bbox": [
+        799,
+        680,
+        34,
+        24
+      ],
+      "area": 303
+    },
+    {
+      "file": "fase2_selva_tropical_444.png",
+      "bbox": [
+        576,
+        681,
+        20,
+        22
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase2_selva_tropical_445.png",
+      "bbox": [
+        1140,
+        681,
+        15,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_446.png",
+      "bbox": [
+        430,
+        682,
+        14,
+        17
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_447.png",
+      "bbox": [
+        623,
+        682,
+        18,
+        18
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_448.png",
+      "bbox": [
+        696,
+        682,
+        13,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_449.png",
+      "bbox": [
+        1149,
+        683,
+        24,
+        17
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase2_selva_tropical_450.png",
+      "bbox": [
+        251,
+        684,
+        13,
+        14
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_451.png",
+      "bbox": [
+        1174,
+        684,
+        12,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_452.png",
+      "bbox": [
+        196,
+        685,
+        21,
+        19
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase2_selva_tropical_453.png",
+      "bbox": [
+        330,
+        685,
+        24,
+        20
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase2_selva_tropical_454.png",
+      "bbox": [
+        671,
+        685,
+        24,
+        28
+      ],
+      "area": 232
+    },
+    {
+      "file": "fase2_selva_tropical_455.png",
+      "bbox": [
+        946,
+        685,
+        26,
+        16
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase2_selva_tropical_456.png",
+      "bbox": [
+        16,
+        686,
+        15,
+        17
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_457.png",
+      "bbox": [
+        710,
+        686,
+        17,
+        11
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_458.png",
+      "bbox": [
+        230,
+        687,
+        12,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_459.png",
+      "bbox": [
+        284,
+        687,
+        18,
+        17
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase2_selva_tropical_460.png",
+      "bbox": [
+        360,
+        687,
+        19,
+        19
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase2_selva_tropical_461.png",
+      "bbox": [
+        532,
+        687,
+        41,
+        19
+      ],
+      "area": 278
+    },
+    {
+      "file": "fase2_selva_tropical_462.png",
+      "bbox": [
+        63,
+        688,
+        13,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_463.png",
+      "bbox": [
+        262,
+        688,
+        15,
+        15
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_464.png",
+      "bbox": [
+        441,
+        688,
+        34,
+        22
+      ],
+      "area": 193
+    },
+    {
+      "file": "fase2_selva_tropical_465.png",
+      "bbox": [
+        861,
+        689,
+        20,
+        17
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase2_selva_tropical_466.png",
+      "bbox": [
+        1160,
+        689,
+        16,
+        16
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase2_selva_tropical_467.png",
+      "bbox": [
+        492,
+        690,
+        22,
+        14
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase2_selva_tropical_468.png",
+      "bbox": [
+        829,
+        691,
+        31,
+        25
+      ],
+      "area": 246
+    },
+    {
+      "file": "fase2_selva_tropical_469.png",
+      "bbox": [
+        728,
+        692,
+        11,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_470.png",
+      "bbox": [
+        635,
+        693,
+        15,
+        13
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase2_selva_tropical_471.png",
+      "bbox": [
+        788,
+        693,
+        19,
+        16
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase2_selva_tropical_472.png",
+      "bbox": [
+        29,
+        694,
+        15,
+        15
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_473.png",
+      "bbox": [
+        408,
+        694,
+        17,
+        13
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_474.png",
+      "bbox": [
+        1065,
+        695,
+        21,
+        15
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_475.png",
+      "bbox": [
+        520,
+        696,
+        13,
+        9
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_476.png",
+      "bbox": [
+        689,
+        696,
+        18,
+        17
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_477.png",
+      "bbox": [
+        148,
+        697,
+        16,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_478.png",
+      "bbox": [
+        540,
+        697,
+        14,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_479.png",
+      "bbox": [
+        647,
+        697,
+        14,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_480.png",
+      "bbox": [
+        324,
+        698,
+        18,
+        9
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_481.png",
+      "bbox": [
+        179,
+        699,
+        19,
+        11
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_482.png",
+      "bbox": [
+        271,
+        700,
+        12,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_483.png",
+      "bbox": [
+        425,
+        700,
+        15,
+        10
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_484.png",
+      "bbox": [
+        810,
+        701,
+        25,
+        14
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase2_selva_tropical_485.png",
+      "bbox": [
+        77,
+        702,
+        13,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_486.png",
+      "bbox": [
+        667,
+        702,
+        12,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_487.png",
+      "bbox": [
+        1041,
+        703,
+        15,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_488.png",
+      "bbox": [
+        382,
+        721,
+        22,
+        16
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_489.png",
+      "bbox": [
+        207,
+        727,
+        17,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_490.png",
+      "bbox": [
+        49,
+        729,
+        15,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_491.png",
+      "bbox": [
+        351,
+        733,
+        28,
+        18
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase2_selva_tropical_492.png",
+      "bbox": [
+        192,
+        734,
+        33,
+        25
+      ],
+      "area": 234
+    },
+    {
+      "file": "fase2_selva_tropical_493.png",
+      "bbox": [
+        221,
+        734,
+        19,
+        15
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_494.png",
+      "bbox": [
+        13,
+        737,
+        83,
+        78
+      ],
+      "area": 2243
+    },
+    {
+      "file": "fase2_selva_tropical_495.png",
+      "bbox": [
+        635,
+        738,
+        19,
+        12
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase2_selva_tropical_496.png",
+      "bbox": [
+        726,
+        738,
+        16,
+        13
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase2_selva_tropical_497.png",
+      "bbox": [
+        79,
+        741,
+        12,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_498.png",
+      "bbox": [
+        180,
+        743,
+        13,
+        14
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_499.png",
+      "bbox": [
+        1117,
+        744,
+        17,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_500.png",
+      "bbox": [
+        220,
+        745,
+        18,
+        23
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase2_selva_tropical_501.png",
+      "bbox": [
+        1067,
+        745,
+        16,
+        12
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_502.png",
+      "bbox": [
+        98,
+        748,
+        18,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_503.png",
+      "bbox": [
+        654,
+        752,
+        74,
+        16
+      ],
+      "area": 422
+    },
+    {
+      "file": "fase2_selva_tropical_504.png",
+      "bbox": [
+        1079,
+        752,
+        42,
+        16
+      ],
+      "area": 271
+    },
+    {
+      "file": "fase2_selva_tropical_505.png",
+      "bbox": [
+        780,
+        753,
+        15,
+        19
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase2_selva_tropical_506.png",
+      "bbox": [
+        843,
+        753,
+        15,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_507.png",
+      "bbox": [
+        909,
+        753,
+        17,
+        12
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase2_selva_tropical_508.png",
+      "bbox": [
+        179,
+        754,
+        17,
+        17
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_509.png",
+      "bbox": [
+        192,
+        754,
+        22,
+        23
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase2_selva_tropical_510.png",
+      "bbox": [
+        986,
+        755,
+        17,
+        13
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_511.png",
+      "bbox": [
+        90,
+        757,
+        14,
+        21
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_512.png",
+      "bbox": [
+        212,
+        757,
+        14,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_513.png",
+      "bbox": [
+        157,
+        758,
+        17,
+        18
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_514.png",
+      "bbox": [
+        481,
+        760,
+        14,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_515.png",
+      "bbox": [
+        222,
+        764,
+        24,
+        15
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase2_selva_tropical_516.png",
+      "bbox": [
+        321,
+        764,
+        11,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_517.png",
+      "bbox": [
+        494,
+        764,
+        23,
+        16
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase2_selva_tropical_518.png",
+      "bbox": [
+        547,
+        764,
+        15,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_519.png",
+      "bbox": [
+        164,
+        765,
+        17,
+        16
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase2_selva_tropical_520.png",
+      "bbox": [
+        638,
+        765,
+        35,
+        14
+      ],
+      "area": 190
+    },
+    {
+      "file": "fase2_selva_tropical_521.png",
+      "bbox": [
+        703,
+        765,
+        23,
+        14
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase2_selva_tropical_522.png",
+      "bbox": [
+        1081,
+        765,
+        36,
+        16
+      ],
+      "area": 263
+    },
+    {
+      "file": "fase2_selva_tropical_523.png",
+      "bbox": [
+        1183,
+        765,
+        15,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_524.png",
+      "bbox": [
+        334,
+        766,
+        22,
+        19
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase2_selva_tropical_525.png",
+      "bbox": [
+        926,
+        767,
+        34,
+        15
+      ],
+      "area": 181
+    },
+    {
+      "file": "fase2_selva_tropical_526.png",
+      "bbox": [
+        957,
+        767,
+        33,
+        15
+      ],
+      "area": 231
+    },
+    {
+      "file": "fase2_selva_tropical_527.png",
+      "bbox": [
+        998,
+        767,
+        30,
+        15
+      ],
+      "area": 185
+    },
+    {
+      "file": "fase2_selva_tropical_528.png",
+      "bbox": [
+        1029,
+        767,
+        14,
+        9
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_529.png",
+      "bbox": [
+        802,
+        769,
+        11,
+        34
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase2_selva_tropical_530.png",
+      "bbox": [
+        77,
+        771,
+        20,
+        33
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase2_selva_tropical_531.png",
+      "bbox": [
+        224,
+        773,
+        19,
+        18
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_532.png",
+      "bbox": [
+        311,
+        773,
+        39,
+        24
+      ],
+      "area": 276
+    },
+    {
+      "file": "fase2_selva_tropical_533.png",
+      "bbox": [
+        1031,
+        773,
+        12,
+        9
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_534.png",
+      "bbox": [
+        204,
+        774,
+        32,
+        33
+      ],
+      "area": 334
+    },
+    {
+      "file": "fase2_selva_tropical_535.png",
+      "bbox": [
+        519,
+        774,
+        29,
+        13
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase2_selva_tropical_536.png",
+      "bbox": [
+        183,
+        775,
+        31,
+        18
+      ],
+      "area": 177
+    },
+    {
+      "file": "fase2_selva_tropical_537.png",
+      "bbox": [
+        353,
+        775,
+        18,
+        17
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase2_selva_tropical_538.png",
+      "bbox": [
+        367,
+        775,
+        11,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_539.png",
+      "bbox": [
+        171,
+        776,
+        16,
+        9
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_540.png",
+      "bbox": [
+        670,
+        776,
+        16,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_541.png",
+      "bbox": [
+        705,
+        776,
+        16,
+        14
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_542.png",
+      "bbox": [
+        724,
+        777,
+        14,
+        11
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_543.png",
+      "bbox": [
+        1085,
+        777,
+        35,
+        15
+      ],
+      "area": 189
+    },
+    {
+      "file": "fase2_selva_tropical_544.png",
+      "bbox": [
+        684,
+        778,
+        22,
+        12
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_545.png",
+      "bbox": [
+        930,
+        779,
+        24,
+        13
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase2_selva_tropical_546.png",
+      "bbox": [
+        955,
+        779,
+        16,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_547.png",
+      "bbox": [
+        980,
+        779,
+        12,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_548.png",
+      "bbox": [
+        990,
+        779,
+        24,
+        13
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase2_selva_tropical_549.png",
+      "bbox": [
+        919,
+        780,
+        14,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_550.png",
+      "bbox": [
+        1019,
+        780,
+        11,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_551.png",
+      "bbox": [
+        1224,
+        784,
+        11,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_552.png",
+      "bbox": [
+        662,
+        787,
+        55,
+        14
+      ],
+      "area": 334
+    },
+    {
+      "file": "fase2_selva_tropical_553.png",
+      "bbox": [
+        350,
+        789,
+        12,
+        15
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_554.png",
+      "bbox": [
+        913,
+        789,
+        16,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_555.png",
+      "bbox": [
+        926,
+        789,
+        19,
+        13
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_556.png",
+      "bbox": [
+        943,
+        789,
+        20,
+        13
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase2_selva_tropical_557.png",
+      "bbox": [
+        966,
+        789,
+        37,
+        13
+      ],
+      "area": 197
+    },
+    {
+      "file": "fase2_selva_tropical_558.png",
+      "bbox": [
+        1074,
+        789,
+        23,
+        13
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_559.png",
+      "bbox": [
+        1095,
+        789,
+        13,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_560.png",
+      "bbox": [
+        373,
+        790,
+        10,
+        15
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_561.png",
+      "bbox": [
+        1015,
+        790,
+        29,
+        12
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase2_selva_tropical_562.png",
+      "bbox": [
+        358,
+        791,
+        21,
+        20
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase2_selva_tropical_563.png",
+      "bbox": [
+        548,
+        794,
+        15,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_564.png",
+      "bbox": [
+        1158,
+        794,
+        80,
+        66
+      ],
+      "area": 890
+    },
+    {
+      "file": "fase2_selva_tropical_565.png",
+      "bbox": [
+        672,
+        798,
+        31,
+        14
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase2_selva_tropical_566.png",
+      "bbox": [
+        707,
+        798,
+        13,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_567.png",
+      "bbox": [
+        727,
+        798,
+        16,
+        14
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase2_selva_tropical_568.png",
+      "bbox": [
+        897,
+        799,
+        29,
+        13
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase2_selva_tropical_569.png",
+      "bbox": [
+        923,
+        799,
+        20,
+        13
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase2_selva_tropical_570.png",
+      "bbox": [
+        944,
+        799,
+        30,
+        13
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase2_selva_tropical_571.png",
+      "bbox": [
+        1011,
+        799,
+        21,
+        13
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase2_selva_tropical_572.png",
+      "bbox": [
+        635,
+        800,
+        23,
+        12
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase2_selva_tropical_573.png",
+      "bbox": [
+        656,
+        800,
+        23,
+        12
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase2_selva_tropical_574.png",
+      "bbox": [
+        855,
+        800,
+        12,
+        25
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_575.png",
+      "bbox": [
+        994,
+        800,
+        16,
+        12
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase2_selva_tropical_576.png",
+      "bbox": [
+        1030,
+        800,
+        13,
+        12
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_577.png",
+      "bbox": [
+        228,
+        801,
+        14,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_578.png",
+      "bbox": [
+        972,
+        801,
+        20,
+        11
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase2_selva_tropical_579.png",
+      "bbox": [
+        1087,
+        801,
+        15,
+        11
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_580.png",
+      "bbox": [
+        1108,
+        801,
+        15,
+        11
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_581.png",
+      "bbox": [
+        652,
+        809,
+        17,
+        14
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_582.png",
+      "bbox": [
+        925,
+        809,
+        35,
+        15
+      ],
+      "area": 181
+    },
+    {
+      "file": "fase2_selva_tropical_583.png",
+      "bbox": [
+        962,
+        809,
+        11,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_584.png",
+      "bbox": [
+        791,
+        810,
+        14,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_585.png",
+      "bbox": [
+        910,
+        810,
+        18,
+        12
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_586.png",
+      "bbox": [
+        1018,
+        810,
+        16,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_587.png",
+      "bbox": [
+        806,
+        818,
+        9,
+        17
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_588.png",
+      "bbox": [
+        653,
+        820,
+        13,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_589.png",
+      "bbox": [
+        663,
+        820,
+        29,
+        15
+      ],
+      "area": 142
+    },
+    {
+      "file": "fase2_selva_tropical_590.png",
+      "bbox": [
+        687,
+        820,
+        36,
+        15
+      ],
+      "area": 189
+    },
+    {
+      "file": "fase2_selva_tropical_591.png",
+      "bbox": [
+        947,
+        822,
+        22,
+        14
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase2_selva_tropical_592.png",
+      "bbox": [
+        1027,
+        822,
+        18,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase2_selva_tropical_593.png",
+      "bbox": [
+        1082,
+        822,
+        18,
+        16
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase2_selva_tropical_594.png",
+      "bbox": [
+        1007,
+        823,
+        15,
+        13
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_595.png",
+      "bbox": [
+        1067,
+        823,
+        13,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_596.png",
+      "bbox": [
+        1119,
+        823,
+        13,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_597.png",
+      "bbox": [
+        929,
+        825,
+        20,
+        11
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_598.png",
+      "bbox": [
+        1149,
+        828,
+        15,
+        19
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase2_selva_tropical_599.png",
+      "bbox": [
+        117,
+        831,
+        26,
+        20
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase2_selva_tropical_600.png",
+      "bbox": [
+        491,
+        831,
+        75,
+        36
+      ],
+      "area": 650
+    },
+    {
+      "file": "fase2_selva_tropical_601.png",
+      "bbox": [
+        384,
+        832,
+        78,
+        44
+      ],
+      "area": 881
+    },
+    {
+      "file": "fase2_selva_tropical_602.png",
+      "bbox": [
+        169,
+        833,
+        18,
+        11
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_603.png",
+      "bbox": [
+        283,
+        833,
+        15,
+        18
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_604.png",
+      "bbox": [
+        315,
+        835,
+        24,
+        18
+      ],
+      "area": 165
+    },
+    {
+      "file": "fase2_selva_tropical_605.png",
+      "bbox": [
+        630,
+        835,
+        10,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_606.png",
+      "bbox": [
+        645,
+        835,
+        86,
+        25
+      ],
+      "area": 927
+    },
+    {
+      "file": "fase2_selva_tropical_607.png",
+      "bbox": [
+        855,
+        835,
+        13,
+        25
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase2_selva_tropical_608.png",
+      "bbox": [
+        1095,
+        835,
+        14,
+        14
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_609.png",
+      "bbox": [
+        904,
+        837,
+        9,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_610.png",
+      "bbox": [
+        922,
+        837,
+        68,
+        23
+      ],
+      "area": 730
+    },
+    {
+      "file": "fase2_selva_tropical_611.png",
+      "bbox": [
+        998,
+        837,
+        44,
+        23
+      ],
+      "area": 457
+    },
+    {
+      "file": "fase2_selva_tropical_612.png",
+      "bbox": [
+        1084,
+        837,
+        13,
+        10
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_613.png",
+      "bbox": [
+        38,
+        839,
+        14,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_614.png",
+      "bbox": [
+        790,
+        839,
+        57,
+        21
+      ],
+      "area": 494
+    },
+    {
+      "file": "fase2_selva_tropical_615.png",
+      "bbox": [
+        738,
+        840,
+        12,
+        19
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_616.png",
+      "bbox": [
+        237,
+        841,
+        49,
+        29
+      ],
+      "area": 409
+    },
+    {
+      "file": "fase2_selva_tropical_617.png",
+      "bbox": [
+        572,
+        841,
+        46,
+        30
+      ],
+      "area": 390
+    },
+    {
+      "file": "fase2_selva_tropical_618.png",
+      "bbox": [
+        53,
+        846,
+        20,
+        18
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase2_selva_tropical_619.png",
+      "bbox": [
+        87,
+        847,
+        16,
+        15
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_620.png",
+      "bbox": [
+        205,
+        850,
+        29,
+        20
+      ],
+      "area": 172
+    },
+    {
+      "file": "fase2_selva_tropical_621.png",
+      "bbox": [
+        1079,
+        851,
+        41,
+        16
+      ],
+      "area": 319
+    },
+    {
+      "file": "fase2_selva_tropical_622.png",
+      "bbox": [
+        355,
+        854,
+        25,
+        20
+      ],
+      "area": 155
+    },
+    {
+      "file": "fase2_selva_tropical_623.png",
+      "bbox": [
+        78,
+        857,
+        14,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_624.png",
+      "bbox": [
+        314,
+        868,
+        11,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_625.png",
+      "bbox": [
+        15,
+        882,
+        13,
+        12
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_626.png",
+      "bbox": [
+        29,
+        882,
+        15,
+        11
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_627.png",
+      "bbox": [
+        290,
+        882,
+        55,
+        41
+      ],
+      "area": 964
+    },
+    {
+      "file": "fase2_selva_tropical_628.png",
+      "bbox": [
+        818,
+        882,
+        61,
+        48
+      ],
+      "area": 916
+    },
+    {
+      "file": "fase2_selva_tropical_629.png",
+      "bbox": [
+        567,
+        885,
+        39,
+        38
+      ],
+      "area": 512
+    },
+    {
+      "file": "fase2_selva_tropical_630.png",
+      "bbox": [
+        655,
+        885,
+        89,
+        45
+      ],
+      "area": 1581
+    },
+    {
+      "file": "fase2_selva_tropical_631.png",
+      "bbox": [
+        120,
+        888,
+        18,
+        17
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase2_selva_tropical_632.png",
+      "bbox": [
+        138,
+        888,
+        21,
+        18
+      ],
+      "area": 118
+    },
+    {
+      "file": "fase2_selva_tropical_633.png",
+      "bbox": [
+        214,
+        891,
+        22,
+        12
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase2_selva_tropical_634.png",
+      "bbox": [
+        240,
+        891,
+        22,
+        14
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase2_selva_tropical_635.png",
+      "bbox": [
+        15,
+        893,
+        20,
+        14
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase2_selva_tropical_636.png",
+      "bbox": [
+        192,
+        896,
+        19,
+        14
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase2_selva_tropical_637.png",
+      "bbox": [
+        752,
+        897,
+        37,
+        28
+      ],
+      "area": 304
+    },
+    {
+      "file": "fase2_selva_tropical_638.png",
+      "bbox": [
+        779,
+        897,
+        27,
+        28
+      ],
+      "area": 402
+    },
+    {
+      "file": "fase2_selva_tropical_639.png",
+      "bbox": [
+        910,
+        898,
+        35,
+        29
+      ],
+      "area": 545
+    },
+    {
+      "file": "fase2_selva_tropical_640.png",
+      "bbox": [
+        942,
+        898,
+        29,
+        19
+      ],
+      "area": 312
+    },
+    {
+      "file": "fase2_selva_tropical_641.png",
+      "bbox": [
+        968,
+        898,
+        13,
+        18
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase2_selva_tropical_642.png",
+      "bbox": [
+        978,
+        898,
+        25,
+        30
+      ],
+      "area": 420
+    },
+    {
+      "file": "fase2_selva_tropical_643.png",
+      "bbox": [
+        1176,
+        898,
+        23,
+        19
+      ],
+      "area": 221
+    },
+    {
+      "file": "fase2_selva_tropical_644.png",
+      "bbox": [
+        1009,
+        899,
+        21,
+        29
+      ],
+      "area": 375
+    },
+    {
+      "file": "fase2_selva_tropical_645.png",
+      "bbox": [
+        1028,
+        899,
+        23,
+        19
+      ],
+      "area": 254
+    },
+    {
+      "file": "fase2_selva_tropical_646.png",
+      "bbox": [
+        1048,
+        899,
+        43,
+        18
+      ],
+      "area": 377
+    },
+    {
+      "file": "fase2_selva_tropical_647.png",
+      "bbox": [
+        1088,
+        899,
+        20,
+        18
+      ],
+      "area": 184
+    },
+    {
+      "file": "fase2_selva_tropical_648.png",
+      "bbox": [
+        1118,
+        899,
+        26,
+        19
+      ],
+      "area": 258
+    },
+    {
+      "file": "fase2_selva_tropical_649.png",
+      "bbox": [
+        1141,
+        899,
+        16,
+        18
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase2_selva_tropical_650.png",
+      "bbox": [
+        1155,
+        899,
+        24,
+        18
+      ],
+      "area": 218
+    },
+    {
+      "file": "fase2_selva_tropical_651.png",
+      "bbox": [
+        1196,
+        899,
+        34,
+        28
+      ],
+      "area": 443
+    },
+    {
+      "file": "fase2_selva_tropical_652.png",
+      "bbox": [
+        552,
+        900,
+        18,
+        25
+      ],
+      "area": 262
+    },
+    {
+      "file": "fase2_selva_tropical_653.png",
+      "bbox": [
+        886,
+        900,
+        15,
+        17
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase2_selva_tropical_654.png",
+      "bbox": [
+        48,
+        901,
+        18,
+        10
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase2_selva_tropical_655.png",
+      "bbox": [
+        70,
+        901,
+        19,
+        10
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase2_selva_tropical_656.png",
+      "bbox": [
+        94,
+        901,
+        18,
+        10
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase2_selva_tropical_657.png",
+      "bbox": [
+        622,
+        901,
+        21,
+        24
+      ],
+      "area": 307
+    },
+    {
+      "file": "fase2_selva_tropical_658.png",
+      "bbox": [
+        398,
+        904,
+        17,
+        19
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase2_selva_tropical_659.png",
+      "bbox": [
+        412,
+        904,
+        24,
+        26
+      ],
+      "area": 327
+    },
+    {
+      "file": "fase2_selva_tropical_660.png",
+      "bbox": [
+        433,
+        904,
+        25,
+        19
+      ],
+      "area": 276
+    },
+    {
+      "file": "fase2_selva_tropical_661.png",
+      "bbox": [
+        469,
+        904,
+        55,
+        20
+      ],
+      "area": 685
+    },
+    {
+      "file": "fase2_selva_tropical_662.png",
+      "bbox": [
+        521,
+        904,
+        24,
+        19
+      ],
+      "area": 246
+    },
+    {
+      "file": "fase2_selva_tropical_663.png",
+      "bbox": [
+        115,
+        905,
+        13,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_664.png",
+      "bbox": [
+        147,
+        905,
+        13,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_665.png",
+      "bbox": [
+        380,
+        905,
+        21,
+        19
+      ],
+      "area": 220
+    },
+    {
+      "file": "fase2_selva_tropical_666.png",
+      "bbox": [
+        587,
+        905,
+        29,
+        17
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase2_selva_tropical_667.png",
+      "bbox": [
+        759,
+        905,
+        15,
+        29
+      ],
+      "area": 231
+    },
+    {
+      "file": "fase2_selva_tropical_668.png",
+      "bbox": [
+        740,
+        908,
+        14,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_669.png",
+      "bbox": [
+        176,
+        909,
+        93,
+        36
+      ],
+      "area": 1610
+    },
+    {
+      "file": "fase2_selva_tropical_670.png",
+      "bbox": [
+        13,
+        910,
+        105,
+        24
+      ],
+      "area": 940
+    },
+    {
+      "file": "fase2_selva_tropical_671.png",
+      "bbox": [
+        137,
+        911,
+        14,
+        12
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_672.png",
+      "bbox": [
+        117,
+        912,
+        23,
+        21
+      ],
+      "area": 155
+    },
+    {
+      "file": "fase2_selva_tropical_673.png",
+      "bbox": [
+        968,
+        913,
+        15,
+        15
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase2_selva_tropical_674.png",
+      "bbox": [
+        931,
+        914,
+        26,
+        25
+      ],
+      "area": 381
+    },
+    {
+      "file": "fase2_selva_tropical_675.png",
+      "bbox": [
+        1053,
+        914,
+        34,
+        13
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase2_selva_tropical_676.png",
+      "bbox": [
+        1088,
+        914,
+        20,
+        12
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase2_selva_tropical_677.png",
+      "bbox": [
+        1118,
+        914,
+        17,
+        14
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase2_selva_tropical_678.png",
+      "bbox": [
+        1142,
+        914,
+        15,
+        13
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase2_selva_tropical_679.png",
+      "bbox": [
+        1154,
+        914,
+        17,
+        13
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase2_selva_tropical_680.png",
+      "bbox": [
+        1181,
+        914,
+        18,
+        23
+      ],
+      "area": 203
+    },
+    {
+      "file": "fase2_selva_tropical_681.png",
+      "bbox": [
+        1197,
+        914,
+        15,
+        14
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase2_selva_tropical_682.png",
+      "bbox": [
+        567,
+        915,
+        13,
+        15
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_683.png",
+      "bbox": [
+        954,
+        915,
+        17,
+        24
+      ],
+      "area": 177
+    },
+    {
+      "file": "fase2_selva_tropical_684.png",
+      "bbox": [
+        1028,
+        915,
+        15,
+        17
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase2_selva_tropical_685.png",
+      "bbox": [
+        1042,
+        915,
+        13,
+        16
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase2_selva_tropical_686.png",
+      "bbox": [
+        1168,
+        915,
+        16,
+        23
+      ],
+      "area": 173
+    },
+    {
+      "file": "fase2_selva_tropical_687.png",
+      "bbox": [
+        293,
+        918,
+        12,
+        17
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_688.png",
+      "bbox": [
+        607,
+        919,
+        13,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_689.png",
+      "bbox": [
+        717,
+        920,
+        17,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_690.png",
+      "bbox": [
+        281,
+        922,
+        36,
+        55
+      ],
+      "area": 656
+    },
+    {
+      "file": "fase2_selva_tropical_691.png",
+      "bbox": [
+        738,
+        923,
+        12,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_692.png",
+      "bbox": [
+        24,
+        924,
+        16,
+        15
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_693.png",
+      "bbox": [
+        91,
+        924,
+        16,
+        15
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_694.png",
+      "bbox": [
+        910,
+        924,
+        24,
+        26
+      ],
+      "area": 367
+    },
+    {
+      "file": "fase2_selva_tropical_695.png",
+      "bbox": [
+        1052,
+        924,
+        26,
+        25
+      ],
+      "area": 259
+    },
+    {
+      "file": "fase2_selva_tropical_696.png",
+      "bbox": [
+        1075,
+        924,
+        16,
+        15
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase2_selva_tropical_697.png",
+      "bbox": [
+        1088,
+        924,
+        20,
+        26
+      ],
+      "area": 261
+    },
+    {
+      "file": "fase2_selva_tropical_698.png",
+      "bbox": [
+        1117,
+        924,
+        54,
+        25
+      ],
+      "area": 706
+    },
+    {
+      "file": "fase2_selva_tropical_699.png",
+      "bbox": [
+        980,
+        925,
+        23,
+        36
+      ],
+      "area": 452
+    },
+    {
+      "file": "fase2_selva_tropical_700.png",
+      "bbox": [
+        1196,
+        925,
+        16,
+        24
+      ],
+      "area": 193
+    },
+    {
+      "file": "fase2_selva_tropical_701.png",
+      "bbox": [
+        1209,
+        925,
+        21,
+        36
+      ],
+      "area": 443
+    },
+    {
+      "file": "fase2_selva_tropical_702.png",
+      "bbox": [
+        1008,
+        926,
+        24,
+        26
+      ],
+      "area": 336
+    },
+    {
+      "file": "fase2_selva_tropical_703.png",
+      "bbox": [
+        380,
+        927,
+        11,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_704.png",
+      "bbox": [
+        968,
+        927,
+        14,
+        23
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase2_selva_tropical_705.png",
+      "bbox": [
+        484,
+        928,
+        12,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_706.png",
+      "bbox": [
+        532,
+        928,
+        11,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_707.png",
+      "bbox": [
+        710,
+        928,
+        13,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_708.png",
+      "bbox": [
+        743,
+        928,
+        14,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase2_selva_tropical_709.png",
+      "bbox": [
+        657,
+        929,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_710.png",
+      "bbox": [
+        783,
+        929,
+        14,
+        10
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_711.png",
+      "bbox": [
+        186,
+        931,
+        14,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_712.png",
+      "bbox": [
+        1029,
+        932,
+        14,
+        17
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase2_selva_tropical_713.png",
+      "bbox": [
+        1041,
+        935,
+        14,
+        14
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase2_selva_tropical_714.png",
+      "bbox": [
+        1169,
+        935,
+        20,
+        15
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase2_selva_tropical_715.png",
+      "bbox": [
+        343,
+        936,
+        15,
+        25
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_716.png",
+      "bbox": [
+        380,
+        936,
+        17,
+        13
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase2_selva_tropical_717.png",
+      "bbox": [
+        395,
+        936,
+        14,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_718.png",
+      "bbox": [
+        434,
+        936,
+        17,
+        14
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase2_selva_tropical_719.png",
+      "bbox": [
+        469,
+        936,
+        12,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_720.png",
+      "bbox": [
+        479,
+        936,
+        13,
+        13
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_721.png",
+      "bbox": [
+        518,
+        936,
+        14,
+        14
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_722.png",
+      "bbox": [
+        553,
+        936,
+        13,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_723.png",
+      "bbox": [
+        563,
+        936,
+        10,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_724.png",
+      "bbox": [
+        656,
+        936,
+        19,
+        14
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase2_selva_tropical_725.png",
+      "bbox": [
+        679,
+        936,
+        12,
+        14
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_726.png",
+      "bbox": [
+        706,
+        936,
+        13,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_727.png",
+      "bbox": [
+        817,
+        936,
+        12,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_728.png",
+      "bbox": [
+        827,
+        936,
+        22,
+        14
+      ],
+      "area": 147
+    },
+    {
+      "file": "fase2_selva_tropical_729.png",
+      "bbox": [
+        910,
+        936,
+        47,
+        48
+      ],
+      "area": 1027
+    },
+    {
+      "file": "fase2_selva_tropical_730.png",
+      "bbox": [
+        1065,
+        936,
+        26,
+        25
+      ],
+      "area": 364
+    },
+    {
+      "file": "fase2_selva_tropical_731.png",
+      "bbox": [
+        1131,
+        936,
+        14,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_732.png",
+      "bbox": [
+        1187,
+        936,
+        12,
+        13
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_733.png",
+      "bbox": [
+        128,
+        937,
+        18,
+        10
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase2_selva_tropical_734.png",
+      "bbox": [
+        623,
+        937,
+        12,
+        12
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase2_selva_tropical_735.png",
+      "bbox": [
+        777,
+        937,
+        13,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_736.png",
+      "bbox": [
+        955,
+        937,
+        14,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_737.png",
+      "bbox": [
+        48,
+        938,
+        15,
+        12
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_738.png",
+      "bbox": [
+        695,
+        938,
+        12,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_739.png",
+      "bbox": [
+        761,
+        938,
+        11,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_740.png",
+      "bbox": [
+        88,
+        940,
+        13,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_741.png",
+      "bbox": [
+        120,
+        941,
+        20,
+        16
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase2_selva_tropical_742.png",
+      "bbox": [
+        886,
+        946,
+        14,
+        9
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase2_selva_tropical_743.png",
+      "bbox": [
+        1040,
+        946,
+        28,
+        26
+      ],
+      "area": 442
+    },
+    {
+      "file": "fase2_selva_tropical_744.png",
+      "bbox": [
+        1138,
+        946,
+        28,
+        26
+      ],
+      "area": 438
+    },
+    {
+      "file": "fase2_selva_tropical_745.png",
+      "bbox": [
+        1164,
+        946,
+        25,
+        25
+      ],
+      "area": 347
+    },
+    {
+      "file": "fase2_selva_tropical_746.png",
+      "bbox": [
+        1186,
+        946,
+        26,
+        16
+      ],
+      "area": 199
+    },
+    {
+      "file": "fase2_selva_tropical_747.png",
+      "bbox": [
+        13,
+        947,
+        14,
+        13
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase2_selva_tropical_748.png",
+      "bbox": [
+        24,
+        947,
+        10,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_749.png",
+      "bbox": [
+        31,
+        947,
+        13,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_750.png",
+      "bbox": [
+        55,
+        947,
+        18,
+        14
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_751.png",
+      "bbox": [
+        70,
+        947,
+        17,
+        14
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase2_selva_tropical_752.png",
+      "bbox": [
+        93,
+        947,
+        22,
+        10
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_753.png",
+      "bbox": [
+        196,
+        947,
+        14,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_754.png",
+      "bbox": [
+        220,
+        947,
+        14,
+        12
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_755.png",
+      "bbox": [
+        255,
+        947,
+        12,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_756.png",
+      "bbox": [
+        396,
+        947,
+        13,
+        14
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_757.png",
+      "bbox": [
+        428,
+        947,
+        10,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_758.png",
+      "bbox": [
+        445,
+        947,
+        14,
+        13
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_759.png",
+      "bbox": [
+        486,
+        947,
+        11,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_760.png",
+      "bbox": [
+        494,
+        947,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_761.png",
+      "bbox": [
+        526,
+        947,
+        17,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_762.png",
+      "bbox": [
+        553,
+        947,
+        11,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_763.png",
+      "bbox": [
+        609,
+        947,
+        10,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_764.png",
+      "bbox": [
+        656,
+        947,
+        11,
+        13
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_765.png",
+      "bbox": [
+        668,
+        947,
+        18,
+        14
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase2_selva_tropical_766.png",
+      "bbox": [
+        782,
+        947,
+        16,
+        14
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase2_selva_tropical_767.png",
+      "bbox": [
+        817,
+        947,
+        12,
+        14
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_768.png",
+      "bbox": [
+        828,
+        947,
+        12,
+        14
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_769.png",
+      "bbox": [
+        955,
+        947,
+        27,
+        26
+      ],
+      "area": 420
+    },
+    {
+      "file": "fase2_selva_tropical_770.png",
+      "bbox": [
+        1088,
+        947,
+        20,
+        14
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase2_selva_tropical_771.png",
+      "bbox": [
+        1118,
+        947,
+        22,
+        16
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase2_selva_tropical_772.png",
+      "bbox": [
+        572,
+        948,
+        10,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_773.png",
+      "bbox": [
+        699,
+        948,
+        18,
+        13
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase2_selva_tropical_774.png",
+      "bbox": [
+        796,
+        948,
+        10,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_775.png",
+      "bbox": [
+        837,
+        948,
+        12,
+        13
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_776.png",
+      "bbox": [
+        1008,
+        949,
+        23,
+        24
+      ],
+      "area": 290
+    },
+    {
+      "file": "fase2_selva_tropical_777.png",
+      "bbox": [
+        1028,
+        951,
+        15,
+        20
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase2_selva_tropical_778.png",
+      "bbox": [
+        123,
+        952,
+        25,
+        15
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase2_selva_tropical_779.png",
+      "bbox": [
+        879,
+        955,
+        21,
+        11
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase2_selva_tropical_780.png",
+      "bbox": [
+        186,
+        956,
+        18,
+        11
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_781.png",
+      "bbox": [
+        242,
+        957,
+        15,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_782.png",
+      "bbox": [
+        42,
+        958,
+        12,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_783.png",
+      "bbox": [
+        52,
+        958,
+        15,
+        14
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase2_selva_tropical_784.png",
+      "bbox": [
+        65,
+        958,
+        39,
+        14
+      ],
+      "area": 235
+    },
+    {
+      "file": "fase2_selva_tropical_785.png",
+      "bbox": [
+        433,
+        958,
+        10,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_786.png",
+      "bbox": [
+        440,
+        958,
+        13,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_787.png",
+      "bbox": [
+        474,
+        958,
+        11,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_788.png",
+      "bbox": [
+        482,
+        958,
+        12,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_789.png",
+      "bbox": [
+        517,
+        958,
+        12,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_790.png",
+      "bbox": [
+        527,
+        958,
+        15,
+        13
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_791.png",
+      "bbox": [
+        557,
+        958,
+        16,
+        13
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase2_selva_tropical_792.png",
+      "bbox": [
+        628,
+        958,
+        14,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_793.png",
+      "bbox": [
+        656,
+        958,
+        15,
+        14
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase2_selva_tropical_794.png",
+      "bbox": [
+        695,
+        958,
+        12,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase2_selva_tropical_795.png",
+      "bbox": [
+        751,
+        958,
+        10,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_796.png",
+      "bbox": [
+        760,
+        958,
+        12,
+        13
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_797.png",
+      "bbox": [
+        784,
+        958,
+        13,
+        14
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_798.png",
+      "bbox": [
+        817,
+        958,
+        14,
+        14
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase2_selva_tropical_799.png",
+      "bbox": [
+        828,
+        958,
+        18,
+        14
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase2_selva_tropical_800.png",
+      "bbox": [
+        979,
+        958,
+        24,
+        26
+      ],
+      "area": 368
+    },
+    {
+      "file": "fase2_selva_tropical_801.png",
+      "bbox": [
+        1053,
+        958,
+        41,
+        44
+      ],
+      "area": 767
+    },
+    {
+      "file": "fase2_selva_tropical_802.png",
+      "bbox": [
+        1091,
+        959,
+        16,
+        24
+      ],
+      "area": 177
+    },
+    {
+      "file": "fase2_selva_tropical_803.png",
+      "bbox": [
+        1187,
+        959,
+        16,
+        12
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase2_selva_tropical_804.png",
+      "bbox": [
+        1200,
+        959,
+        30,
+        24
+      ],
+      "area": 402
+    },
+    {
+      "file": "fase2_selva_tropical_805.png",
+      "bbox": [
+        1118,
+        960,
+        27,
+        24
+      ],
+      "area": 290
+    },
+    {
+      "file": "fase2_selva_tropical_806.png",
+      "bbox": [
+        124,
+        964,
+        24,
+        17
+      ],
+      "area": 159
+    },
+    {
+      "file": "fase2_selva_tropical_807.png",
+      "bbox": [
+        311,
+        964,
+        18,
+        15
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase2_selva_tropical_808.png",
+      "bbox": [
+        193,
+        965,
+        14,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_809.png",
+      "bbox": [
+        221,
+        965,
+        13,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase2_selva_tropical_810.png",
+      "bbox": [
+        231,
+        965,
+        15,
+        12
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_811.png",
+      "bbox": [
+        406,
+        965,
+        20,
+        16
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_812.png",
+      "bbox": [
+        496,
+        965,
+        17,
+        16
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase2_selva_tropical_813.png",
+      "bbox": [
+        874,
+        966,
+        26,
+        10
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase2_selva_tropical_814.png",
+      "bbox": [
+        469,
+        968,
+        17,
+        14
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase2_selva_tropical_815.png",
+      "bbox": [
+        483,
+        968,
+        13,
+        14
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase2_selva_tropical_816.png",
+      "bbox": [
+        695,
+        968,
+        21,
+        14
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase2_selva_tropical_817.png",
+      "bbox": [
+        56,
+        969,
+        13,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_818.png",
+      "bbox": [
+        379,
+        969,
+        13,
+        12
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_819.png",
+      "bbox": [
+        390,
+        969,
+        14,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_820.png",
+      "bbox": [
+        428,
+        969,
+        15,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_821.png",
+      "bbox": [
+        447,
+        969,
+        11,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_822.png",
+      "bbox": [
+        520,
+        969,
+        13,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_823.png",
+      "bbox": [
+        572,
+        969,
+        10,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_824.png",
+      "bbox": [
+        609,
+        969,
+        12,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_825.png",
+      "bbox": [
+        656,
+        969,
+        18,
+        14
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase2_selva_tropical_826.png",
+      "bbox": [
+        672,
+        969,
+        12,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_827.png",
+      "bbox": [
+        818,
+        969,
+        11,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_828.png",
+      "bbox": [
+        836,
+        969,
+        13,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_829.png",
+      "bbox": [
+        931,
+        969,
+        14,
+        15
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase2_selva_tropical_830.png",
+      "bbox": [
+        1008,
+        969,
+        22,
+        15
+      ],
+      "area": 145
+    },
+    {
+      "file": "fase2_selva_tropical_831.png",
+      "bbox": [
+        1027,
+        969,
+        28,
+        32
+      ],
+      "area": 570
+    },
+    {
+      "file": "fase2_selva_tropical_832.png",
+      "bbox": [
+        1142,
+        969,
+        14,
+        15
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase2_selva_tropical_833.png",
+      "bbox": [
+        1153,
+        969,
+        13,
+        33
+      ],
+      "area": 216
+    },
+    {
+      "file": "fase2_selva_tropical_834.png",
+      "bbox": [
+        1178,
+        969,
+        25,
+        14
+      ],
+      "area": 172
+    },
+    {
+      "file": "fase2_selva_tropical_835.png",
+      "bbox": [
+        86,
+        970,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_836.png",
+      "bbox": [
+        715,
+        970,
+        41,
+        33
+      ],
+      "area": 852
+    },
+    {
+      "file": "fase2_selva_tropical_837.png",
+      "bbox": [
+        942,
+        970,
+        11,
+        14
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_838.png",
+      "bbox": [
+        968,
+        970,
+        14,
+        14
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase2_selva_tropical_839.png",
+      "bbox": [
+        1054,
+        970,
+        14,
+        12
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_840.png",
+      "bbox": [
+        1163,
+        970,
+        16,
+        14
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase2_selva_tropical_841.png",
+      "bbox": [
+        950,
+        971,
+        20,
+        28
+      ],
+      "area": 301
+    },
+    {
+      "file": "fase2_selva_tropical_842.png",
+      "bbox": [
+        283,
+        972,
+        30,
+        36
+      ],
+      "area": 372
+    },
+    {
+      "file": "fase2_selva_tropical_843.png",
+      "bbox": [
+        863,
+        976,
+        37,
+        11
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase2_selva_tropical_844.png",
+      "bbox": [
+        594,
+        978,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase2_selva_tropical_845.png",
+      "bbox": [
+        640,
+        978,
+        8,
+        18
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_846.png",
+      "bbox": [
+        380,
+        979,
+        17,
+        11
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase2_selva_tropical_847.png",
+      "bbox": [
+        400,
+        979,
+        15,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase2_selva_tropical_848.png",
+      "bbox": [
+        412,
+        979,
+        12,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_849.png",
+      "bbox": [
+        421,
+        979,
+        15,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_850.png",
+      "bbox": [
+        624,
+        979,
+        11,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_851.png",
+      "bbox": [
+        695,
+        979,
+        12,
+        10
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_852.png",
+      "bbox": [
+        817,
+        979,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_853.png",
+      "bbox": [
+        828,
+        979,
+        13,
+        10
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_854.png",
+      "bbox": [
+        909,
+        981,
+        25,
+        21
+      ],
+      "area": 314
+    },
+    {
+      "file": "fase2_selva_tropical_855.png",
+      "bbox": [
+        931,
+        981,
+        23,
+        21
+      ],
+      "area": 235
+    },
+    {
+      "file": "fase2_selva_tropical_856.png",
+      "bbox": [
+        979,
+        981,
+        24,
+        20
+      ],
+      "area": 256
+    },
+    {
+      "file": "fase2_selva_tropical_857.png",
+      "bbox": [
+        1008,
+        981,
+        22,
+        21
+      ],
+      "area": 252
+    },
+    {
+      "file": "fase2_selva_tropical_858.png",
+      "bbox": [
+        1078,
+        981,
+        12,
+        20
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase2_selva_tropical_859.png",
+      "bbox": [
+        1089,
+        981,
+        19,
+        21
+      ],
+      "area": 198
+    },
+    {
+      "file": "fase2_selva_tropical_860.png",
+      "bbox": [
+        1118,
+        981,
+        25,
+        21
+      ],
+      "area": 297
+    },
+    {
+      "file": "fase2_selva_tropical_861.png",
+      "bbox": [
+        1141,
+        981,
+        15,
+        21
+      ],
+      "area": 142
+    },
+    {
+      "file": "fase2_selva_tropical_862.png",
+      "bbox": [
+        1163,
+        981,
+        17,
+        21
+      ],
+      "area": 188
+    },
+    {
+      "file": "fase2_selva_tropical_863.png",
+      "bbox": [
+        1177,
+        981,
+        26,
+        21
+      ],
+      "area": 314
+    },
+    {
+      "file": "fase2_selva_tropical_864.png",
+      "bbox": [
+        1201,
+        981,
+        27,
+        21
+      ],
+      "area": 324
+    },
+    {
+      "file": "fase2_selva_tropical_865.png",
+      "bbox": [
+        968,
+        982,
+        14,
+        17
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase2_selva_tropical_866.png",
+      "bbox": [
+        283,
+        983,
+        11,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_867.png",
+      "bbox": [
+        303,
+        985,
+        21,
+        14
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase2_selva_tropical_868.png",
+      "bbox": [
+        322,
+        985,
+        43,
+        29
+      ],
+      "area": 256
+    },
+    {
+      "file": "fase2_selva_tropical_869.png",
+      "bbox": [
+        833,
+        986,
+        14,
+        12
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_870.png",
+      "bbox": [
+        761,
+        987,
+        13,
+        14
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_871.png",
+      "bbox": [
+        854,
+        987,
+        46,
+        13
+      ],
+      "area": 231
+    },
+    {
+      "file": "fase2_selva_tropical_872.png",
+      "bbox": [
+        134,
+        989,
+        11,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_873.png",
+      "bbox": [
+        379,
+        989,
+        14,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_874.png",
+      "bbox": [
+        444,
+        989,
+        12,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_875.png",
+      "bbox": [
+        489,
+        989,
+        13,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase2_selva_tropical_876.png",
+      "bbox": [
+        501,
+        989,
+        13,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_877.png",
+      "bbox": [
+        532,
+        989,
+        13,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_878.png",
+      "bbox": [
+        567,
+        992,
+        15,
+        9
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_879.png",
+      "bbox": [
+        579,
+        994,
+        33,
+        9
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase2_selva_tropical_880.png",
+      "bbox": [
+        89,
+        1015,
+        11,
+        23
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase2_selva_tropical_881.png",
+      "bbox": [
+        1172,
+        1015,
+        55,
+        78
+      ],
+      "area": 2343
+    },
+    {
+      "file": "fase2_selva_tropical_882.png",
+      "bbox": [
+        167,
+        1021,
+        26,
+        13
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase2_selva_tropical_883.png",
+      "bbox": [
+        16,
+        1025,
+        43,
+        9
+      ],
+      "area": 175
+    },
+    {
+      "file": "fase2_selva_tropical_884.png",
+      "bbox": [
+        56,
+        1026,
+        11,
+        27
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase2_selva_tropical_885.png",
+      "bbox": [
+        16,
+        1031,
+        41,
+        27
+      ],
+      "area": 286
+    },
+    {
+      "file": "fase2_selva_tropical_886.png",
+      "bbox": [
+        96,
+        1031,
+        20,
+        8
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_887.png",
+      "bbox": [
+        661,
+        1034,
+        24,
+        17
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase2_selva_tropical_888.png",
+      "bbox": [
+        24,
+        1036,
+        14,
+        16
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_889.png",
+      "bbox": [
+        1123,
+        1036,
+        49,
+        69
+      ],
+      "area": 1225
+    },
+    {
+      "file": "fase2_selva_tropical_890.png",
+      "bbox": [
+        167,
+        1037,
+        13,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_891.png",
+      "bbox": [
+        975,
+        1037,
+        13,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_892.png",
+      "bbox": [
+        683,
+        1039,
+        22,
+        9
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase2_selva_tropical_893.png",
+      "bbox": [
+        1020,
+        1041,
+        83,
+        89
+      ],
+      "area": 1240
+    },
+    {
+      "file": "fase2_selva_tropical_894.png",
+      "bbox": [
+        965,
+        1042,
+        26,
+        26
+      ],
+      "area": 201
+    },
+    {
+      "file": "fase2_selva_tropical_895.png",
+      "bbox": [
+        539,
+        1044,
+        21,
+        14
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase2_selva_tropical_896.png",
+      "bbox": [
+        819,
+        1044,
+        12,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase2_selva_tropical_897.png",
+      "bbox": [
+        946,
+        1044,
+        20,
+        20
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase2_selva_tropical_898.png",
+      "bbox": [
+        79,
+        1048,
+        13,
+        17
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_899.png",
+      "bbox": [
+        517,
+        1052,
+        23,
+        16
+      ],
+      "area": 146
+    },
+    {
+      "file": "fase2_selva_tropical_900.png",
+      "bbox": [
+        500,
+        1057,
+        21,
+        17
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_901.png",
+      "bbox": [
+        985,
+        1057,
+        13,
+        14
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_902.png",
+      "bbox": [
+        392,
+        1059,
+        10,
+        24
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase2_selva_tropical_903.png",
+      "bbox": [
+        345,
+        1061,
+        13,
+        23
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase2_selva_tropical_904.png",
+      "bbox": [
+        359,
+        1061,
+        15,
+        33
+      ],
+      "area": 195
+    },
+    {
+      "file": "fase2_selva_tropical_905.png",
+      "bbox": [
+        376,
+        1061,
+        14,
+        36
+      ],
+      "area": 215
+    },
+    {
+      "file": "fase2_selva_tropical_906.png",
+      "bbox": [
+        735,
+        1061,
+        9,
+        31
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase2_selva_tropical_907.png",
+      "bbox": [
+        1023,
+        1061,
+        14,
+        18
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase2_selva_tropical_908.png",
+      "bbox": [
+        79,
+        1062,
+        20,
+        15
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase2_selva_tropical_909.png",
+      "bbox": [
+        63,
+        1064,
+        8,
+        27
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase2_selva_tropical_910.png",
+      "bbox": [
+        179,
+        1067,
+        20,
+        20
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase2_selva_tropical_911.png",
+      "bbox": [
+        679,
+        1068,
+        10,
+        20
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_912.png",
+      "bbox": [
+        611,
+        1070,
+        15,
+        15
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase2_selva_tropical_913.png",
+      "bbox": [
+        220,
+        1071,
+        35,
+        21
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase2_selva_tropical_914.png",
+      "bbox": [
+        291,
+        1074,
+        25,
+        21
+      ],
+      "area": 130
+    },
+    {
+      "file": "fase2_selva_tropical_915.png",
+      "bbox": [
+        753,
+        1075,
+        14,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_916.png",
+      "bbox": [
+        869,
+        1075,
+        25,
+        28
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase2_selva_tropical_917.png",
+      "bbox": [
+        903,
+        1076,
+        12,
+        20
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase2_selva_tropical_918.png",
+      "bbox": [
+        264,
+        1079,
+        14,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_919.png",
+      "bbox": [
+        621,
+        1084,
+        11,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_920.png",
+      "bbox": [
+        608,
+        1089,
+        15,
+        13
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase2_selva_tropical_921.png",
+      "bbox": [
+        664,
+        1089,
+        45,
+        22
+      ],
+      "area": 355
+    },
+    {
+      "file": "fase2_selva_tropical_922.png",
+      "bbox": [
+        330,
+        1091,
+        15,
+        15
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase2_selva_tropical_923.png",
+      "bbox": [
+        345,
+        1091,
+        47,
+        19
+      ],
+      "area": 322
+    },
+    {
+      "file": "fase2_selva_tropical_924.png",
+      "bbox": [
+        388,
+        1092,
+        21,
+        17
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase2_selva_tropical_925.png",
+      "bbox": [
+        409,
+        1092,
+        10,
+        15
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase2_selva_tropical_926.png",
+      "bbox": [
+        421,
+        1092,
+        12,
+        16
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase2_selva_tropical_927.png",
+      "bbox": [
+        547,
+        1093,
+        27,
+        25
+      ],
+      "area": 192
+    },
+    {
+      "file": "fase2_selva_tropical_928.png",
+      "bbox": [
+        619,
+        1097,
+        12,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_929.png",
+      "bbox": [
+        908,
+        1099,
+        11,
+        18
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_930.png",
+      "bbox": [
+        1135,
+        1099,
+        104,
+        46
+      ],
+      "area": 917
+    },
+    {
+      "file": "fase2_selva_tropical_931.png",
+      "bbox": [
+        933,
+        1100,
+        27,
+        17
+      ],
+      "area": 137
+    },
+    {
+      "file": "fase2_selva_tropical_932.png",
+      "bbox": [
+        739,
+        1101,
+        19,
+        15
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase2_selva_tropical_933.png",
+      "bbox": [
+        509,
+        1103,
+        16,
+        11
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_934.png",
+      "bbox": [
+        874,
+        1104,
+        17,
+        16
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase2_selva_tropical_935.png",
+      "bbox": [
+        895,
+        1104,
+        17,
+        18
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase2_selva_tropical_936.png",
+      "bbox": [
+        810,
+        1111,
+        36,
+        20
+      ],
+      "area": 259
+    },
+    {
+      "file": "fase2_selva_tropical_937.png",
+      "bbox": [
+        524,
+        1112,
+        15,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_938.png",
+      "bbox": [
+        352,
+        1136,
+        17,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase2_selva_tropical_939.png",
+      "bbox": [
+        19,
+        1139,
+        51,
+        36
+      ],
+      "area": 925
+    },
+    {
+      "file": "fase2_selva_tropical_940.png",
+      "bbox": [
+        201,
+        1142,
+        53,
+        45
+      ],
+      "area": 967
+    },
+    {
+      "file": "fase2_selva_tropical_941.png",
+      "bbox": [
+        154,
+        1147,
+        14,
+        14
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase2_selva_tropical_942.png",
+      "bbox": [
+        575,
+        1155,
+        29,
+        31
+      ],
+      "area": 246
+    },
+    {
+      "file": "fase2_selva_tropical_943.png",
+      "bbox": [
+        775,
+        1156,
+        36,
+        30
+      ],
+      "area": 400
+    },
+    {
+      "file": "fase2_selva_tropical_944.png",
+      "bbox": [
+        964,
+        1160,
+        70,
+        54
+      ],
+      "area": 1564
+    },
+    {
+      "file": "fase2_selva_tropical_945.png",
+      "bbox": [
+        1174,
+        1160,
+        19,
+        28
+      ],
+      "area": 186
+    },
+    {
+      "file": "fase2_selva_tropical_946.png",
+      "bbox": [
+        920,
+        1162,
+        16,
+        17
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase2_selva_tropical_947.png",
+      "bbox": [
+        1053,
+        1163,
+        38,
+        20
+      ],
+      "area": 289
+    },
+    {
+      "file": "fase2_selva_tropical_948.png",
+      "bbox": [
+        1197,
+        1169,
+        15,
+        18
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase2_selva_tropical_949.png",
+      "bbox": [
+        640,
+        1170,
+        43,
+        33
+      ],
+      "area": 638
+    },
+    {
+      "file": "fase2_selva_tropical_950.png",
+      "bbox": [
+        875,
+        1173,
+        64,
+        21
+      ],
+      "area": 366
+    },
+    {
+      "file": "fase2_selva_tropical_951.png",
+      "bbox": [
+        1159,
+        1174,
+        18,
+        23
+      ],
+      "area": 162
+    },
+    {
+      "file": "fase2_selva_tropical_952.png",
+      "bbox": [
+        1065,
+        1175,
+        33,
+        26
+      ],
+      "area": 275
+    },
+    {
+      "file": "fase2_selva_tropical_953.png",
+      "bbox": [
+        299,
+        1176,
+        24,
+        22
+      ],
+      "area": 205
+    },
+    {
+      "file": "fase2_selva_tropical_954.png",
+      "bbox": [
+        576,
+        1176,
+        38,
+        37
+      ],
+      "area": 333
+    },
+    {
+      "file": "fase2_selva_tropical_955.png",
+      "bbox": [
+        818,
+        1176,
+        17,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase2_selva_tropical_956.png",
+      "bbox": [
+        763,
+        1177,
+        33,
+        32
+      ],
+      "area": 308
+    },
+    {
+      "file": "fase2_selva_tropical_957.png",
+      "bbox": [
+        1180,
+        1178,
+        9,
+        15
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase2_selva_tropical_958.png",
+      "bbox": [
+        280,
+        1179,
+        16,
+        18
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase2_selva_tropical_959.png",
+      "bbox": [
+        809,
+        1180,
+        12,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase2_selva_tropical_960.png",
+      "bbox": [
+        573,
+        1181,
+        16,
+        13
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase2_selva_tropical_961.png",
+      "bbox": [
+        1210,
+        1182,
+        11,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase2_selva_tropical_962.png",
+      "bbox": [
+        222,
+        1183,
+        34,
+        27
+      ],
+      "area": 223
+    },
+    {
+      "file": "fase2_selva_tropical_963.png",
+      "bbox": [
+        1181,
+        1183,
+        20,
+        20
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase2_selva_tropical_964.png",
+      "bbox": [
+        1096,
+        1184,
+        18,
+        16
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase2_selva_tropical_965.png",
+      "bbox": [
+        526,
+        1185,
+        13,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase2_selva_tropical_966.png",
+      "bbox": [
+        812,
+        1185,
+        15,
+        17
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase2_selva_tropical_967.png",
+      "bbox": [
+        203,
+        1186,
+        25,
+        19
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase2_selva_tropical_968.png",
+      "bbox": [
+        931,
+        1186,
+        19,
+        17
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase2_selva_tropical_969.png",
+      "bbox": [
+        61,
+        1187,
+        12,
+        19
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase2_selva_tropical_970.png",
+      "bbox": [
+        382,
+        1188,
+        26,
+        27
+      ],
+      "area": 225
+    },
+    {
+      "file": "fase2_selva_tropical_971.png",
+      "bbox": [
+        716,
+        1188,
+        14,
+        9
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase2_selva_tropical_972.png",
+      "bbox": [
+        337,
+        1189,
+        48,
+        30
+      ],
+      "area": 311
+    },
+    {
+      "file": "fase2_selva_tropical_973.png",
+      "bbox": [
+        428,
+        1189,
+        58,
+        25
+      ],
+      "area": 414
+    },
+    {
+      "file": "fase2_selva_tropical_974.png",
+      "bbox": [
+        1076,
+        1190,
+        25,
+        19
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase2_selva_tropical_975.png",
+      "bbox": [
+        527,
+        1192,
+        28,
+        22
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase2_selva_tropical_976.png",
+      "bbox": [
+        796,
+        1193,
+        18,
+        14
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase2_selva_tropical_977.png",
+      "bbox": [
+        1153,
+        1193,
+        15,
+        16
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase2_selva_tropical_978.png",
+      "bbox": [
+        173,
+        1194,
+        14,
+        17
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase2_selva_tropical_979.png",
+      "bbox": [
+        878,
+        1194,
+        52,
+        18
+      ],
+      "area": 331
+    },
+    {
+      "file": "fase2_selva_tropical_980.png",
+      "bbox": [
+        1215,
+        1194,
+        15,
+        15
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase2_selva_tropical_981.png",
+      "bbox": [
+        115,
+        1195,
+        20,
+        20
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase2_selva_tropical_982.png",
+      "bbox": [
+        1061,
+        1195,
+        15,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase2_selva_tropical_983.png",
+      "bbox": [
+        509,
+        1196,
+        20,
+        18
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase2_selva_tropical_984.png",
+      "bbox": [
+        446,
+        1197,
+        16,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase2_selva_tropical_985.png",
+      "bbox": [
+        599,
+        1197,
+        15,
+        14
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase2_selva_tropical_986.png",
+      "bbox": [
+        1097,
+        1198,
+        13,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase2_selva_tropical_987.png",
+      "bbox": [
+        1189,
+        1207,
+        16,
+        14
+      ],
+      "area": 45
+    }
+  ]
+}

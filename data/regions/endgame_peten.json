@@ -1,0 +1,14 @@
+{
+  "id": "peten",
+  "department": "Petén",
+  "fantasyName": "Selva del Reino Perdido",
+  "biome": "selva_tropical_humeda",
+  "climate": "caluroso_sofocante",
+  "levelRange": [91, 100],
+  "startingVillage": "Campamento Base Tikal",
+  "resources": ["jade_oscuro", "raíz_de_vida_eterna"],
+  "boss": "aj_kak_xibal",
+  "relic": "llave_de_la_ceiba_negra",
+  "dungeon": "Laberinto_Bajo_la_Ceiba_Negra",
+  "narrative": "La última frontera. La selva es densa, el calor es letal y las sombras de Xibal caminan libres. Aquí se decide el destino de Q’anil."
+}

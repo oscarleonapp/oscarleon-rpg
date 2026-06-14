@@ -1,0 +1,26 @@
+[
+  {
+    "id": "marisol_orellana",
+    "name": "Marisol Orellana",
+    "role": "Madre de Oscar",
+    "location": "Santiago, Casa de Oscar",
+    "description": "Una mujer trabajadora y cariñosa que cuida la parcela familiar.",
+    "isQuestGiver": true
+  },
+  {
+    "id": "gregorio_paz",
+    "name": "Gregorio Paz",
+    "role": "Anciano / Abuelo de Oscar",
+    "location": "Santiago, Plaza del Pueblo",
+    "description": "Conoce las antiguas historias del río Motagua y los secretos de Q’anil.",
+    "isQuestGiver": true
+  },
+  {
+    "id": "vendedor_santiago",
+    "name": "Don Chepe",
+    "role": "Comerciante",
+    "location": "Santiago, Mercado",
+    "description": "Vende herramientas básicas y compra excedentes de cosecha.",
+    "isQuestGiver": false
+  }
+]

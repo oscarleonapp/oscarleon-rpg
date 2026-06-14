@@ -1,0 +1,32 @@
+[
+  {
+    "id": "machete_viejo",
+    "name": "Machete Viejo",
+    "type": "tool",
+    "subtype": "weapon",
+    "effect": { "damage": 5 },
+    "description": "Herramienta de trabajo y defensa básica."
+  },
+  {
+    "id": "honda_de_piedra",
+    "name": "Honda de Piedra",
+    "type": "tool",
+    "subtype": "ranged",
+    "effect": { "damage": 3 },
+    "description": "Simple pero efectiva para caza menor."
+  },
+  {
+    "id": "morral_de_tela",
+    "name": "Morral de Tela",
+    "type": "container",
+    "capacity": 20,
+    "description": "Para cargar semillas y recolecciones."
+  },
+  {
+    "id": "pan_de_maiz",
+    "name": "Pan de Maíz",
+    "type": "consumable",
+    "effect": { "restore_hp": 10 },
+    "description": "Comida básica de Santiago."
+  }
+]

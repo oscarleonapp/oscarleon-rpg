@@ -1,0 +1,24 @@
+{
+  "title": "Crónicas de Q’anil: El Ascenso de Oscar León",
+  "genre": "RPG medieval mitológico",
+  "maxLevel": 100,
+  "startingLocation": {
+    "village": "Santiago",
+    "municipality": "Gualán",
+    "department": "Zacapa"
+  },
+  "protagonist": "Oscar León",
+  "mainCompanion": "Karen Sayle",
+  "world": "Q’anil",
+  "regions": 22,
+  "systems": [
+    "farming",
+    "hunting",
+    "gathering",
+    "crafting",
+    "cooking",
+    "skill_tree",
+    "procedural_generation",
+    "regional_reputation"
+  ]
+}

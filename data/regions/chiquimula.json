@@ -1,0 +1,16 @@
+{
+  "id": "chiquimula",
+  "department": "Chiquimula",
+  "fantasyName": "Tierras del Jade Rojo",
+  "levelRange": [9, 12],
+  "startingVillage": "San Juan Ermita",
+  "biome": "montaña_seca",
+  "climate": ["caluroso", "viento_seco"],
+  "resources": ["jade", "plata", "piedra_volcanica"],
+  "animals": ["lagartija_de_roca", "halcon_peregrino"],
+  "enemies": ["minero_poseido", "escorpion_gigante"],
+  "boss": "el_minero_sin_rostro",
+  "relic": "martillo_del_oriente",
+  "mainQuest": "El Secreto de las Minas de Jade",
+  "proceduralEvents": ["derrumbe_en_mina", "caravana_perdida", "tormenta_de_polvo"]
+}

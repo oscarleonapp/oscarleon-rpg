@@ -1,0 +1,16 @@
+{
+  "id": "izabal",
+  "department": "Izabal",
+  "fantasyName": "Costa de los Espíritus Azules",
+  "levelRange": [13, 17],
+  "startingVillage": "Puerto Barrios",
+  "biome": "selva_costera",
+  "climate": ["humedo", "tormenta_tropical"],
+  "resources": ["conchas", "madera_tropical", "peces_exoticos"],
+  "animals": ["manati_espectral", "pelicano_blanco"],
+  "enemies": ["pirata_fantasma", "cocodrilo_de_rio"],
+  "boss": "la_sirena_de_amatique",
+  "relic": "concha_de_amatique",
+  "mainQuest": "El Tesoro del Castillo de San Felipe",
+  "proceduralEvents": ["niebla_marina", "ataque_pirata", "naufragio_en_la_costa"]
+}

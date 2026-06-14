@@ -1,0 +1,23 @@
+[
+  {
+    "id": "capitan_izabal",
+    "name": "Capitán Morgan Azul",
+    "role": "Guardián del Puerto",
+    "region": "Izabal",
+    "dialogue": "El mar no olvida, muchacho. Si buscas a la princesa, mira hacia el Templo de Quiriguá."
+  },
+  {
+    "id": "maestra_jade",
+    "name": "Doña Clara",
+    "role": "Artesana de Jade",
+    "region": "Chiquimula",
+    "dialogue": "El jade rojo solo se entrega a quien tiene el corazón firme. ¿Es ese tu caso, Oscar?"
+  },
+  {
+    "id": "ermitaño_viento",
+    "name": "El Vigilante",
+    "role": "Ermitaño del Cañón",
+    "region": "El Progreso",
+    "dialogue": "El viento de Guastatoya susurra tu nombre. Ten cuidado en los barrancos."
+  }
+]

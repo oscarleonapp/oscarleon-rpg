@@ -1,0 +1,13 @@
+{
+  "elemental_magic": {
+    "earth": [
+      { "id": "abrazo_de_cabracan", "name": "Abrazo de Cabracán", "effect": "Causa un pequeño sismo que aturde enemigos", "cost": 5, "lore": "Inspirado en el gigante de los terremotos." }
+    ],
+    "rain": [
+      { "id": "bendicion_de_chaac", "name": "Bendición de Chaac", "effect": "Lluvia mística que recupera energía por turno", "cost": 4, "lore": "Invocación al señor de la lluvia." }
+    ],
+    "nature": [
+      { "id": "raices_de_la_ceiba", "name": "Raíces de la Ceiba", "effect": "Inmoviliza a un enemigo por 2 turnos", "cost": 6 }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "jaguar_de_obsidiana",
+    "name": "Jaguar de Obsidiana",
+    "rarity": "mythical",
+    "stats": { "hp": 500, "atk": 45, "def": 40 },
+    "lore": "Un espíritu protector de las cuevas que se volvió oscuro. Su piel es tan dura como el vidrio volcánico.",
+    "drops": ["corazon_de_obsidiana", "garra_mística"]
+  },
+  {
+    "id": "serpiente_de_fuego",
+    "name": "Serpiente de Fuego (Xiuhcoatl)",
+    "rarity": "mythical",
+    "stats": { "hp": 450, "atk": 55, "def": 30 },
+    "lore": "Habita en las calderas de los volcanes activos. Su aliento puede fundir el metal.",
+    "drops": ["escama_ignea", "veneno_solar"]
+  }
+]

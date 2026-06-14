@@ -1,0 +1,38 @@
+{
+  "id": "zacapa",
+  "department": "Zacapa",
+  "fantasyName": "Valle de Xaq’ab",
+  "levelRange": [1, 8],
+  "startingVillage": "Santiago de Gualán",
+  "biome": "valle_seco",
+  "climate": ["soleado", "sequia_mistica", "viento_calido"],
+  "resources": [
+    "maiz",
+    "frijol",
+    "hierba_seca",
+    "madera_de_monte",
+    "piedra_de_rio"
+  ],
+  "animals": [
+    "conejo_de_monte",
+    "iguana",
+    "pez_de_rio",
+    "pajaro_silvestre"
+  ],
+  "enemies": [
+    "rata_de_granero",
+    "cuervo_oscuro",
+    "sombra_del_maizal",
+    "bandido_del_camino"
+  ],
+  "boss": "espantapajaros_negro",
+  "relic": "semilla_qanil",
+  "mainQuest": "La Sequía del Río Motagua",
+  "proceduralEvents": [
+    "campo_infestado",
+    "animal_herido",
+    "cofre_bajo_el_arbol",
+    "anciano_con_profecia",
+    "sombra_en_el_maizal"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "solola",
+    "department": "Sololá",
+    "fantasyName": "Lago de los Tres Espejos",
+    "biome": "bosque_de_montaña_lago",
+    "climate": "templado_frio",
+    "levelRange": [70, 72],
+    "startingVillage": "Panajachel Antiguo",
+    "resources": ["tul", "peces_de_lago", "obsidiana_azul"],
+    "boss": "la_sombra_de_atitlan",
+    "relic": "espejo_de_atitlan"
+  },
+  {
+    "id": "quiche",
+    "department": "Quiché",
+    "fantasyName": "Reino del Popol Sagrado",
+    "biome": "montaña_nubosa",
+    "climate": "frio_humedo",
+    "levelRange": [73, 76],
+    "startingVillage": "Gumarcaj",
+    "resources": ["incienso_copal", "manuscritos_antiguos"],
+    "boss": "el_guardian_del_libro_roto",
+    "relic": "libro_de_luz"
+  }
+]

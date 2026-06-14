@@ -1,0 +1,17 @@
+[
+  {
+    "id": "caballero_de_obsidiana",
+    "name": "Caballero de Obsidiana",
+    "description": "Guerreros de élite que usan armaduras talladas en vidrio volcánico de las canteras de El Chayal.",
+    "stats": { "hp": 150, "atk": 25, "def": 30 },
+    "weakness": "earth_magic",
+    "drops": ["fragmento_de_obsidiana", "blasón_real"]
+  },
+  {
+    "id": "espectro_de_la_antigua",
+    "name": "Espectro de la Merced",
+    "description": "Almas en pena que custodian las ruinas de los conventos en Sacatepéquez.",
+    "stats": { "hp": 100, "atk": 20, "def": 10 },
+    "behavior": "incorporeal"
+  }
+]

@@ -1,0 +1,9457 @@
+{
+  "phase": "fase5_reino_perdido",
+  "source": "tileset_de_ruinas_jungla_pixeladas.png",
+  "count": 945,
+  "tiles": [
+    {
+      "file": "fase5_reino_perdido_001.png",
+      "bbox": [
+        31,
+        30,
+        104,
+        104
+      ],
+      "area": 8805
+    },
+    {
+      "file": "fase5_reino_perdido_002.png",
+      "bbox": [
+        140,
+        30,
+        103,
+        104
+      ],
+      "area": 9009
+    },
+    {
+      "file": "fase5_reino_perdido_003.png",
+      "bbox": [
+        248,
+        30,
+        27,
+        22
+      ],
+      "area": 295
+    },
+    {
+      "file": "fase5_reino_perdido_004.png",
+      "bbox": [
+        278,
+        30,
+        12,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_005.png",
+      "bbox": [
+        298,
+        30,
+        15,
+        13
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_006.png",
+      "bbox": [
+        366,
+        30,
+        93,
+        103
+      ],
+      "area": 6246
+    },
+    {
+      "file": "fase5_reino_perdido_007.png",
+      "bbox": [
+        310,
+        31,
+        24,
+        23
+      ],
+      "area": 248
+    },
+    {
+      "file": "fase5_reino_perdido_008.png",
+      "bbox": [
+        331,
+        31,
+        20,
+        24
+      ],
+      "area": 249
+    },
+    {
+      "file": "fase5_reino_perdido_009.png",
+      "bbox": [
+        356,
+        31,
+        16,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_010.png",
+      "bbox": [
+        651,
+        31,
+        14,
+        17
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase5_reino_perdido_011.png",
+      "bbox": [
+        706,
+        31,
+        13,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_012.png",
+      "bbox": [
+        717,
+        31,
+        18,
+        18
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase5_reino_perdido_013.png",
+      "bbox": [
+        761,
+        31,
+        23,
+        26
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase5_reino_perdido_014.png",
+      "bbox": [
+        464,
+        34,
+        14,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_015.png",
+      "bbox": [
+        271,
+        37,
+        23,
+        15
+      ],
+      "area": 151
+    },
+    {
+      "file": "fase5_reino_perdido_016.png",
+      "bbox": [
+        293,
+        41,
+        20,
+        17
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_017.png",
+      "bbox": [
+        355,
+        41,
+        19,
+        14
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase5_reino_perdido_018.png",
+      "bbox": [
+        681,
+        41,
+        12,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_019.png",
+      "bbox": [
+        707,
+        41,
+        18,
+        15
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_020.png",
+      "bbox": [
+        248,
+        49,
+        30,
+        19
+      ],
+      "area": 277
+    },
+    {
+      "file": "fase5_reino_perdido_021.png",
+      "bbox": [
+        307,
+        49,
+        45,
+        34
+      ],
+      "area": 523
+    },
+    {
+      "file": "fase5_reino_perdido_022.png",
+      "bbox": [
+        444,
+        49,
+        12,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_023.png",
+      "bbox": [
+        275,
+        50,
+        27,
+        34
+      ],
+      "area": 342
+    },
+    {
+      "file": "fase5_reino_perdido_024.png",
+      "bbox": [
+        681,
+        54,
+        25,
+        24
+      ],
+      "area": 197
+    },
+    {
+      "file": "fase5_reino_perdido_025.png",
+      "bbox": [
+        297,
+        58,
+        21,
+        23
+      ],
+      "area": 236
+    },
+    {
+      "file": "fase5_reino_perdido_026.png",
+      "bbox": [
+        356,
+        58,
+        24,
+        24
+      ],
+      "area": 147
+    },
+    {
+      "file": "fase5_reino_perdido_027.png",
+      "bbox": [
+        731,
+        58,
+        15,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_028.png",
+      "bbox": [
+        248,
+        66,
+        20,
+        29
+      ],
+      "area": 241
+    },
+    {
+      "file": "fase5_reino_perdido_029.png",
+      "bbox": [
+        261,
+        66,
+        26,
+        20
+      ],
+      "area": 277
+    },
+    {
+      "file": "fase5_reino_perdido_030.png",
+      "bbox": [
+        316,
+        69,
+        19,
+        15
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase5_reino_perdido_031.png",
+      "bbox": [
+        1155,
+        71,
+        16,
+        11
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_032.png",
+      "bbox": [
+        742,
+        73,
+        23,
+        24
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase5_reino_perdido_033.png",
+      "bbox": [
+        276,
+        80,
+        47,
+        22
+      ],
+      "area": 384
+    },
+    {
+      "file": "fase5_reino_perdido_034.png",
+      "bbox": [
+        298,
+        80,
+        53,
+        52
+      ],
+      "area": 967
+    },
+    {
+      "file": "fase5_reino_perdido_035.png",
+      "bbox": [
+        356,
+        80,
+        26,
+        48
+      ],
+      "area": 563
+    },
+    {
+      "file": "fase5_reino_perdido_036.png",
+      "bbox": [
+        249,
+        87,
+        35,
+        28
+      ],
+      "area": 429
+    },
+    {
+      "file": "fase5_reino_perdido_037.png",
+      "bbox": [
+        681,
+        89,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_038.png",
+      "bbox": [
+        651,
+        91,
+        13,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_039.png",
+      "bbox": [
+        733,
+        91,
+        27,
+        13
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase5_reino_perdido_040.png",
+      "bbox": [
+        292,
+        92,
+        32,
+        12
+      ],
+      "area": 198
+    },
+    {
+      "file": "fase5_reino_perdido_041.png",
+      "bbox": [
+        275,
+        101,
+        26,
+        21
+      ],
+      "area": 259
+    },
+    {
+      "file": "fase5_reino_perdido_042.png",
+      "bbox": [
+        332,
+        111,
+        19,
+        21
+      ],
+      "area": 219
+    },
+    {
+      "file": "fase5_reino_perdido_043.png",
+      "bbox": [
+        264,
+        112,
+        16,
+        20
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase5_reino_perdido_044.png",
+      "bbox": [
+        248,
+        114,
+        19,
+        18
+      ],
+      "area": 173
+    },
+    {
+      "file": "fase5_reino_perdido_045.png",
+      "bbox": [
+        278,
+        119,
+        22,
+        13
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase5_reino_perdido_046.png",
+      "bbox": [
+        708,
+        119,
+        14,
+        12
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_047.png",
+      "bbox": [
+        720,
+        120,
+        14,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_048.png",
+      "bbox": [
+        302,
+        122,
+        13,
+        10
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_049.png",
+      "bbox": [
+        31,
+        139,
+        104,
+        100
+      ],
+      "area": 4452
+    },
+    {
+      "file": "fase5_reino_perdido_050.png",
+      "bbox": [
+        107,
+        139,
+        28,
+        25
+      ],
+      "area": 248
+    },
+    {
+      "file": "fase5_reino_perdido_051.png",
+      "bbox": [
+        140,
+        139,
+        30,
+        30
+      ],
+      "area": 271
+    },
+    {
+      "file": "fase5_reino_perdido_052.png",
+      "bbox": [
+        172,
+        139,
+        41,
+        19
+      ],
+      "area": 342
+    },
+    {
+      "file": "fase5_reino_perdido_053.png",
+      "bbox": [
+        217,
+        139,
+        15,
+        12
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_054.png",
+      "bbox": [
+        255,
+        139,
+        29,
+        13
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase5_reino_perdido_055.png",
+      "bbox": [
+        256,
+        139,
+        91,
+        103
+      ],
+      "area": 5014
+    },
+    {
+      "file": "fase5_reino_perdido_056.png",
+      "bbox": [
+        356,
+        139,
+        19,
+        12
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_057.png",
+      "bbox": [
+        377,
+        139,
+        22,
+        10
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase5_reino_perdido_058.png",
+      "bbox": [
+        494,
+        139,
+        26,
+        11
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase5_reino_perdido_059.png",
+      "bbox": [
+        540,
+        139,
+        26,
+        12
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase5_reino_perdido_060.png",
+      "bbox": [
+        655,
+        139,
+        18,
+        10
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_061.png",
+      "bbox": [
+        681,
+        139,
+        17,
+        11
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase5_reino_perdido_062.png",
+      "bbox": [
+        695,
+        139,
+        13,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_063.png",
+      "bbox": [
+        705,
+        139,
+        12,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_064.png",
+      "bbox": [
+        721,
+        139,
+        12,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_065.png",
+      "bbox": [
+        739,
+        139,
+        19,
+        11
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_066.png",
+      "bbox": [
+        755,
+        139,
+        29,
+        12
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase5_reino_perdido_067.png",
+      "bbox": [
+        790,
+        139,
+        26,
+        11
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_068.png",
+      "bbox": [
+        988,
+        139,
+        13,
+        16
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_069.png",
+      "bbox": [
+        1049,
+        139,
+        13,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_070.png",
+      "bbox": [
+        1139,
+        139,
+        16,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_071.png",
+      "bbox": [
+        1169,
+        139,
+        11,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_072.png",
+      "bbox": [
+        463,
+        140,
+        12,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_073.png",
+      "bbox": [
+        572,
+        146,
+        11,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_074.png",
+      "bbox": [
+        1038,
+        146,
+        14,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_075.png",
+      "bbox": [
+        47,
+        147,
+        12,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_076.png",
+      "bbox": [
+        751,
+        147,
+        15,
+        16
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase5_reino_perdido_077.png",
+      "bbox": [
+        1080,
+        147,
+        15,
+        13
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_078.png",
+      "bbox": [
+        770,
+        148,
+        12,
+        16
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_079.png",
+      "bbox": [
+        837,
+        148,
+        18,
+        14
+      ],
+      "area": 118
+    },
+    {
+      "file": "fase5_reino_perdido_080.png",
+      "bbox": [
+        922,
+        148,
+        79,
+        94
+      ],
+      "area": 4369
+    },
+    {
+      "file": "fase5_reino_perdido_081.png",
+      "bbox": [
+        364,
+        149,
+        20,
+        10
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase5_reino_perdido_082.png",
+      "bbox": [
+        681,
+        149,
+        104,
+        69
+      ],
+      "area": 4134
+    },
+    {
+      "file": "fase5_reino_perdido_083.png",
+      "bbox": [
+        140,
+        150,
+        99,
+        89
+      ],
+      "area": 4124
+    },
+    {
+      "file": "fase5_reino_perdido_084.png",
+      "bbox": [
+        662,
+        150,
+        13,
+        17
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_085.png",
+      "bbox": [
+        912,
+        151,
+        12,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_086.png",
+      "bbox": [
+        101,
+        152,
+        14,
+        17
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_087.png",
+      "bbox": [
+        231,
+        152,
+        12,
+        16
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_088.png",
+      "bbox": [
+        205,
+        153,
+        16,
+        12
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_089.png",
+      "bbox": [
+        898,
+        154,
+        16,
+        13
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase5_reino_perdido_090.png",
+      "bbox": [
+        385,
+        155,
+        16,
+        13
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_091.png",
+      "bbox": [
+        1006,
+        155,
+        86,
+        87
+      ],
+      "area": 4021
+    },
+    {
+      "file": "fase5_reino_perdido_092.png",
+      "bbox": [
+        255,
+        157,
+        14,
+        16
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase5_reino_perdido_093.png",
+      "bbox": [
+        789,
+        158,
+        92,
+        66
+      ],
+      "area": 2888
+    },
+    {
+      "file": "fase5_reino_perdido_094.png",
+      "bbox": [
+        1124,
+        158,
+        94,
+        84
+      ],
+      "area": 4674
+    },
+    {
+      "file": "fase5_reino_perdido_095.png",
+      "bbox": [
+        248,
+        161,
+        10,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_096.png",
+      "bbox": [
+        495,
+        161,
+        30,
+        21
+      ],
+      "area": 219
+    },
+    {
+      "file": "fase5_reino_perdido_097.png",
+      "bbox": [
+        356,
+        163,
+        80,
+        77
+      ],
+      "area": 3107
+    },
+    {
+      "file": "fase5_reino_perdido_098.png",
+      "bbox": [
+        428,
+        163,
+        14,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_099.png",
+      "bbox": [
+        541,
+        164,
+        16,
+        11
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_100.png",
+      "bbox": [
+        554,
+        164,
+        13,
+        10
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_101.png",
+      "bbox": [
+        596,
+        164,
+        80,
+        78
+      ],
+      "area": 3494
+    },
+    {
+      "file": "fase5_reino_perdido_102.png",
+      "bbox": [
+        336,
+        165,
+        15,
+        9
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_103.png",
+      "bbox": [
+        356,
+        165,
+        13,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_104.png",
+      "bbox": [
+        485,
+        165,
+        82,
+        75
+      ],
+      "area": 2965
+    },
+    {
+      "file": "fase5_reino_perdido_105.png",
+      "bbox": [
+        437,
+        167,
+        13,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_106.png",
+      "bbox": [
+        464,
+        169,
+        13,
+        15
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_107.png",
+      "bbox": [
+        478,
+        171,
+        17,
+        21
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase5_reino_perdido_108.png",
+      "bbox": [
+        1089,
+        175,
+        15,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_109.png",
+      "bbox": [
+        598,
+        177,
+        12,
+        17
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase5_reino_perdido_110.png",
+      "bbox": [
+        437,
+        178,
+        22,
+        34
+      ],
+      "area": 324
+    },
+    {
+      "file": "fase5_reino_perdido_111.png",
+      "bbox": [
+        42,
+        181,
+        17,
+        22
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase5_reino_perdido_112.png",
+      "bbox": [
+        249,
+        190,
+        12,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_113.png",
+      "bbox": [
+        425,
+        190,
+        22,
+        31
+      ],
+      "area": 246
+    },
+    {
+      "file": "fase5_reino_perdido_114.png",
+      "bbox": [
+        489,
+        190,
+        14,
+        13
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_115.png",
+      "bbox": [
+        31,
+        191,
+        14,
+        10
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_116.png",
+      "bbox": [
+        487,
+        198,
+        24,
+        21
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase5_reino_perdido_117.png",
+      "bbox": [
+        360,
+        205,
+        18,
+        21
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase5_reino_perdido_118.png",
+      "bbox": [
+        51,
+        208,
+        13,
+        17
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_119.png",
+      "bbox": [
+        463,
+        208,
+        17,
+        32
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase5_reino_perdido_120.png",
+      "bbox": [
+        355,
+        211,
+        11,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_121.png",
+      "bbox": [
+        420,
+        211,
+        39,
+        29
+      ],
+      "area": 368
+    },
+    {
+      "file": "fase5_reino_perdido_122.png",
+      "bbox": [
+        681,
+        211,
+        18,
+        17
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase5_reino_perdido_123.png",
+      "bbox": [
+        699,
+        211,
+        13,
+        13
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_124.png",
+      "bbox": [
+        711,
+        211,
+        20,
+        17
+      ],
+      "area": 118
+    },
+    {
+      "file": "fase5_reino_perdido_125.png",
+      "bbox": [
+        771,
+        211,
+        11,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_126.png",
+      "bbox": [
+        796,
+        212,
+        21,
+        13
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase5_reino_perdido_127.png",
+      "bbox": [
+        31,
+        214,
+        19,
+        12
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_128.png",
+      "bbox": [
+        223,
+        215,
+        16,
+        17
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase5_reino_perdido_129.png",
+      "bbox": [
+        140,
+        218,
+        30,
+        21
+      ],
+      "area": 214
+    },
+    {
+      "file": "fase5_reino_perdido_130.png",
+      "bbox": [
+        550,
+        218,
+        13,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_131.png",
+      "bbox": [
+        199,
+        219,
+        26,
+        21
+      ],
+      "area": 187
+    },
+    {
+      "file": "fase5_reino_perdido_132.png",
+      "bbox": [
+        643,
+        219,
+        24,
+        20
+      ],
+      "area": 174
+    },
+    {
+      "file": "fase5_reino_perdido_133.png",
+      "bbox": [
+        94,
+        221,
+        15,
+        14
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_134.png",
+      "bbox": [
+        104,
+        221,
+        23,
+        17
+      ],
+      "area": 173
+    },
+    {
+      "file": "fase5_reino_perdido_135.png",
+      "bbox": [
+        695,
+        221,
+        28,
+        17
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase5_reino_perdido_136.png",
+      "bbox": [
+        808,
+        221,
+        19,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_137.png",
+      "bbox": [
+        47,
+        222,
+        13,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_138.png",
+      "bbox": [
+        762,
+        223,
+        15,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_139.png",
+      "bbox": [
+        80,
+        227,
+        12,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_140.png",
+      "bbox": [
+        121,
+        248,
+        14,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_141.png",
+      "bbox": [
+        199,
+        248,
+        17,
+        14
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_142.png",
+      "bbox": [
+        222,
+        248,
+        14,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_143.png",
+      "bbox": [
+        280,
+        248,
+        34,
+        27
+      ],
+      "area": 243
+    },
+    {
+      "file": "fase5_reino_perdido_144.png",
+      "bbox": [
+        384,
+        248,
+        34,
+        21
+      ],
+      "area": 270
+    },
+    {
+      "file": "fase5_reino_perdido_145.png",
+      "bbox": [
+        491,
+        248,
+        33,
+        29
+      ],
+      "area": 301
+    },
+    {
+      "file": "fase5_reino_perdido_146.png",
+      "bbox": [
+        600,
+        248,
+        33,
+        16
+      ],
+      "area": 185
+    },
+    {
+      "file": "fase5_reino_perdido_147.png",
+      "bbox": [
+        31,
+        249,
+        14,
+        17
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_148.png",
+      "bbox": [
+        140,
+        249,
+        13,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_149.png",
+      "bbox": [
+        410,
+        249,
+        24,
+        17
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase5_reino_perdido_150.png",
+      "bbox": [
+        572,
+        252,
+        10,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_151.png",
+      "bbox": [
+        111,
+        253,
+        15,
+        16
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_152.png",
+      "bbox": [
+        329,
+        253,
+        15,
+        15
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_153.png",
+      "bbox": [
+        356,
+        253,
+        12,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_154.png",
+      "bbox": [
+        626,
+        253,
+        13,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_155.png",
+      "bbox": [
+        520,
+        254,
+        18,
+        21
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase5_reino_perdido_156.png",
+      "bbox": [
+        307,
+        256,
+        15,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_157.png",
+      "bbox": [
+        619,
+        261,
+        14,
+        11
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_158.png",
+      "bbox": [
+        403,
+        262,
+        18,
+        18
+      ],
+      "area": 144
+    },
+    {
+      "file": "fase5_reino_perdido_159.png",
+      "bbox": [
+        507,
+        263,
+        17,
+        15
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase5_reino_perdido_160.png",
+      "bbox": [
+        259,
+        264,
+        14,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_161.png",
+      "bbox": [
+        383,
+        264,
+        16,
+        15
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_162.png",
+      "bbox": [
+        53,
+        265,
+        15,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_163.png",
+      "bbox": [
+        249,
+        267,
+        18,
+        11
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_164.png",
+      "bbox": [
+        287,
+        270,
+        21,
+        14
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase5_reino_perdido_165.png",
+      "bbox": [
+        356,
+        270,
+        19,
+        17
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_166.png",
+      "bbox": [
+        71,
+        272,
+        14,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_167.png",
+      "bbox": [
+        513,
+        273,
+        20,
+        14
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_168.png",
+      "bbox": [
+        395,
+        274,
+        28,
+        17
+      ],
+      "area": 184
+    },
+    {
+      "file": "fase5_reino_perdido_169.png",
+      "bbox": [
+        505,
+        274,
+        10,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_170.png",
+      "bbox": [
+        83,
+        276,
+        16,
+        14
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_171.png",
+      "bbox": [
+        303,
+        277,
+        14,
+        10
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_172.png",
+      "bbox": [
+        463,
+        277,
+        14,
+        13
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_173.png",
+      "bbox": [
+        434,
+        278,
+        16,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_174.png",
+      "bbox": [
+        386,
+        284,
+        18,
+        16
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase5_reino_perdido_175.png",
+      "bbox": [
+        302,
+        285,
+        11,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_176.png",
+      "bbox": [
+        402,
+        288,
+        20,
+        9
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_177.png",
+      "bbox": [
+        506,
+        294,
+        19,
+        14
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase5_reino_perdido_178.png",
+      "bbox": [
+        74,
+        306,
+        10,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_179.png",
+      "bbox": [
+        502,
+        306,
+        16,
+        8
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_180.png",
+      "bbox": [
+        32,
+        307,
+        11,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_181.png",
+      "bbox": [
+        176,
+        309,
+        14,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_182.png",
+      "bbox": [
+        280,
+        317,
+        15,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_183.png",
+      "bbox": [
+        210,
+        321,
+        22,
+        19
+      ],
+      "area": 185
+    },
+    {
+      "file": "fase5_reino_perdido_184.png",
+      "bbox": [
+        105,
+        325,
+        14,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_185.png",
+      "bbox": [
+        175,
+        326,
+        16,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_186.png",
+      "bbox": [
+        93,
+        329,
+        14,
+        16
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_187.png",
+      "bbox": [
+        31,
+        334,
+        23,
+        12
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase5_reino_perdido_188.png",
+      "bbox": [
+        31,
+        355,
+        14,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_189.png",
+      "bbox": [
+        46,
+        355,
+        14,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_190.png",
+      "bbox": [
+        59,
+        355,
+        12,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_191.png",
+      "bbox": [
+        73,
+        355,
+        18,
+        11
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_192.png",
+      "bbox": [
+        98,
+        355,
+        23,
+        28
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase5_reino_perdido_193.png",
+      "bbox": [
+        192,
+        355,
+        16,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_194.png",
+      "bbox": [
+        253,
+        355,
+        40,
+        12
+      ],
+      "area": 179
+    },
+    {
+      "file": "fase5_reino_perdido_195.png",
+      "bbox": [
+        305,
+        355,
+        18,
+        9
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_196.png",
+      "bbox": [
+        328,
+        355,
+        16,
+        12
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase5_reino_perdido_197.png",
+      "bbox": [
+        357,
+        355,
+        14,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_198.png",
+      "bbox": [
+        469,
+        355,
+        19,
+        15
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase5_reino_perdido_199.png",
+      "bbox": [
+        498,
+        355,
+        17,
+        8
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_200.png",
+      "bbox": [
+        516,
+        355,
+        21,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_201.png",
+      "bbox": [
+        217,
+        356,
+        15,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_202.png",
+      "bbox": [
+        174,
+        361,
+        20,
+        16
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_203.png",
+      "bbox": [
+        47,
+        363,
+        13,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_204.png",
+      "bbox": [
+        1051,
+        376,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_205.png",
+      "bbox": [
+        596,
+        382,
+        13,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_206.png",
+      "bbox": [
+        639,
+        382,
+        15,
+        12
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_207.png",
+      "bbox": [
+        1036,
+        386,
+        15,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_208.png",
+      "bbox": [
+        1143,
+        391,
+        24,
+        16
+      ],
+      "area": 147
+    },
+    {
+      "file": "fase5_reino_perdido_209.png",
+      "bbox": [
+        331,
+        400,
+        13,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_210.png",
+      "bbox": [
+        598,
+        408,
+        50,
+        27
+      ],
+      "area": 513
+    },
+    {
+      "file": "fase5_reino_perdido_211.png",
+      "bbox": [
+        638,
+        432,
+        12,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_212.png",
+      "bbox": [
+        596,
+        433,
+        16,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_213.png",
+      "bbox": [
+        793,
+        473,
+        14,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_214.png",
+      "bbox": [
+        823,
+        473,
+        19,
+        10
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_215.png",
+      "bbox": [
+        844,
+        473,
+        14,
+        20
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_216.png",
+      "bbox": [
+        983,
+        473,
+        51,
+        32
+      ],
+      "area": 795
+    },
+    {
+      "file": "fase5_reino_perdido_217.png",
+      "bbox": [
+        1003,
+        473,
+        12,
+        9
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_218.png",
+      "bbox": [
+        1113,
+        473,
+        67,
+        43
+      ],
+      "area": 946
+    },
+    {
+      "file": "fase5_reino_perdido_219.png",
+      "bbox": [
+        792,
+        481,
+        59,
+        25
+      ],
+      "area": 579
+    },
+    {
+      "file": "fase5_reino_perdido_220.png",
+      "bbox": [
+        665,
+        482,
+        23,
+        22
+      ],
+      "area": 130
+    },
+    {
+      "file": "fase5_reino_perdido_221.png",
+      "bbox": [
+        853,
+        486,
+        10,
+        17
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_222.png",
+      "bbox": [
+        630,
+        487,
+        13,
+        16
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_223.png",
+      "bbox": [
+        1176,
+        488,
+        25,
+        24
+      ],
+      "area": 267
+    },
+    {
+      "file": "fase5_reino_perdido_224.png",
+      "bbox": [
+        1139,
+        493,
+        41,
+        15
+      ],
+      "area": 269
+    },
+    {
+      "file": "fase5_reino_perdido_225.png",
+      "bbox": [
+        779,
+        494,
+        40,
+        37
+      ],
+      "area": 512
+    },
+    {
+      "file": "fase5_reino_perdido_226.png",
+      "bbox": [
+        985,
+        497,
+        13,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_227.png",
+      "bbox": [
+        848,
+        500,
+        14,
+        21
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase5_reino_perdido_228.png",
+      "bbox": [
+        988,
+        505,
+        24,
+        18
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase5_reino_perdido_229.png",
+      "bbox": [
+        821,
+        509,
+        48,
+        22
+      ],
+      "area": 331
+    },
+    {
+      "file": "fase5_reino_perdido_230.png",
+      "bbox": [
+        1093,
+        509,
+        55,
+        59
+      ],
+      "area": 971
+    },
+    {
+      "file": "fase5_reino_perdido_231.png",
+      "bbox": [
+        962,
+        510,
+        19,
+        14
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_232.png",
+      "bbox": [
+        754,
+        511,
+        13,
+        15
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_233.png",
+      "bbox": [
+        1013,
+        515,
+        10,
+        13
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_234.png",
+      "bbox": [
+        1183,
+        519,
+        15,
+        12
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase5_reino_perdido_235.png",
+      "bbox": [
+        955,
+        520,
+        11,
+        23
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_236.png",
+      "bbox": [
+        963,
+        520,
+        62,
+        23
+      ],
+      "area": 543
+    },
+    {
+      "file": "fase5_reino_perdido_237.png",
+      "bbox": [
+        747,
+        521,
+        108,
+        107
+      ],
+      "area": 2399
+    },
+    {
+      "file": "fase5_reino_perdido_238.png",
+      "bbox": [
+        1139,
+        521,
+        13,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase5_reino_perdido_239.png",
+      "bbox": [
+        604,
+        523,
+        15,
+        15
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_240.png",
+      "bbox": [
+        754,
+        523,
+        11,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_241.png",
+      "bbox": [
+        1205,
+        524,
+        13,
+        25
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase5_reino_perdido_242.png",
+      "bbox": [
+        818,
+        527,
+        29,
+        17
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase5_reino_perdido_243.png",
+      "bbox": [
+        1022,
+        527,
+        24,
+        13
+      ],
+      "area": 115
+    },
+    {
+      "file": "fase5_reino_perdido_244.png",
+      "bbox": [
+        799,
+        528,
+        10,
+        18
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase5_reino_perdido_245.png",
+      "bbox": [
+        852,
+        528,
+        19,
+        30
+      ],
+      "area": 219
+    },
+    {
+      "file": "fase5_reino_perdido_246.png",
+      "bbox": [
+        1116,
+        528,
+        16,
+        9
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_247.png",
+      "bbox": [
+        1182,
+        528,
+        18,
+        9
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_248.png",
+      "bbox": [
+        941,
+        530,
+        18,
+        37
+      ],
+      "area": 269
+    },
+    {
+      "file": "fase5_reino_perdido_249.png",
+      "bbox": [
+        742,
+        532,
+        13,
+        26
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase5_reino_perdido_250.png",
+      "bbox": [
+        1145,
+        534,
+        62,
+        31
+      ],
+      "area": 629
+    },
+    {
+      "file": "fase5_reino_perdido_251.png",
+      "bbox": [
+        963,
+        537,
+        19,
+        15
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_252.png",
+      "bbox": [
+        1032,
+        538,
+        13,
+        9
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_253.png",
+      "bbox": [
+        991,
+        539,
+        10,
+        19
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_254.png",
+      "bbox": [
+        834,
+        540,
+        13,
+        14
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_255.png",
+      "bbox": [
+        572,
+        541,
+        17,
+        9
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_256.png",
+      "bbox": [
+        1016,
+        541,
+        10,
+        15
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_257.png",
+      "bbox": [
+        1000,
+        542,
+        19,
+        15
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_258.png",
+      "bbox": [
+        795,
+        543,
+        17,
+        10
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_259.png",
+      "bbox": [
+        845,
+        544,
+        17,
+        10
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_260.png",
+      "bbox": [
+        851,
+        545,
+        37,
+        26
+      ],
+      "area": 332
+    },
+    {
+      "file": "fase5_reino_perdido_261.png",
+      "bbox": [
+        955,
+        545,
+        12,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_262.png",
+      "bbox": [
+        1032,
+        545,
+        15,
+        13
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase5_reino_perdido_263.png",
+      "bbox": [
+        1132,
+        546,
+        15,
+        19
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase5_reino_perdido_264.png",
+      "bbox": [
+        1180,
+        547,
+        31,
+        39
+      ],
+      "area": 488
+    },
+    {
+      "file": "fase5_reino_perdido_265.png",
+      "bbox": [
+        1104,
+        548,
+        27,
+        37
+      ],
+      "area": 514
+    },
+    {
+      "file": "fase5_reino_perdido_266.png",
+      "bbox": [
+        968,
+        550,
+        12,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_267.png",
+      "bbox": [
+        1001,
+        551,
+        17,
+        13
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_268.png",
+      "bbox": [
+        280,
+        555,
+        19,
+        29
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase5_reino_perdido_269.png",
+      "bbox": [
+        991,
+        555,
+        10,
+        18
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_270.png",
+      "bbox": [
+        1016,
+        555,
+        10,
+        18
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_271.png",
+      "bbox": [
+        1036,
+        555,
+        13,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_272.png",
+      "bbox": [
+        259,
+        558,
+        10,
+        16
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_273.png",
+      "bbox": [
+        1059,
+        558,
+        12,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_274.png",
+      "bbox": [
+        334,
+        559,
+        8,
+        17
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_275.png",
+      "bbox": [
+        1133,
+        563,
+        14,
+        14
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase5_reino_perdido_276.png",
+      "bbox": [
+        1166,
+        563,
+        15,
+        15
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase5_reino_perdido_277.png",
+      "bbox": [
+        944,
+        564,
+        14,
+        16
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_278.png",
+      "bbox": [
+        956,
+        565,
+        18,
+        15
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase5_reino_perdido_279.png",
+      "bbox": [
+        753,
+        566,
+        24,
+        28
+      ],
+      "area": 269
+    },
+    {
+      "file": "fase5_reino_perdido_280.png",
+      "bbox": [
+        765,
+        567,
+        14,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_281.png",
+      "bbox": [
+        103,
+        568,
+        13,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_282.png",
+      "bbox": [
+        741,
+        568,
+        10,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_283.png",
+      "bbox": [
+        860,
+        568,
+        14,
+        13
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_284.png",
+      "bbox": [
+        875,
+        568,
+        13,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_285.png",
+      "bbox": [
+        971,
+        568,
+        14,
+        12
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_286.png",
+      "bbox": [
+        1045,
+        568,
+        15,
+        12
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_287.png",
+      "bbox": [
+        990,
+        570,
+        11,
+        20
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase5_reino_perdido_288.png",
+      "bbox": [
+        1016,
+        570,
+        11,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_289.png",
+      "bbox": [
+        815,
+        572,
+        24,
+        14
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_290.png",
+      "bbox": [
+        782,
+        573,
+        14,
+        9
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_291.png",
+      "bbox": [
+        1133,
+        574,
+        14,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_292.png",
+      "bbox": [
+        1088,
+        575,
+        47,
+        24
+      ],
+      "area": 355
+    },
+    {
+      "file": "fase5_reino_perdido_293.png",
+      "bbox": [
+        940,
+        577,
+        22,
+        22
+      ],
+      "area": 183
+    },
+    {
+      "file": "fase5_reino_perdido_294.png",
+      "bbox": [
+        777,
+        579,
+        21,
+        8
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_295.png",
+      "bbox": [
+        879,
+        579,
+        25,
+        16
+      ],
+      "area": 143
+    },
+    {
+      "file": "fase5_reino_perdido_296.png",
+      "bbox": [
+        866,
+        580,
+        18,
+        14
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase5_reino_perdido_297.png",
+      "bbox": [
+        253,
+        581,
+        25,
+        19
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase5_reino_perdido_298.png",
+      "bbox": [
+        854,
+        581,
+        14,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_299.png",
+      "bbox": [
+        1017,
+        581,
+        9,
+        15
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_300.png",
+      "bbox": [
+        790,
+        582,
+        14,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_301.png",
+      "bbox": [
+        1133,
+        582,
+        46,
+        27
+      ],
+      "area": 398
+    },
+    {
+      "file": "fase5_reino_perdido_302.png",
+      "bbox": [
+        283,
+        583,
+        12,
+        17
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_303.png",
+      "bbox": [
+        106,
+        584,
+        14,
+        23
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase5_reino_perdido_304.png",
+      "bbox": [
+        775,
+        584,
+        18,
+        10
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase5_reino_perdido_305.png",
+      "bbox": [
+        1054,
+        584,
+        20,
+        15
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase5_reino_perdido_306.png",
+      "bbox": [
+        1183,
+        584,
+        18,
+        15
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase5_reino_perdido_307.png",
+      "bbox": [
+        1198,
+        585,
+        17,
+        14
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_308.png",
+      "bbox": [
+        841,
+        586,
+        15,
+        34
+      ],
+      "area": 264
+    },
+    {
+      "file": "fase5_reino_perdido_309.png",
+      "bbox": [
+        739,
+        587,
+        10,
+        16
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_310.png",
+      "bbox": [
+        960,
+        587,
+        21,
+        12
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_311.png",
+      "bbox": [
+        1043,
+        587,
+        14,
+        12
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_312.png",
+      "bbox": [
+        990,
+        588,
+        10,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_313.png",
+      "bbox": [
+        915,
+        589,
+        11,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_314.png",
+      "bbox": [
+        1017,
+        594,
+        10,
+        17
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_315.png",
+      "bbox": [
+        527,
+        595,
+        12,
+        15
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_316.png",
+      "bbox": [
+        281,
+        597,
+        11,
+        15
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_317.png",
+      "bbox": [
+        610,
+        598,
+        20,
+        12
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_318.png",
+      "bbox": [
+        227,
+        599,
+        19,
+        23
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase5_reino_perdido_319.png",
+      "bbox": [
+        384,
+        600,
+        21,
+        16
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase5_reino_perdido_320.png",
+      "bbox": [
+        1155,
+        600,
+        18,
+        12
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase5_reino_perdido_321.png",
+      "bbox": [
+        738,
+        601,
+        21,
+        12
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_322.png",
+      "bbox": [
+        762,
+        602,
+        14,
+        10
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_323.png",
+      "bbox": [
+        904,
+        602,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_324.png",
+      "bbox": [
+        937,
+        602,
+        12,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_325.png",
+      "bbox": [
+        52,
+        603,
+        13,
+        15
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_326.png",
+      "bbox": [
+        777,
+        603,
+        15,
+        9
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_327.png",
+      "bbox": [
+        966,
+        603,
+        15,
+        10
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_328.png",
+      "bbox": [
+        1209,
+        603,
+        17,
+        14
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase5_reino_perdido_329.png",
+      "bbox": [
+        912,
+        604,
+        12,
+        14
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_330.png",
+      "bbox": [
+        562,
+        605,
+        16,
+        15
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_331.png",
+      "bbox": [
+        510,
+        608,
+        18,
+        16
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_332.png",
+      "bbox": [
+        1017,
+        608,
+        10,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_333.png",
+      "bbox": [
+        1133,
+        608,
+        57,
+        19
+      ],
+      "area": 439
+    },
+    {
+      "file": "fase5_reino_perdido_334.png",
+      "bbox": [
+        743,
+        610,
+        14,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_335.png",
+      "bbox": [
+        820,
+        610,
+        24,
+        9
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_336.png",
+      "bbox": [
+        966,
+        610,
+        14,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_337.png",
+      "bbox": [
+        1035,
+        610,
+        22,
+        12
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase5_reino_perdido_338.png",
+      "bbox": [
+        765,
+        611,
+        15,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_339.png",
+      "bbox": [
+        1024,
+        611,
+        14,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_340.png",
+      "bbox": [
+        1189,
+        611,
+        12,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_341.png",
+      "bbox": [
+        879,
+        612,
+        15,
+        9
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_342.png",
+      "bbox": [
+        981,
+        612,
+        18,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_343.png",
+      "bbox": [
+        465,
+        615,
+        16,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_344.png",
+      "bbox": [
+        555,
+        616,
+        13,
+        14
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_345.png",
+      "bbox": [
+        823,
+        616,
+        13,
+        9
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_346.png",
+      "bbox": [
+        1131,
+        617,
+        17,
+        12
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_347.png",
+      "bbox": [
+        537,
+        619,
+        13,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_348.png",
+      "bbox": [
+        458,
+        620,
+        13,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_349.png",
+      "bbox": [
+        655,
+        620,
+        11,
+        14
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_350.png",
+      "bbox": [
+        410,
+        621,
+        15,
+        12
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_351.png",
+      "bbox": [
+        254,
+        623,
+        13,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_352.png",
+      "bbox": [
+        319,
+        623,
+        20,
+        14
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_353.png",
+      "bbox": [
+        436,
+        625,
+        13,
+        10
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_354.png",
+      "bbox": [
+        308,
+        627,
+        14,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_355.png",
+      "bbox": [
+        135,
+        631,
+        16,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_356.png",
+      "bbox": [
+        891,
+        637,
+        21,
+        19
+      ],
+      "area": 183
+    },
+    {
+      "file": "fase5_reino_perdido_357.png",
+      "bbox": [
+        966,
+        637,
+        46,
+        42
+      ],
+      "area": 426
+    },
+    {
+      "file": "fase5_reino_perdido_358.png",
+      "bbox": [
+        1148,
+        638,
+        39,
+        31
+      ],
+      "area": 528
+    },
+    {
+      "file": "fase5_reino_perdido_359.png",
+      "bbox": [
+        1184,
+        639,
+        27,
+        28
+      ],
+      "area": 410
+    },
+    {
+      "file": "fase5_reino_perdido_360.png",
+      "bbox": [
+        457,
+        640,
+        13,
+        15
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_361.png",
+      "bbox": [
+        799,
+        640,
+        19,
+        22
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase5_reino_perdido_362.png",
+      "bbox": [
+        731,
+        641,
+        27,
+        21
+      ],
+      "area": 270
+    },
+    {
+      "file": "fase5_reino_perdido_363.png",
+      "bbox": [
+        764,
+        641,
+        17,
+        15
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase5_reino_perdido_364.png",
+      "bbox": [
+        778,
+        641,
+        19,
+        12
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase5_reino_perdido_365.png",
+      "bbox": [
+        834,
+        641,
+        17,
+        12
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_366.png",
+      "bbox": [
+        851,
+        641,
+        18,
+        17
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase5_reino_perdido_367.png",
+      "bbox": [
+        910,
+        641,
+        20,
+        15
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase5_reino_perdido_368.png",
+      "bbox": [
+        1052,
+        641,
+        48,
+        38
+      ],
+      "area": 720
+    },
+    {
+      "file": "fase5_reino_perdido_369.png",
+      "bbox": [
+        391,
+        646,
+        11,
+        15
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_370.png",
+      "bbox": [
+        533,
+        647,
+        54,
+        37
+      ],
+      "area": 665
+    },
+    {
+      "file": "fase5_reino_perdido_371.png",
+      "bbox": [
+        788,
+        650,
+        14,
+        12
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_372.png",
+      "bbox": [
+        832,
+        650,
+        15,
+        21
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase5_reino_perdido_373.png",
+      "bbox": [
+        983,
+        652,
+        13,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_374.png",
+      "bbox": [
+        891,
+        653,
+        13,
+        15
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_375.png",
+      "bbox": [
+        911,
+        653,
+        16,
+        14
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase5_reino_perdido_376.png",
+      "bbox": [
+        994,
+        653,
+        21,
+        17
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_377.png",
+      "bbox": [
+        605,
+        654,
+        28,
+        17
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase5_reino_perdido_378.png",
+      "bbox": [
+        629,
+        654,
+        23,
+        19
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase5_reino_perdido_379.png",
+      "bbox": [
+        901,
+        654,
+        13,
+        14
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_380.png",
+      "bbox": [
+        983,
+        660,
+        18,
+        14
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_381.png",
+      "bbox": [
+        1116,
+        663,
+        54,
+        51
+      ],
+      "area": 908
+    },
+    {
+      "file": "fase5_reino_perdido_382.png",
+      "bbox": [
+        833,
+        664,
+        25,
+        13
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase5_reino_perdido_383.png",
+      "bbox": [
+        938,
+        664,
+        9,
+        14
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_384.png",
+      "bbox": [
+        1003,
+        664,
+        10,
+        15
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_385.png",
+      "bbox": [
+        1164,
+        664,
+        26,
+        50
+      ],
+      "area": 574
+    },
+    {
+      "file": "fase5_reino_perdido_386.png",
+      "bbox": [
+        1189,
+        664,
+        21,
+        20
+      ],
+      "area": 224
+    },
+    {
+      "file": "fase5_reino_perdido_387.png",
+      "bbox": [
+        925,
+        665,
+        16,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_388.png",
+      "bbox": [
+        897,
+        667,
+        11,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_389.png",
+      "bbox": [
+        301,
+        671,
+        17,
+        11
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_390.png",
+      "bbox": [
+        1037,
+        671,
+        19,
+        19
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase5_reino_perdido_391.png",
+      "bbox": [
+        796,
+        672,
+        16,
+        8
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_392.png",
+      "bbox": [
+        499,
+        674,
+        18,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_393.png",
+      "bbox": [
+        892,
+        674,
+        21,
+        39
+      ],
+      "area": 362
+    },
+    {
+      "file": "fase5_reino_perdido_394.png",
+      "bbox": [
+        908,
+        674,
+        13,
+        29
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase5_reino_perdido_395.png",
+      "bbox": [
+        1053,
+        676,
+        11,
+        15
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_396.png",
+      "bbox": [
+        1060,
+        677,
+        12,
+        17
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_397.png",
+      "bbox": [
+        920,
+        679,
+        18,
+        10
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase5_reino_perdido_398.png",
+      "bbox": [
+        1188,
+        680,
+        14,
+        11
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_399.png",
+      "bbox": [
+        1211,
+        680,
+        10,
+        16
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_400.png",
+      "bbox": [
+        1201,
+        682,
+        15,
+        18
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase5_reino_perdido_401.png",
+      "bbox": [
+        189,
+        685,
+        9,
+        18
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_402.png",
+      "bbox": [
+        833,
+        685,
+        11,
+        14
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_403.png",
+      "bbox": [
+        849,
+        685,
+        16,
+        15
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase5_reino_perdido_404.png",
+      "bbox": [
+        862,
+        685,
+        9,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_405.png",
+      "bbox": [
+        922,
+        685,
+        19,
+        26
+      ],
+      "area": 151
+    },
+    {
+      "file": "fase5_reino_perdido_406.png",
+      "bbox": [
+        1003,
+        685,
+        12,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_407.png",
+      "bbox": [
+        965,
+        686,
+        12,
+        43
+      ],
+      "area": 260
+    },
+    {
+      "file": "fase5_reino_perdido_408.png",
+      "bbox": [
+        732,
+        687,
+        11,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_409.png",
+      "bbox": [
+        977,
+        687,
+        23,
+        8
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_410.png",
+      "bbox": [
+        381,
+        688,
+        17,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_411.png",
+      "bbox": [
+        1027,
+        688,
+        39,
+        23
+      ],
+      "area": 434
+    },
+    {
+      "file": "fase5_reino_perdido_412.png",
+      "bbox": [
+        270,
+        690,
+        13,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_413.png",
+      "bbox": [
+        220,
+        691,
+        16,
+        16
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase5_reino_perdido_414.png",
+      "bbox": [
+        36,
+        692,
+        13,
+        21
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_415.png",
+      "bbox": [
+        1063,
+        692,
+        16,
+        13
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_416.png",
+      "bbox": [
+        131,
+        693,
+        16,
+        14
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase5_reino_perdido_417.png",
+      "bbox": [
+        459,
+        693,
+        12,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_418.png",
+      "bbox": [
+        1077,
+        693,
+        22,
+        20
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase5_reino_perdido_419.png",
+      "bbox": [
+        395,
+        695,
+        14,
+        15
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_420.png",
+      "bbox": [
+        533,
+        695,
+        11,
+        16
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_421.png",
+      "bbox": [
+        600,
+        695,
+        12,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_422.png",
+      "bbox": [
+        834,
+        696,
+        12,
+        17
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_423.png",
+      "bbox": [
+        732,
+        697,
+        9,
+        16
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_424.png",
+      "bbox": [
+        1005,
+        697,
+        10,
+        22
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_425.png",
+      "bbox": [
+        1186,
+        697,
+        11,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_426.png",
+      "bbox": [
+        1202,
+        697,
+        19,
+        18
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase5_reino_perdido_427.png",
+      "bbox": [
+        566,
+        698,
+        17,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_428.png",
+      "bbox": [
+        266,
+        699,
+        12,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_429.png",
+      "bbox": [
+        145,
+        700,
+        13,
+        13
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_430.png",
+      "bbox": [
+        421,
+        700,
+        14,
+        14
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_431.png",
+      "bbox": [
+        466,
+        701,
+        19,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase5_reino_perdido_432.png",
+      "bbox": [
+        613,
+        701,
+        19,
+        12
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase5_reino_perdido_433.png",
+      "bbox": [
+        249,
+        703,
+        18,
+        12
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_434.png",
+      "bbox": [
+        855,
+        703,
+        14,
+        10
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_435.png",
+      "bbox": [
+        160,
+        704,
+        19,
+        10
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_436.png",
+      "bbox": [
+        892,
+        706,
+        18,
+        18
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase5_reino_perdido_437.png",
+      "bbox": [
+        74,
+        707,
+        17,
+        9
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_438.png",
+      "bbox": [
+        1027,
+        708,
+        12,
+        16
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase5_reino_perdido_439.png",
+      "bbox": [
+        834,
+        710,
+        19,
+        14
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase5_reino_perdido_440.png",
+      "bbox": [
+        851,
+        710,
+        13,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_441.png",
+      "bbox": [
+        1077,
+        710,
+        22,
+        19
+      ],
+      "area": 221
+    },
+    {
+      "file": "fase5_reino_perdido_442.png",
+      "bbox": [
+        732,
+        711,
+        10,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_443.png",
+      "bbox": [
+        743,
+        711,
+        12,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_444.png",
+      "bbox": [
+        1070,
+        711,
+        10,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_445.png",
+      "bbox": [
+        1117,
+        711,
+        13,
+        16
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase5_reino_perdido_446.png",
+      "bbox": [
+        1127,
+        711,
+        10,
+        17
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_447.png",
+      "bbox": [
+        1142,
+        711,
+        11,
+        16
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase5_reino_perdido_448.png",
+      "bbox": [
+        1164,
+        711,
+        18,
+        16
+      ],
+      "area": 143
+    },
+    {
+      "file": "fase5_reino_perdido_449.png",
+      "bbox": [
+        1201,
+        712,
+        20,
+        19
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase5_reino_perdido_450.png",
+      "bbox": [
+        1189,
+        716,
+        15,
+        12
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_451.png",
+      "bbox": [
+        762,
+        718,
+        29,
+        19
+      ],
+      "area": 198
+    },
+    {
+      "file": "fase5_reino_perdido_452.png",
+      "bbox": [
+        738,
+        721,
+        21,
+        16
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase5_reino_perdido_453.png",
+      "bbox": [
+        809,
+        721,
+        11,
+        17
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_454.png",
+      "bbox": [
+        1027,
+        721,
+        14,
+        22
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase5_reino_perdido_455.png",
+      "bbox": [
+        891,
+        723,
+        23,
+        17
+      ],
+      "area": 183
+    },
+    {
+      "file": "fase5_reino_perdido_456.png",
+      "bbox": [
+        911,
+        724,
+        20,
+        17
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase5_reino_perdido_457.png",
+      "bbox": [
+        973,
+        724,
+        23,
+        18
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase5_reino_perdido_458.png",
+      "bbox": [
+        930,
+        725,
+        18,
+        14
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_459.png",
+      "bbox": [
+        1116,
+        725,
+        15,
+        17
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase5_reino_perdido_460.png",
+      "bbox": [
+        1128,
+        725,
+        10,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_461.png",
+      "bbox": [
+        1144,
+        725,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_462.png",
+      "bbox": [
+        48,
+        726,
+        69,
+        26
+      ],
+      "area": 836
+    },
+    {
+      "file": "fase5_reino_perdido_463.png",
+      "bbox": [
+        136,
+        726,
+        87,
+        37
+      ],
+      "area": 1703
+    },
+    {
+      "file": "fase5_reino_perdido_464.png",
+      "bbox": [
+        238,
+        726,
+        46,
+        37
+      ],
+      "area": 624
+    },
+    {
+      "file": "fase5_reino_perdido_465.png",
+      "bbox": [
+        285,
+        726,
+        52,
+        37
+      ],
+      "area": 642
+    },
+    {
+      "file": "fase5_reino_perdido_466.png",
+      "bbox": [
+        1075,
+        726,
+        12,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_467.png",
+      "bbox": [
+        1085,
+        726,
+        14,
+        15
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase5_reino_perdido_468.png",
+      "bbox": [
+        1153,
+        726,
+        17,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_469.png",
+      "bbox": [
+        499,
+        727,
+        34,
+        20
+      ],
+      "area": 264
+    },
+    {
+      "file": "fase5_reino_perdido_470.png",
+      "bbox": [
+        577,
+        727,
+        38,
+        21
+      ],
+      "area": 367
+    },
+    {
+      "file": "fase5_reino_perdido_471.png",
+      "bbox": [
+        638,
+        727,
+        44,
+        45
+      ],
+      "area": 610
+    },
+    {
+      "file": "fase5_reino_perdido_472.png",
+      "bbox": [
+        791,
+        727,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_473.png",
+      "bbox": [
+        1180,
+        727,
+        14,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_474.png",
+      "bbox": [
+        557,
+        728,
+        23,
+        21
+      ],
+      "area": 256
+    },
+    {
+      "file": "fase5_reino_perdido_475.png",
+      "bbox": [
+        679,
+        728,
+        25,
+        27
+      ],
+      "area": 215
+    },
+    {
+      "file": "fase5_reino_perdido_476.png",
+      "bbox": [
+        994,
+        728,
+        11,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_477.png",
+      "bbox": [
+        1004,
+        728,
+        13,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_478.png",
+      "bbox": [
+        31,
+        731,
+        22,
+        15
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase5_reino_perdido_479.png",
+      "bbox": [
+        1043,
+        731,
+        15,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_480.png",
+      "bbox": [
+        1063,
+        732,
+        14,
+        9
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_481.png",
+      "bbox": [
+        430,
+        734,
+        25,
+        21
+      ],
+      "area": 229
+    },
+    {
+      "file": "fase5_reino_perdido_482.png",
+      "bbox": [
+        50,
+        736,
+        20,
+        16
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase5_reino_perdido_483.png",
+      "bbox": [
+        520,
+        737,
+        21,
+        23
+      ],
+      "area": 146
+    },
+    {
+      "file": "fase5_reino_perdido_484.png",
+      "bbox": [
+        690,
+        737,
+        24,
+        24
+      ],
+      "area": 200
+    },
+    {
+      "file": "fase5_reino_perdido_485.png",
+      "bbox": [
+        350,
+        738,
+        67,
+        19
+      ],
+      "area": 658
+    },
+    {
+      "file": "fase5_reino_perdido_486.png",
+      "bbox": [
+        257,
+        739,
+        14,
+        13
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_487.png",
+      "bbox": [
+        277,
+        740,
+        14,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_488.png",
+      "bbox": [
+        414,
+        740,
+        12,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_489.png",
+      "bbox": [
+        30,
+        742,
+        23,
+        21
+      ],
+      "area": 211
+    },
+    {
+      "file": "fase5_reino_perdido_490.png",
+      "bbox": [
+        511,
+        745,
+        12,
+        19
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_491.png",
+      "bbox": [
+        557,
+        746,
+        16,
+        15
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase5_reino_perdido_492.png",
+      "bbox": [
+        607,
+        746,
+        9,
+        16
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_493.png",
+      "bbox": [
+        93,
+        747,
+        24,
+        16
+      ],
+      "area": 158
+    },
+    {
+      "file": "fase5_reino_perdido_494.png",
+      "bbox": [
+        174,
+        747,
+        12,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_495.png",
+      "bbox": [
+        50,
+        749,
+        12,
+        14
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_496.png",
+      "bbox": [
+        188,
+        749,
+        14,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_497.png",
+      "bbox": [
+        78,
+        751,
+        13,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_498.png",
+      "bbox": [
+        156,
+        752,
+        14,
+        11
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_499.png",
+      "bbox": [
+        661,
+        752,
+        40,
+        54
+      ],
+      "area": 980
+    },
+    {
+      "file": "fase5_reino_perdido_500.png",
+      "bbox": [
+        350,
+        754,
+        11,
+        16
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_501.png",
+      "bbox": [
+        1082,
+        754,
+        140,
+        23
+      ],
+      "area": 1348
+    },
+    {
+      "file": "fase5_reino_perdido_502.png",
+      "bbox": [
+        169,
+        755,
+        21,
+        8
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_503.png",
+      "bbox": [
+        844,
+        755,
+        26,
+        36
+      ],
+      "area": 522
+    },
+    {
+      "file": "fase5_reino_perdido_504.png",
+      "bbox": [
+        866,
+        755,
+        59,
+        36
+      ],
+      "area": 897
+    },
+    {
+      "file": "fase5_reino_perdido_505.png",
+      "bbox": [
+        899,
+        755,
+        24,
+        21
+      ],
+      "area": 267
+    },
+    {
+      "file": "fase5_reino_perdido_506.png",
+      "bbox": [
+        738,
+        756,
+        20,
+        52
+      ],
+      "area": 575
+    },
+    {
+      "file": "fase5_reino_perdido_507.png",
+      "bbox": [
+        755,
+        756,
+        46,
+        19
+      ],
+      "area": 434
+    },
+    {
+      "file": "fase5_reino_perdido_508.png",
+      "bbox": [
+        803,
+        756,
+        15,
+        11
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_509.png",
+      "bbox": [
+        358,
+        757,
+        11,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_510.png",
+      "bbox": [
+        30,
+        760,
+        21,
+        22
+      ],
+      "area": 184
+    },
+    {
+      "file": "fase5_reino_perdido_511.png",
+      "bbox": [
+        136,
+        760,
+        21,
+        15
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase5_reino_perdido_512.png",
+      "bbox": [
+        201,
+        760,
+        21,
+        16
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase5_reino_perdido_513.png",
+      "bbox": [
+        238,
+        760,
+        21,
+        26
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase5_reino_perdido_514.png",
+      "bbox": [
+        317,
+        760,
+        20,
+        30
+      ],
+      "area": 331
+    },
+    {
+      "file": "fase5_reino_perdido_515.png",
+      "bbox": [
+        419,
+        760,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_516.png",
+      "bbox": [
+        428,
+        760,
+        20,
+        22
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase5_reino_perdido_517.png",
+      "bbox": [
+        556,
+        760,
+        17,
+        14
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase5_reino_perdido_518.png",
+      "bbox": [
+        583,
+        760,
+        16,
+        14
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_519.png",
+      "bbox": [
+        597,
+        760,
+        17,
+        14
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_520.png",
+      "bbox": [
+        52,
+        761,
+        15,
+        15
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_521.png",
+      "bbox": [
+        86,
+        761,
+        28,
+        20
+      ],
+      "area": 249
+    },
+    {
+      "file": "fase5_reino_perdido_522.png",
+      "bbox": [
+        470,
+        761,
+        9,
+        22
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_523.png",
+      "bbox": [
+        503,
+        762,
+        18,
+        19
+      ],
+      "area": 177
+    },
+    {
+      "file": "fase5_reino_perdido_524.png",
+      "bbox": [
+        518,
+        762,
+        17,
+        13
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase5_reino_perdido_525.png",
+      "bbox": [
+        1060,
+        763,
+        20,
+        12
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_526.png",
+      "bbox": [
+        371,
+        764,
+        21,
+        13
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_527.png",
+      "bbox": [
+        799,
+        766,
+        19,
+        42
+      ],
+      "area": 462
+    },
+    {
+      "file": "fase5_reino_perdido_528.png",
+      "bbox": [
+        350,
+        767,
+        11,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_529.png",
+      "bbox": [
+        409,
+        767,
+        15,
+        14
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_530.png",
+      "bbox": [
+        983,
+        767,
+        19,
+        16
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase5_reino_perdido_531.png",
+      "bbox": [
+        952,
+        768,
+        12,
+        17
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_532.png",
+      "bbox": [
+        636,
+        769,
+        19,
+        34
+      ],
+      "area": 300
+    },
+    {
+      "file": "fase5_reino_perdido_533.png",
+      "bbox": [
+        1001,
+        769,
+        37,
+        25
+      ],
+      "area": 345
+    },
+    {
+      "file": "fase5_reino_perdido_534.png",
+      "bbox": [
+        48,
+        772,
+        11,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_535.png",
+      "bbox": [
+        136,
+        772,
+        14,
+        13
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_536.png",
+      "bbox": [
+        207,
+        773,
+        15,
+        12
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase5_reino_perdido_537.png",
+      "bbox": [
+        248,
+        773,
+        10,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_538.png",
+      "bbox": [
+        757,
+        773,
+        42,
+        14
+      ],
+      "area": 234
+    },
+    {
+      "file": "fase5_reino_perdido_539.png",
+      "bbox": [
+        376,
+        775,
+        25,
+        8
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase5_reino_perdido_540.png",
+      "bbox": [
+        557,
+        776,
+        13,
+        27
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase5_reino_perdido_541.png",
+      "bbox": [
+        96,
+        778,
+        18,
+        19
+      ],
+      "area": 187
+    },
+    {
+      "file": "fase5_reino_perdido_542.png",
+      "bbox": [
+        351,
+        778,
+        11,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_543.png",
+      "bbox": [
+        359,
+        778,
+        14,
+        13
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_544.png",
+      "bbox": [
+        407,
+        778,
+        16,
+        14
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase5_reino_perdido_545.png",
+      "bbox": [
+        81,
+        779,
+        19,
+        19
+      ],
+      "area": 165
+    },
+    {
+      "file": "fase5_reino_perdido_546.png",
+      "bbox": [
+        444,
+        779,
+        11,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_547.png",
+      "bbox": [
+        504,
+        779,
+        21,
+        18
+      ],
+      "area": 189
+    },
+    {
+      "file": "fase5_reino_perdido_548.png",
+      "bbox": [
+        30,
+        780,
+        23,
+        17
+      ],
+      "area": 175
+    },
+    {
+      "file": "fase5_reino_perdido_549.png",
+      "bbox": [
+        50,
+        780,
+        12,
+        16
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_550.png",
+      "bbox": [
+        432,
+        780,
+        15,
+        13
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase5_reino_perdido_551.png",
+      "bbox": [
+        469,
+        781,
+        10,
+        17
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_552.png",
+      "bbox": [
+        135,
+        782,
+        22,
+        15
+      ],
+      "area": 159
+    },
+    {
+      "file": "fase5_reino_perdido_553.png",
+      "bbox": [
+        158,
+        782,
+        9,
+        15
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_554.png",
+      "bbox": [
+        201,
+        782,
+        21,
+        16
+      ],
+      "area": 193
+    },
+    {
+      "file": "fase5_reino_perdido_555.png",
+      "bbox": [
+        487,
+        782,
+        17,
+        11
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_556.png",
+      "bbox": [
+        978,
+        782,
+        14,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_557.png",
+      "bbox": [
+        1010,
+        782,
+        16,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_558.png",
+      "bbox": [
+        191,
+        783,
+        13,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_559.png",
+      "bbox": [
+        239,
+        783,
+        16,
+        12
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_560.png",
+      "bbox": [
+        581,
+        785,
+        17,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_561.png",
+      "bbox": [
+        757,
+        785,
+        35,
+        15
+      ],
+      "area": 193
+    },
+    {
+      "file": "fase5_reino_perdido_562.png",
+      "bbox": [
+        911,
+        785,
+        24,
+        20
+      ],
+      "area": 201
+    },
+    {
+      "file": "fase5_reino_perdido_563.png",
+      "bbox": [
+        303,
+        787,
+        12,
+        16
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_564.png",
+      "bbox": [
+        314,
+        787,
+        23,
+        16
+      ],
+      "area": 164
+    },
+    {
+      "file": "fase5_reino_perdido_565.png",
+      "bbox": [
+        605,
+        788,
+        12,
+        15
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_566.png",
+      "bbox": [
+        844,
+        788,
+        20,
+        28
+      ],
+      "area": 208
+    },
+    {
+      "file": "fase5_reino_perdido_567.png",
+      "bbox": [
+        867,
+        788,
+        18,
+        10
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_568.png",
+      "bbox": [
+        350,
+        789,
+        15,
+        14
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase5_reino_perdido_569.png",
+      "bbox": [
+        362,
+        789,
+        17,
+        15
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase5_reino_perdido_570.png",
+      "bbox": [
+        398,
+        789,
+        9,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_571.png",
+      "bbox": [
+        407,
+        789,
+        13,
+        14
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_572.png",
+      "bbox": [
+        952,
+        792,
+        16,
+        14
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_573.png",
+      "bbox": [
+        1018,
+        792,
+        22,
+        25
+      ],
+      "area": 200
+    },
+    {
+      "file": "fase5_reino_perdido_574.png",
+      "bbox": [
+        238,
+        793,
+        20,
+        12
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase5_reino_perdido_575.png",
+      "bbox": [
+        504,
+        793,
+        22,
+        13
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase5_reino_perdido_576.png",
+      "bbox": [
+        576,
+        793,
+        16,
+        15
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_577.png",
+      "bbox": [
+        75,
+        794,
+        41,
+        29
+      ],
+      "area": 466
+    },
+    {
+      "file": "fase5_reino_perdido_578.png",
+      "bbox": [
+        30,
+        795,
+        19,
+        16
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase5_reino_perdido_579.png",
+      "bbox": [
+        47,
+        795,
+        23,
+        17
+      ],
+      "area": 193
+    },
+    {
+      "file": "fase5_reino_perdido_580.png",
+      "bbox": [
+        135,
+        795,
+        25,
+        17
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase5_reino_perdido_581.png",
+      "bbox": [
+        158,
+        795,
+        9,
+        16
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_582.png",
+      "bbox": [
+        191,
+        795,
+        9,
+        17
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_583.png",
+      "bbox": [
+        201,
+        795,
+        21,
+        17
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase5_reino_perdido_584.png",
+      "bbox": [
+        866,
+        795,
+        16,
+        9
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_585.png",
+      "bbox": [
+        758,
+        796,
+        16,
+        12
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_586.png",
+      "bbox": [
+        657,
+        797,
+        22,
+        29
+      ],
+      "area": 246
+    },
+    {
+      "file": "fase5_reino_perdido_587.png",
+      "bbox": [
+        771,
+        797,
+        22,
+        11
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase5_reino_perdido_588.png",
+      "bbox": [
+        318,
+        800,
+        19,
+        16
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase5_reino_perdido_589.png",
+      "bbox": [
+        351,
+        800,
+        17,
+        16
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase5_reino_perdido_590.png",
+      "bbox": [
+        396,
+        800,
+        10,
+        16
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_591.png",
+      "bbox": [
+        482,
+        800,
+        22,
+        12
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase5_reino_perdido_592.png",
+      "bbox": [
+        556,
+        800,
+        14,
+        26
+      ],
+      "area": 163
+    },
+    {
+      "file": "fase5_reino_perdido_593.png",
+      "bbox": [
+        636,
+        800,
+        10,
+        17
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_594.png",
+      "bbox": [
+        303,
+        801,
+        10,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_595.png",
+      "bbox": [
+        365,
+        801,
+        14,
+        16
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase5_reino_perdido_596.png",
+      "bbox": [
+        410,
+        801,
+        13,
+        16
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_597.png",
+      "bbox": [
+        437,
+        801,
+        11,
+        15
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_598.png",
+      "bbox": [
+        606,
+        801,
+        11,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_599.png",
+      "bbox": [
+        856,
+        801,
+        18,
+        17
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase5_reino_perdido_600.png",
+      "bbox": [
+        243,
+        802,
+        15,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_601.png",
+      "bbox": [
+        256,
+        802,
+        12,
+        15
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_602.png",
+      "bbox": [
+        900,
+        802,
+        15,
+        14
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_603.png",
+      "bbox": [
+        973,
+        803,
+        10,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_604.png",
+      "bbox": [
+        1014,
+        803,
+        12,
+        14
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_605.png",
+      "bbox": [
+        676,
+        804,
+        11,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_606.png",
+      "bbox": [
+        952,
+        804,
+        15,
+        14
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase5_reino_perdido_607.png",
+      "bbox": [
+        738,
+        805,
+        19,
+        19
+      ],
+      "area": 214
+    },
+    {
+      "file": "fase5_reino_perdido_608.png",
+      "bbox": [
+        799,
+        805,
+        19,
+        36
+      ],
+      "area": 394
+    },
+    {
+      "file": "fase5_reino_perdido_609.png",
+      "bbox": [
+        29,
+        808,
+        14,
+        15
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_610.png",
+      "bbox": [
+        55,
+        809,
+        16,
+        13
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase5_reino_perdido_611.png",
+      "bbox": [
+        68,
+        809,
+        10,
+        15
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_612.png",
+      "bbox": [
+        75,
+        809,
+        15,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_613.png",
+      "bbox": [
+        136,
+        809,
+        13,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_614.png",
+      "bbox": [
+        144,
+        809,
+        12,
+        15
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_615.png",
+      "bbox": [
+        191,
+        809,
+        9,
+        14
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_616.png",
+      "bbox": [
+        208,
+        809,
+        14,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_617.png",
+      "bbox": [
+        761,
+        809,
+        18,
+        14
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase5_reino_perdido_618.png",
+      "bbox": [
+        776,
+        809,
+        15,
+        11
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_619.png",
+      "bbox": [
+        668,
+        812,
+        19,
+        22
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase5_reino_perdido_620.png",
+      "bbox": [
+        314,
+        813,
+        22,
+        12
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase5_reino_perdido_621.png",
+      "bbox": [
+        350,
+        813,
+        17,
+        12
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_622.png",
+      "bbox": [
+        424,
+        813,
+        27,
+        15
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase5_reino_perdido_623.png",
+      "bbox": [
+        238,
+        814,
+        21,
+        10
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_624.png",
+      "bbox": [
+        272,
+        814,
+        13,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_625.png",
+      "bbox": [
+        284,
+        814,
+        18,
+        10
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_626.png",
+      "bbox": [
+        1014,
+        814,
+        25,
+        15
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase5_reino_perdido_627.png",
+      "bbox": [
+        844,
+        815,
+        20,
+        17
+      ],
+      "area": 162
+    },
+    {
+      "file": "fase5_reino_perdido_628.png",
+      "bbox": [
+        901,
+        815,
+        12,
+        13
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_629.png",
+      "bbox": [
+        910,
+        815,
+        16,
+        19
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase5_reino_perdido_630.png",
+      "bbox": [
+        953,
+        815,
+        12,
+        13
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_631.png",
+      "bbox": [
+        886,
+        816,
+        11,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_632.png",
+      "bbox": [
+        511,
+        817,
+        13,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_633.png",
+      "bbox": [
+        133,
+        818,
+        15,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_634.png",
+      "bbox": [
+        178,
+        818,
+        16,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_635.png",
+      "bbox": [
+        635,
+        819,
+        18,
+        12
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_636.png",
+      "bbox": [
+        28,
+        821,
+        27,
+        18
+      ],
+      "area": 219
+    },
+    {
+      "file": "fase5_reino_perdido_637.png",
+      "bbox": [
+        53,
+        821,
+        23,
+        19
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase5_reino_perdido_638.png",
+      "bbox": [
+        67,
+        821,
+        28,
+        19
+      ],
+      "area": 198
+    },
+    {
+      "file": "fase5_reino_perdido_639.png",
+      "bbox": [
+        92,
+        821,
+        17,
+        19
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase5_reino_perdido_640.png",
+      "bbox": [
+        738,
+        821,
+        19,
+        19
+      ],
+      "area": 204
+    },
+    {
+      "file": "fase5_reino_perdido_641.png",
+      "bbox": [
+        759,
+        821,
+        34,
+        12
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase5_reino_perdido_642.png",
+      "bbox": [
+        971,
+        821,
+        11,
+        15
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_643.png",
+      "bbox": [
+        105,
+        822,
+        12,
+        18
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase5_reino_perdido_644.png",
+      "bbox": [
+        213,
+        822,
+        11,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_645.png",
+      "bbox": [
+        271,
+        822,
+        15,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_646.png",
+      "bbox": [
+        379,
+        822,
+        21,
+        18
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase5_reino_perdido_647.png",
+      "bbox": [
+        573,
+        822,
+        31,
+        21
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase5_reino_perdido_648.png",
+      "bbox": [
+        316,
+        823,
+        13,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_649.png",
+      "bbox": [
+        328,
+        823,
+        9,
+        13
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_650.png",
+      "bbox": [
+        363,
+        823,
+        17,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_651.png",
+      "bbox": [
+        656,
+        823,
+        15,
+        12
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_652.png",
+      "bbox": [
+        472,
+        825,
+        18,
+        16
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase5_reino_perdido_653.png",
+      "bbox": [
+        521,
+        825,
+        13,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_654.png",
+      "bbox": [
+        555,
+        825,
+        20,
+        19
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase5_reino_perdido_655.png",
+      "bbox": [
+        601,
+        825,
+        16,
+        18
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase5_reino_perdido_656.png",
+      "bbox": [
+        700,
+        825,
+        12,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_657.png",
+      "bbox": [
+        899,
+        825,
+        15,
+        10
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_658.png",
+      "bbox": [
+        191,
+        826,
+        17,
+        14
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_659.png",
+      "bbox": [
+        951,
+        826,
+        18,
+        24
+      ],
+      "area": 162
+    },
+    {
+      "file": "fase5_reino_perdido_660.png",
+      "bbox": [
+        1014,
+        826,
+        13,
+        14
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_661.png",
+      "bbox": [
+        165,
+        827,
+        28,
+        13
+      ],
+      "area": 115
+    },
+    {
+      "file": "fase5_reino_perdido_662.png",
+      "bbox": [
+        275,
+        828,
+        16,
+        12
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase5_reino_perdido_663.png",
+      "bbox": [
+        636,
+        830,
+        15,
+        13
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase5_reino_perdido_664.png",
+      "bbox": [
+        844,
+        830,
+        20,
+        13
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase5_reino_perdido_665.png",
+      "bbox": [
+        913,
+        830,
+        20,
+        12
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_666.png",
+      "bbox": [
+        681,
+        831,
+        16,
+        14
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_667.png",
+      "bbox": [
+        980,
+        831,
+        46,
+        31
+      ],
+      "area": 720
+    },
+    {
+      "file": "fase5_reino_perdido_668.png",
+      "bbox": [
+        1025,
+        831,
+        16,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_669.png",
+      "bbox": [
+        509,
+        832,
+        15,
+        10
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_670.png",
+      "bbox": [
+        588,
+        832,
+        13,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_671.png",
+      "bbox": [
+        658,
+        832,
+        20,
+        16
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase5_reino_perdido_672.png",
+      "bbox": [
+        900,
+        832,
+        16,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_673.png",
+      "bbox": [
+        759,
+        834,
+        19,
+        14
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase5_reino_perdido_674.png",
+      "bbox": [
+        776,
+        834,
+        22,
+        14
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase5_reino_perdido_675.png",
+      "bbox": [
+        970,
+        834,
+        12,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_676.png",
+      "bbox": [
+        1079,
+        834,
+        121,
+        30
+      ],
+      "area": 1644
+    },
+    {
+      "file": "fase5_reino_perdido_677.png",
+      "bbox": [
+        738,
+        838,
+        20,
+        19
+      ],
+      "area": 198
+    },
+    {
+      "file": "fase5_reino_perdido_678.png",
+      "bbox": [
+        799,
+        838,
+        19,
+        19
+      ],
+      "area": 196
+    },
+    {
+      "file": "fase5_reino_perdido_679.png",
+      "bbox": [
+        888,
+        840,
+        15,
+        11
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_680.png",
+      "bbox": [
+        912,
+        840,
+        16,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_681.png",
+      "bbox": [
+        786,
+        844,
+        15,
+        14
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_682.png",
+      "bbox": [
+        268,
+        851,
+        56,
+        50
+      ],
+      "area": 1301
+    },
+    {
+      "file": "fase5_reino_perdido_683.png",
+      "bbox": [
+        35,
+        854,
+        49,
+        51
+      ],
+      "area": 648
+    },
+    {
+      "file": "fase5_reino_perdido_684.png",
+      "bbox": [
+        118,
+        860,
+        41,
+        34
+      ],
+      "area": 608
+    },
+    {
+      "file": "fase5_reino_perdido_685.png",
+      "bbox": [
+        190,
+        860,
+        46,
+        44
+      ],
+      "area": 574
+    },
+    {
+      "file": "fase5_reino_perdido_686.png",
+      "bbox": [
+        473,
+        860,
+        19,
+        14
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase5_reino_perdido_687.png",
+      "bbox": [
+        442,
+        863,
+        34,
+        30
+      ],
+      "area": 238
+    },
+    {
+      "file": "fase5_reino_perdido_688.png",
+      "bbox": [
+        347,
+        867,
+        50,
+        36
+      ],
+      "area": 450
+    },
+    {
+      "file": "fase5_reino_perdido_689.png",
+      "bbox": [
+        290,
+        868,
+        14,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_690.png",
+      "bbox": [
+        461,
+        869,
+        12,
+        14
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_691.png",
+      "bbox": [
+        77,
+        871,
+        11,
+        14
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_692.png",
+      "bbox": [
+        402,
+        871,
+        24,
+        24
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase5_reino_perdido_693.png",
+      "bbox": [
+        388,
+        875,
+        25,
+        17
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase5_reino_perdido_694.png",
+      "bbox": [
+        1107,
+        877,
+        14,
+        15
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_695.png",
+      "bbox": [
+        355,
+        880,
+        18,
+        14
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_696.png",
+      "bbox": [
+        1006,
+        882,
+        12,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_697.png",
+      "bbox": [
+        155,
+        884,
+        10,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_698.png",
+      "bbox": [
+        457,
+        884,
+        18,
+        12
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_699.png",
+      "bbox": [
+        49,
+        886,
+        22,
+        13
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase5_reino_perdido_700.png",
+      "bbox": [
+        135,
+        886,
+        13,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_701.png",
+      "bbox": [
+        205,
+        886,
+        19,
+        12
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase5_reino_perdido_702.png",
+      "bbox": [
+        387,
+        887,
+        22,
+        22
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase5_reino_perdido_703.png",
+      "bbox": [
+        988,
+        887,
+        21,
+        16
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_704.png",
+      "bbox": [
+        116,
+        889,
+        12,
+        19
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase5_reino_perdido_705.png",
+      "bbox": [
+        275,
+        890,
+        18,
+        16
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase5_reino_perdido_706.png",
+      "bbox": [
+        350,
+        890,
+        17,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase5_reino_perdido_707.png",
+      "bbox": [
+        406,
+        892,
+        23,
+        31
+      ],
+      "area": 288
+    },
+    {
+      "file": "fase5_reino_perdido_708.png",
+      "bbox": [
+        932,
+        894,
+        14,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_709.png",
+      "bbox": [
+        202,
+        895,
+        17,
+        18
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase5_reino_perdido_710.png",
+      "bbox": [
+        452,
+        895,
+        11,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_711.png",
+      "bbox": [
+        56,
+        896,
+        12,
+        18
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase5_reino_perdido_712.png",
+      "bbox": [
+        380,
+        896,
+        14,
+        18
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_713.png",
+      "bbox": [
+        526,
+        896,
+        11,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_714.png",
+      "bbox": [
+        461,
+        897,
+        12,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_715.png",
+      "bbox": [
+        127,
+        900,
+        19,
+        17
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase5_reino_perdido_716.png",
+      "bbox": [
+        292,
+        901,
+        12,
+        18
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_717.png",
+      "bbox": [
+        311,
+        901,
+        13,
+        15
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase5_reino_perdido_718.png",
+      "bbox": [
+        65,
+        902,
+        14,
+        10
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase5_reino_perdido_719.png",
+      "bbox": [
+        146,
+        902,
+        10,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_720.png",
+      "bbox": [
+        998,
+        902,
+        15,
+        12
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_721.png",
+      "bbox": [
+        1013,
+        902,
+        13,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_722.png",
+      "bbox": [
+        346,
+        903,
+        23,
+        23
+      ],
+      "area": 182
+    },
+    {
+      "file": "fase5_reino_perdido_723.png",
+      "bbox": [
+        190,
+        904,
+        12,
+        34
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase5_reino_perdido_724.png",
+      "bbox": [
+        366,
+        905,
+        13,
+        14
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_725.png",
+      "bbox": [
+        390,
+        906,
+        18,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_726.png",
+      "bbox": [
+        707,
+        906,
+        13,
+        14
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_727.png",
+      "bbox": [
+        870,
+        909,
+        13,
+        21
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase5_reino_perdido_728.png",
+      "bbox": [
+        1104,
+        910,
+        21,
+        14
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_729.png",
+      "bbox": [
+        379,
+        911,
+        12,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_730.png",
+      "bbox": [
+        1058,
+        912,
+        35,
+        28
+      ],
+      "area": 356
+    },
+    {
+      "file": "fase5_reino_perdido_731.png",
+      "bbox": [
+        311,
+        913,
+        13,
+        15
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_732.png",
+      "bbox": [
+        1008,
+        914,
+        9,
+        16
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_733.png",
+      "bbox": [
+        46,
+        916,
+        19,
+        22
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase5_reino_perdido_734.png",
+      "bbox": [
+        200,
+        918,
+        13,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_735.png",
+      "bbox": [
+        399,
+        918,
+        22,
+        19
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase5_reino_perdido_736.png",
+      "bbox": [
+        995,
+        918,
+        15,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_737.png",
+      "bbox": [
+        127,
+        920,
+        11,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_738.png",
+      "bbox": [
+        358,
+        921,
+        22,
+        18
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase5_reino_perdido_739.png",
+      "bbox": [
+        1084,
+        921,
+        60,
+        28
+      ],
+      "area": 522
+    },
+    {
+      "file": "fase5_reino_perdido_740.png",
+      "bbox": [
+        35,
+        922,
+        9,
+        14
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_741.png",
+      "bbox": [
+        377,
+        923,
+        18,
+        17
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase5_reino_perdido_742.png",
+      "bbox": [
+        136,
+        925,
+        10,
+        15
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_743.png",
+      "bbox": [
+        892,
+        926,
+        13,
+        14
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_744.png",
+      "bbox": [
+        914,
+        927,
+        28,
+        18
+      ],
+      "area": 183
+    },
+    {
+      "file": "fase5_reino_perdido_745.png",
+      "bbox": [
+        937,
+        927,
+        14,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_746.png",
+      "bbox": [
+        849,
+        928,
+        15,
+        9
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_747.png",
+      "bbox": [
+        1064,
+        929,
+        10,
+        13
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_748.png",
+      "bbox": [
+        581,
+        931,
+        11,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_749.png",
+      "bbox": [
+        790,
+        931,
+        13,
+        18
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase5_reino_perdido_750.png",
+      "bbox": [
+        453,
+        933,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_751.png",
+      "bbox": [
+        35,
+        934,
+        10,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_752.png",
+      "bbox": [
+        314,
+        936,
+        10,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_753.png",
+      "bbox": [
+        442,
+        936,
+        14,
+        20
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_754.png",
+      "bbox": [
+        1125,
+        936,
+        19,
+        17
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase5_reino_perdido_755.png",
+      "bbox": [
+        416,
+        938,
+        11,
+        29
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase5_reino_perdido_756.png",
+      "bbox": [
+        667,
+        938,
+        12,
+        18
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_757.png",
+      "bbox": [
+        207,
+        939,
+        17,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_758.png",
+      "bbox": [
+        556,
+        939,
+        16,
+        28
+      ],
+      "area": 138
+    },
+    {
+      "file": "fase5_reino_perdido_759.png",
+      "bbox": [
+        702,
+        939,
+        11,
+        14
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_760.png",
+      "bbox": [
+        1077,
+        939,
+        14,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_761.png",
+      "bbox": [
+        1057,
+        941,
+        21,
+        15
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase5_reino_perdido_762.png",
+      "bbox": [
+        322,
+        943,
+        14,
+        23
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase5_reino_perdido_763.png",
+      "bbox": [
+        349,
+        944,
+        9,
+        20
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_764.png",
+      "bbox": [
+        236,
+        945,
+        11,
+        20
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_765.png",
+      "bbox": [
+        1085,
+        945,
+        19,
+        21
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase5_reino_perdido_766.png",
+      "bbox": [
+        310,
+        946,
+        15,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase5_reino_perdido_767.png",
+      "bbox": [
+        374,
+        946,
+        39,
+        24
+      ],
+      "area": 347
+    },
+    {
+      "file": "fase5_reino_perdido_768.png",
+      "bbox": [
+        164,
+        948,
+        13,
+        20
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_769.png",
+      "bbox": [
+        1106,
+        948,
+        29,
+        18
+      ],
+      "area": 170
+    },
+    {
+      "file": "fase5_reino_perdido_770.png",
+      "bbox": [
+        1036,
+        949,
+        12,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_771.png",
+      "bbox": [
+        1157,
+        949,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_772.png",
+      "bbox": [
+        110,
+        951,
+        11,
+        16
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase5_reino_perdido_773.png",
+      "bbox": [
+        1184,
+        951,
+        15,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_774.png",
+      "bbox": [
+        1067,
+        952,
+        21,
+        13
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase5_reino_perdido_775.png",
+      "bbox": [
+        25,
+        953,
+        14,
+        19
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase5_reino_perdido_776.png",
+      "bbox": [
+        271,
+        955,
+        17,
+        14
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase5_reino_perdido_777.png",
+      "bbox": [
+        1169,
+        955,
+        14,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_778.png",
+      "bbox": [
+        1198,
+        955,
+        12,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_779.png",
+      "bbox": [
+        53,
+        956,
+        18,
+        11
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_780.png",
+      "bbox": [
+        185,
+        956,
+        12,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_781.png",
+      "bbox": [
+        292,
+        956,
+        16,
+        12
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_782.png",
+      "bbox": [
+        461,
+        956,
+        20,
+        15
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_783.png",
+      "bbox": [
+        134,
+        957,
+        17,
+        13
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_784.png",
+      "bbox": [
+        1176,
+        979,
+        18,
+        21
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase5_reino_perdido_785.png",
+      "bbox": [
+        864,
+        981,
+        11,
+        18
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_786.png",
+      "bbox": [
+        1138,
+        981,
+        15,
+        15
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_787.png",
+      "bbox": [
+        293,
+        982,
+        20,
+        21
+      ],
+      "area": 192
+    },
+    {
+      "file": "fase5_reino_perdido_788.png",
+      "bbox": [
+        799,
+        983,
+        21,
+        18
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase5_reino_perdido_789.png",
+      "bbox": [
+        933,
+        983,
+        11,
+        18
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_790.png",
+      "bbox": [
+        183,
+        988,
+        55,
+        47
+      ],
+      "area": 1193
+    },
+    {
+      "file": "fase5_reino_perdido_791.png",
+      "bbox": [
+        732,
+        992,
+        29,
+        37
+      ],
+      "area": 422
+    },
+    {
+      "file": "fase5_reino_perdido_792.png",
+      "bbox": [
+        590,
+        993,
+        31,
+        13
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase5_reino_perdido_793.png",
+      "bbox": [
+        1158,
+        993,
+        13,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_794.png",
+      "bbox": [
+        944,
+        994,
+        11,
+        20
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase5_reino_perdido_795.png",
+      "bbox": [
+        341,
+        1002,
+        50,
+        52
+      ],
+      "area": 716
+    },
+    {
+      "file": "fase5_reino_perdido_796.png",
+      "bbox": [
+        231,
+        1004,
+        17,
+        18
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase5_reino_perdido_797.png",
+      "bbox": [
+        276,
+        1004,
+        25,
+        19
+      ],
+      "area": 205
+    },
+    {
+      "file": "fase5_reino_perdido_798.png",
+      "bbox": [
+        309,
+        1004,
+        21,
+        22
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase5_reino_perdido_799.png",
+      "bbox": [
+        650,
+        1004,
+        27,
+        29
+      ],
+      "area": 274
+    },
+    {
+      "file": "fase5_reino_perdido_800.png",
+      "bbox": [
+        581,
+        1010,
+        27,
+        16
+      ],
+      "area": 155
+    },
+    {
+      "file": "fase5_reino_perdido_801.png",
+      "bbox": [
+        437,
+        1013,
+        47,
+        37
+      ],
+      "area": 652
+    },
+    {
+      "file": "fase5_reino_perdido_802.png",
+      "bbox": [
+        687,
+        1014,
+        15,
+        14
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase5_reino_perdido_803.png",
+      "bbox": [
+        244,
+        1017,
+        12,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase5_reino_perdido_804.png",
+      "bbox": [
+        386,
+        1018,
+        14,
+        20
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase5_reino_perdido_805.png",
+      "bbox": [
+        376,
+        1020,
+        12,
+        15
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_806.png",
+      "bbox": [
+        642,
+        1024,
+        17,
+        18
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase5_reino_perdido_807.png",
+      "bbox": [
+        170,
+        1026,
+        26,
+        35
+      ],
+      "area": 264
+    },
+    {
+      "file": "fase5_reino_perdido_808.png",
+      "bbox": [
+        1133,
+        1026,
+        13,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_809.png",
+      "bbox": [
+        240,
+        1027,
+        17,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_810.png",
+      "bbox": [
+        220,
+        1030,
+        14,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_811.png",
+      "bbox": [
+        690,
+        1030,
+        15,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_812.png",
+      "bbox": [
+        274,
+        1031,
+        24,
+        19
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase5_reino_perdido_813.png",
+      "bbox": [
+        665,
+        1031,
+        17,
+        22
+      ],
+      "area": 169
+    },
+    {
+      "file": "fase5_reino_perdido_814.png",
+      "bbox": [
+        845,
+        1031,
+        18,
+        28
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase5_reino_perdido_815.png",
+      "bbox": [
+        787,
+        1033,
+        17,
+        25
+      ],
+      "area": 178
+    },
+    {
+      "file": "fase5_reino_perdido_816.png",
+      "bbox": [
+        464,
+        1035,
+        12,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_817.png",
+      "bbox": [
+        637,
+        1037,
+        15,
+        22
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase5_reino_perdido_818.png",
+      "bbox": [
+        919,
+        1037,
+        16,
+        19
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase5_reino_perdido_819.png",
+      "bbox": [
+        387,
+        1041,
+        16,
+        11
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase5_reino_perdido_820.png",
+      "bbox": [
+        688,
+        1041,
+        14,
+        10
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_821.png",
+      "bbox": [
+        616,
+        1042,
+        15,
+        17
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_822.png",
+      "bbox": [
+        401,
+        1043,
+        13,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_823.png",
+      "bbox": [
+        815,
+        1043,
+        11,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_824.png",
+      "bbox": [
+        1130,
+        1043,
+        15,
+        19
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_825.png",
+      "bbox": [
+        873,
+        1044,
+        20,
+        20
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase5_reino_perdido_826.png",
+      "bbox": [
+        273,
+        1046,
+        59,
+        21
+      ],
+      "area": 583
+    },
+    {
+      "file": "fase5_reino_perdido_827.png",
+      "bbox": [
+        926,
+        1046,
+        27,
+        21
+      ],
+      "area": 137
+    },
+    {
+      "file": "fase5_reino_perdido_828.png",
+      "bbox": [
+        1195,
+        1047,
+        11,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_829.png",
+      "bbox": [
+        237,
+        1050,
+        18,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase5_reino_perdido_830.png",
+      "bbox": [
+        652,
+        1051,
+        23,
+        15
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_831.png",
+      "bbox": [
+        716,
+        1051,
+        22,
+        16
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase5_reino_perdido_832.png",
+      "bbox": [
+        352,
+        1053,
+        15,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_833.png",
+      "bbox": [
+        556,
+        1053,
+        12,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_834.png",
+      "bbox": [
+        784,
+        1053,
+        15,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase5_reino_perdido_835.png",
+      "bbox": [
+        674,
+        1054,
+        17,
+        11
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_836.png",
+      "bbox": [
+        377,
+        1055,
+        20,
+        12
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_837.png",
+      "bbox": [
+        399,
+        1055,
+        21,
+        14
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_838.png",
+      "bbox": [
+        204,
+        1056,
+        11,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_839.png",
+      "bbox": [
+        847,
+        1056,
+        14,
+        14
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_840.png",
+      "bbox": [
+        170,
+        1057,
+        17,
+        19
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase5_reino_perdido_841.png",
+      "bbox": [
+        801,
+        1058,
+        18,
+        15
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase5_reino_perdido_842.png",
+      "bbox": [
+        745,
+        1059,
+        26,
+        14
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_843.png",
+      "bbox": [
+        187,
+        1060,
+        14,
+        11
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_844.png",
+      "bbox": [
+        734,
+        1060,
+        14,
+        14
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_845.png",
+      "bbox": [
+        816,
+        1060,
+        11,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_846.png",
+      "bbox": [
+        212,
+        1061,
+        25,
+        17
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_847.png",
+      "bbox": [
+        865,
+        1063,
+        15,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase5_reino_perdido_848.png",
+      "bbox": [
+        192,
+        1066,
+        18,
+        17
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase5_reino_perdido_849.png",
+      "bbox": [
+        1155,
+        1067,
+        26,
+        16
+      ],
+      "area": 185
+    },
+    {
+      "file": "fase5_reino_perdido_850.png",
+      "bbox": [
+        235,
+        1069,
+        15,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_851.png",
+      "bbox": [
+        1177,
+        1073,
+        13,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_852.png",
+      "bbox": [
+        38,
+        1075,
+        16,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_853.png",
+      "bbox": [
+        712,
+        1100,
+        9,
+        45
+      ],
+      "area": 170
+    },
+    {
+      "file": "fase5_reino_perdido_854.png",
+      "bbox": [
+        572,
+        1105,
+        22,
+        12
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase5_reino_perdido_855.png",
+      "bbox": [
+        30,
+        1107,
+        66,
+        73
+      ],
+      "area": 1606
+    },
+    {
+      "file": "fase5_reino_perdido_856.png",
+      "bbox": [
+        558,
+        1107,
+        32,
+        28
+      ],
+      "area": 260
+    },
+    {
+      "file": "fase5_reino_perdido_857.png",
+      "bbox": [
+        468,
+        1108,
+        24,
+        27
+      ],
+      "area": 165
+    },
+    {
+      "file": "fase5_reino_perdido_858.png",
+      "bbox": [
+        638,
+        1110,
+        10,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_859.png",
+      "bbox": [
+        576,
+        1111,
+        13,
+        19
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_860.png",
+      "bbox": [
+        332,
+        1116,
+        20,
+        23
+      ],
+      "area": 170
+    },
+    {
+      "file": "fase5_reino_perdido_861.png",
+      "bbox": [
+        1092,
+        1116,
+        130,
+        93
+      ],
+      "area": 3548
+    },
+    {
+      "file": "fase5_reino_perdido_862.png",
+      "bbox": [
+        326,
+        1117,
+        11,
+        15
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_863.png",
+      "bbox": [
+        405,
+        1117,
+        19,
+        17
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase5_reino_perdido_864.png",
+      "bbox": [
+        587,
+        1120,
+        9,
+        13
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_865.png",
+      "bbox": [
+        225,
+        1124,
+        32,
+        26
+      ],
+      "area": 322
+    },
+    {
+      "file": "fase5_reino_perdido_866.png",
+      "bbox": [
+        148,
+        1125,
+        29,
+        28
+      ],
+      "area": 310
+    },
+    {
+      "file": "fase5_reino_perdido_867.png",
+      "bbox": [
+        403,
+        1129,
+        15,
+        14
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase5_reino_perdido_868.png",
+      "bbox": [
+        1007,
+        1131,
+        17,
+        18
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase5_reino_perdido_869.png",
+      "bbox": [
+        561,
+        1132,
+        11,
+        21
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase5_reino_perdido_870.png",
+      "bbox": [
+        651,
+        1133,
+        33,
+        23
+      ],
+      "area": 258
+    },
+    {
+      "file": "fase5_reino_perdido_871.png",
+      "bbox": [
+        692,
+        1133,
+        8,
+        16
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_872.png",
+      "bbox": [
+        393,
+        1135,
+        30,
+        25
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase5_reino_perdido_873.png",
+      "bbox": [
+        797,
+        1136,
+        11,
+        13
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_874.png",
+      "bbox": [
+        253,
+        1137,
+        45,
+        57
+      ],
+      "area": 938
+    },
+    {
+      "file": "fase5_reino_perdido_875.png",
+      "bbox": [
+        677,
+        1138,
+        19,
+        15
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase5_reino_perdido_876.png",
+      "bbox": [
+        772,
+        1141,
+        26,
+        34
+      ],
+      "area": 295
+    },
+    {
+      "file": "fase5_reino_perdido_877.png",
+      "bbox": [
+        254,
+        1142,
+        16,
+        22
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase5_reino_perdido_878.png",
+      "bbox": [
+        498,
+        1143,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase5_reino_perdido_879.png",
+      "bbox": [
+        635,
+        1143,
+        14,
+        27
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase5_reino_perdido_880.png",
+      "bbox": [
+        575,
+        1144,
+        13,
+        19
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase5_reino_perdido_881.png",
+      "bbox": [
+        698,
+        1144,
+        17,
+        12
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase5_reino_perdido_882.png",
+      "bbox": [
+        1033,
+        1144,
+        20,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase5_reino_perdido_883.png",
+      "bbox": [
+        157,
+        1145,
+        13,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_884.png",
+      "bbox": [
+        469,
+        1145,
+        12,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_885.png",
+      "bbox": [
+        1012,
+        1146,
+        24,
+        22
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase5_reino_perdido_886.png",
+      "bbox": [
+        218,
+        1147,
+        27,
+        21
+      ],
+      "area": 208
+    },
+    {
+      "file": "fase5_reino_perdido_887.png",
+      "bbox": [
+        324,
+        1148,
+        16,
+        20
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase5_reino_perdido_888.png",
+      "bbox": [
+        478,
+        1149,
+        19,
+        14
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase5_reino_perdido_889.png",
+      "bbox": [
+        1179,
+        1149,
+        14,
+        10
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase5_reino_perdido_890.png",
+      "bbox": [
+        59,
+        1150,
+        25,
+        22
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase5_reino_perdido_891.png",
+      "bbox": [
+        720,
+        1151,
+        13,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase5_reino_perdido_892.png",
+      "bbox": [
+        845,
+        1153,
+        15,
+        15
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase5_reino_perdido_893.png",
+      "bbox": [
+        145,
+        1154,
+        12,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase5_reino_perdido_894.png",
+      "bbox": [
+        388,
+        1154,
+        23,
+        42
+      ],
+      "area": 311
+    },
+    {
+      "file": "fase5_reino_perdido_895.png",
+      "bbox": [
+        493,
+        1156,
+        17,
+        12
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase5_reino_perdido_896.png",
+      "bbox": [
+        629,
+        1156,
+        8,
+        16
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase5_reino_perdido_897.png",
+      "bbox": [
+        337,
+        1157,
+        21,
+        16
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase5_reino_perdido_898.png",
+      "bbox": [
+        724,
+        1157,
+        20,
+        15
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_899.png",
+      "bbox": [
+        419,
+        1158,
+        12,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_900.png",
+      "bbox": [
+        459,
+        1159,
+        22,
+        25
+      ],
+      "area": 161
+    },
+    {
+      "file": "fase5_reino_perdido_901.png",
+      "bbox": [
+        213,
+        1160,
+        17,
+        23
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase5_reino_perdido_902.png",
+      "bbox": [
+        575,
+        1160,
+        13,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase5_reino_perdido_903.png",
+      "bbox": [
+        87,
+        1161,
+        17,
+        19
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_904.png",
+      "bbox": [
+        95,
+        1161,
+        17,
+        16
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase5_reino_perdido_905.png",
+      "bbox": [
+        312,
+        1161,
+        35,
+        37
+      ],
+      "area": 294
+    },
+    {
+      "file": "fase5_reino_perdido_906.png",
+      "bbox": [
+        849,
+        1161,
+        18,
+        16
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase5_reino_perdido_907.png",
+      "bbox": [
+        926,
+        1161,
+        15,
+        14
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase5_reino_perdido_908.png",
+      "bbox": [
+        786,
+        1163,
+        61,
+        42
+      ],
+      "area": 732
+    },
+    {
+      "file": "fase5_reino_perdido_909.png",
+      "bbox": [
+        745,
+        1164,
+        13,
+        20
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase5_reino_perdido_910.png",
+      "bbox": [
+        223,
+        1165,
+        32,
+        26
+      ],
+      "area": 290
+    },
+    {
+      "file": "fase5_reino_perdido_911.png",
+      "bbox": [
+        175,
+        1166,
+        19,
+        22
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase5_reino_perdido_912.png",
+      "bbox": [
+        504,
+        1166,
+        36,
+        35
+      ],
+      "area": 234
+    },
+    {
+      "file": "fase5_reino_perdido_913.png",
+      "bbox": [
+        130,
+        1167,
+        39,
+        30
+      ],
+      "area": 356
+    },
+    {
+      "file": "fase5_reino_perdido_914.png",
+      "bbox": [
+        622,
+        1168,
+        38,
+        31
+      ],
+      "area": 304
+    },
+    {
+      "file": "fase5_reino_perdido_915.png",
+      "bbox": [
+        405,
+        1170,
+        24,
+        15
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase5_reino_perdido_916.png",
+      "bbox": [
+        643,
+        1170,
+        14,
+        10
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_917.png",
+      "bbox": [
+        334,
+        1171,
+        12,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase5_reino_perdido_918.png",
+      "bbox": [
+        476,
+        1172,
+        16,
+        13
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase5_reino_perdido_919.png",
+      "bbox": [
+        818,
+        1172,
+        15,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase5_reino_perdido_920.png",
+      "bbox": [
+        488,
+        1174,
+        25,
+        18
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase5_reino_perdido_921.png",
+      "bbox": [
+        55,
+        1176,
+        30,
+        22
+      ],
+      "area": 255
+    },
+    {
+      "file": "fase5_reino_perdido_922.png",
+      "bbox": [
+        346,
+        1177,
+        15,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase5_reino_perdido_923.png",
+      "bbox": [
+        733,
+        1178,
+        17,
+        15
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase5_reino_perdido_924.png",
+      "bbox": [
+        361,
+        1179,
+        14,
+        22
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase5_reino_perdido_925.png",
+      "bbox": [
+        1181,
+        1179,
+        16,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase5_reino_perdido_926.png",
+      "bbox": [
+        459,
+        1181,
+        18,
+        16
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase5_reino_perdido_927.png",
+      "bbox": [
+        597,
+        1181,
+        17,
+        25
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase5_reino_perdido_928.png",
+      "bbox": [
+        430,
+        1182,
+        15,
+        18
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase5_reino_perdido_929.png",
+      "bbox": [
+        722,
+        1183,
+        14,
+        10
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase5_reino_perdido_930.png",
+      "bbox": [
+        167,
+        1184,
+        17,
+        10
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase5_reino_perdido_931.png",
+      "bbox": [
+        552,
+        1184,
+        9,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase5_reino_perdido_932.png",
+      "bbox": [
+        318,
+        1185,
+        17,
+        14
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase5_reino_perdido_933.png",
+      "bbox": [
+        558,
+        1185,
+        24,
+        22
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase5_reino_perdido_934.png",
+      "bbox": [
+        1178,
+        1185,
+        42,
+        25
+      ],
+      "area": 283
+    },
+    {
+      "file": "fase5_reino_perdido_935.png",
+      "bbox": [
+        396,
+        1187,
+        12,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase5_reino_perdido_936.png",
+      "bbox": [
+        1044,
+        1187,
+        24,
+        19
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase5_reino_perdido_937.png",
+      "bbox": [
+        963,
+        1189,
+        9,
+        18
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_938.png",
+      "bbox": [
+        405,
+        1190,
+        11,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase5_reino_perdido_939.png",
+      "bbox": [
+        676,
+        1190,
+        60,
+        21
+      ],
+      "area": 446
+    },
+    {
+      "file": "fase5_reino_perdido_940.png",
+      "bbox": [
+        651,
+        1191,
+        21,
+        15
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase5_reino_perdido_941.png",
+      "bbox": [
+        1010,
+        1191,
+        25,
+        13
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase5_reino_perdido_942.png",
+      "bbox": [
+        332,
+        1193,
+        20,
+        10
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_943.png",
+      "bbox": [
+        667,
+        1195,
+        12,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase5_reino_perdido_944.png",
+      "bbox": [
+        909,
+        1196,
+        16,
+        11
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase5_reino_perdido_945.png",
+      "bbox": [
+        931,
+        1197,
+        21,
+        10
+      ],
+      "area": 64
+    }
+  ]
+}

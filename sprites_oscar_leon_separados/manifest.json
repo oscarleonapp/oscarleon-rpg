@@ -1,0 +1,166 @@
+{
+  "source": "hoja_de_sprite_de_aventurero_pixelado.png",
+  "method": "separación por componentes conectados para evitar mezclar partes de otros sprites",
+  "uniform_canvas": [
+    210,
+    316
+  ],
+  "files": [
+    {
+      "name": "oscar_leon_down_01.png",
+      "direction": "down",
+      "frame": 1,
+      "bbox_original": [
+        155,
+        43,
+        178,
+        288
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_down_01.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_down_01.png"
+    },
+    {
+      "name": "oscar_leon_down_02.png",
+      "direction": "down",
+      "frame": 2,
+      "bbox_original": [
+        443,
+        44,
+        175,
+        287
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_down_02.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_down_02.png"
+    },
+    {
+      "name": "oscar_leon_down_03.png",
+      "direction": "down",
+      "frame": 3,
+      "bbox_original": [
+        719,
+        43,
+        176,
+        288
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_down_03.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_down_03.png"
+    },
+    {
+      "name": "oscar_leon_left_01.png",
+      "direction": "left",
+      "frame": 1,
+      "bbox_original": [
+        133,
+        359,
+        194,
+        286
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_left_01.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_left_01.png"
+    },
+    {
+      "name": "oscar_leon_left_02.png",
+      "direction": "left",
+      "frame": 2,
+      "bbox_original": [
+        486,
+        359,
+        124,
+        286
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_left_02.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_left_02.png"
+    },
+    {
+      "name": "oscar_leon_left_03.png",
+      "direction": "left",
+      "frame": 3,
+      "bbox_original": [
+        697,
+        358,
+        189,
+        287
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_left_03.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_left_03.png"
+    },
+    {
+      "name": "oscar_leon_right_01.png",
+      "direction": "right",
+      "frame": 1,
+      "bbox_original": [
+        176,
+        680,
+        169,
+        288
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_right_01.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_right_01.png"
+    },
+    {
+      "name": "oscar_leon_right_02.png",
+      "direction": "right",
+      "frame": 2,
+      "bbox_original": [
+        477,
+        680,
+        122,
+        288
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_right_02.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_right_02.png"
+    },
+    {
+      "name": "oscar_leon_right_03.png",
+      "direction": "right",
+      "frame": 3,
+      "bbox_original": [
+        743,
+        680,
+        170,
+        290
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_right_03.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_right_03.png"
+    },
+    {
+      "name": "oscar_leon_up_01.png",
+      "direction": "up",
+      "frame": 1,
+      "bbox_original": [
+        176,
+        999,
+        176,
+        300
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_up_01.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_up_01.png"
+    },
+    {
+      "name": "oscar_leon_up_02.png",
+      "direction": "up",
+      "frame": 2,
+      "bbox_original": [
+        472,
+        999,
+        173,
+        300
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_up_02.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_up_02.png"
+    },
+    {
+      "name": "oscar_leon_up_03.png",
+      "direction": "up",
+      "frame": 3,
+      "bbox_original": [
+        745,
+        999,
+        176,
+        300
+      ],
+      "tight_path": "recortados_componentes/oscar_leon_up_03.png",
+      "uniform_path": "uniformes_alineados/oscar_leon_up_03.png"
+    }
+  ]
+}

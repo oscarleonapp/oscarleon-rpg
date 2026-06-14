@@ -1,0 +1,16 @@
+[
+  {
+    "type": "hunt",
+    "titleTemplate": "Caza al {animal} que amenaza {village}",
+    "objectives": ["track_animal", "defeat_animal"],
+    "possibleAnimals": ["rata_de_granero", "cuervo_oscuro", "serpiente_de_monte"],
+    "rewards": { "xp": 50, "gold": 10 }
+  },
+  {
+    "type": "gather",
+    "titleTemplate": "Recolecta {resource} para el curandero",
+    "objectives": ["collect_resource"],
+    "possibleResources": ["maiz", "frijol", "hierba_seca"],
+    "rewards": { "xp": 40, "gold": 8 }
+  }
+]

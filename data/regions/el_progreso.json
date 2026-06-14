@@ -1,0 +1,16 @@
+{
+  "id": "el_progreso",
+  "department": "El Progreso",
+  "fantasyName": "Cañón del Viento Antiguo",
+  "levelRange": [18, 21],
+  "startingVillage": "Guastatoya",
+  "biome": "cañon_arido",
+  "climate": ["viento_fuerte", "sol_inclemente"],
+  "resources": ["obsidiana", "cactus", "salitre"],
+  "animals": ["correcaminos", "serpiente_cascabel"],
+  "enemies": ["bandido_del_cañon", "espiritu_del_viento"],
+  "boss": "el_señor_del_cañon",
+  "relic": "pluma_del_viento",
+  "mainQuest": "El Susurro de los Barrancos",
+  "proceduralEvents": ["torbellino_de_arena", "emboscada_en_el_paso", "oasís_espejismo"]
+}

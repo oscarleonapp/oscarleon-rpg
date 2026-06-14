@@ -1,0 +1,18 @@
+{
+  "mounts": [
+    {
+      "id": "tapir_ancestral",
+      "name": "Tapir Ancestral",
+      "unlockMethod": "Completar misiones de Alta Verapaz",
+      "speedBonus": 2.0,
+      "perk": "Ignora el costo de energía en biomas de selva"
+    },
+    {
+      "id": "quetzal_espectral",
+      "name": "Quetzal Espectral",
+      "unlockMethod": "Recuperar las 22 reliquias departamentales",
+      "speedBonus": 4.0,
+      "perk": "Permite volar sobre cañones y montañas, ignorando encuentros aleatorios terrestres"
+    }
+  ]
+}

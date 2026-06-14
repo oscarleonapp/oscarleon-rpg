@@ -1,0 +1,27 @@
+{
+  "system": "hunting",
+  "mechanics": {
+    "methods": ["trap", "bow", "melee"],
+    "outcomes": ["meat", "hide", "bones", "rare_drop"]
+  },
+  "animals": [
+    {
+      "id": "conejo_de_monte",
+      "name": "Conejo de Monte",
+      "difficulty": 1,
+      "drops": ["carne_de_conejo", "piel_suave"]
+    },
+    {
+      "id": "jabalí",
+      "name": "Jabalí",
+      "difficulty": 5,
+      "drops": ["carne_de_jabali", "cuero_grueso", "colmillo"]
+    },
+    {
+      "id": "jaguar_de_obsidiana",
+      "name": "Jaguar de Obsidiana",
+      "difficulty": 50,
+      "drops": ["carne_mistica", "piel_de_obsidiana", "garra_oscura"]
+    }
+  ]
+}

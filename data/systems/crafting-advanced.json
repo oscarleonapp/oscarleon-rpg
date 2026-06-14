@@ -1,0 +1,30 @@
+{
+  "blacksmithing": {
+    "recipes": [
+      {
+        "id": "machete_de_jade",
+        "name": "Machete de Jade Rojo",
+        "materials": [
+          { "id": "machete_viejo", "quantity": 1 },
+          { "id": "jade_crudo", "quantity": 5 },
+          { "id": "obsidiana", "quantity": 2 }
+        ],
+        "stats": { "atk": 35 },
+        "requiredStation": "forge"
+      }
+    ]
+  },
+  "alchemy": {
+    "recipes": [
+      {
+        "id": "elixir_de_atitlan",
+        "name": "Elixir de Atitlán",
+        "materials": [
+          { "id": "hongo_azul", "quantity": 2 },
+          { "id": "peces_de_lago", "quantity": 1 }
+        ],
+        "effect": { "restore_magic": 50, "buff": "water_breathing" }
+      }
+    ]
+  }
+}

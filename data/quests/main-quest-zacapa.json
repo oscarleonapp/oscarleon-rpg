@@ -1,0 +1,40 @@
+{
+  "id": "mq_zacapa_01",
+  "title": "El niño del maizal",
+  "region": "Zacapa",
+  "levelRequired": 1,
+  "giver": "Madre de Oscar",
+  "description": "Oscar debe ayudar en la parcela familiar antes de ir al río.",
+  "objectives": [
+    {
+      "id": "obj_01",
+      "type": "gather",
+      "item": "maiz",
+      "quantity": 5,
+      "description": "Recolecta 5 mazorcas de maíz de la parcela."
+    },
+    {
+      "id": "obj_02",
+      "type": "interact",
+      "target": "parcela_familiar",
+      "action": "water",
+      "quantity": 3,
+      "description": "Riega las plantas de maíz sedientas."
+    },
+    {
+      "id": "obj_03",
+      "type": "talk",
+      "npc": "Anciano Mateo",
+      "description": "Habla con el Anciano Mateo sobre los rumores del río."
+    }
+  ],
+  "rewards": {
+    "xp": 100,
+    "items": [
+      { "id": "pan_de_maiz", "quantity": 2 },
+      { "id": "semillas_de_maiz", "quantity": 10 }
+    ],
+    "gold": 5
+  },
+  "nextQuest": "mq_zacapa_02"
+}

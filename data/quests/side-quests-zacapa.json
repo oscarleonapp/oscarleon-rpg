@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sq_zacapa_1",
+    "title": "Recolecta frijol para el curandero",
+    "type": "gather",
+    "status": "available",
+    "rewards": {
+      "xp": 40,
+      "gold": 8
+    }
+  },
+  {
+    "id": "sq_zacapa_2",
+    "title": "Recolecta hierba_seca para el curandero",
+    "type": "gather",
+    "status": "available",
+    "rewards": {
+      "xp": 40,
+      "gold": 8
+    }
+  },
+  {
+    "id": "sq_zacapa_3",
+    "title": "Recolecta frijol para el curandero",
+    "type": "gather",
+    "status": "available",
+    "rewards": {
+      "xp": 40,
+      "gold": 8
+    }
+  }
+]

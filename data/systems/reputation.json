@@ -1,0 +1,14 @@
+{
+  "levels": {
+    "0-20": { "name": "Desconocido", "perks": [] },
+    "21-50": { "name": "Vecino", "perks": ["trade_bonus_5"] },
+    "51-80": { "name": "Amigo del Pueblo", "perks": ["trade_bonus_15", "special_quests"] },
+    "81-100": { "name": "Héroe Regional", "perks": ["trade_bonus_30", "military_support"] }
+  },
+  "initialReputation": {
+    "zacapa": 10,
+    "chiquimula": 0,
+    "izabal": 0,
+    "el_progreso": 0
+  }
+}

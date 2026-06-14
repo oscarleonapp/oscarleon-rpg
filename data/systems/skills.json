@@ -1,0 +1,17 @@
+{
+  "farming": {
+    "tier1": [
+      { "id": "sembrador_principiante", "name": "Sembrador Principiante", "effect": "Reduces growth time by 5%", "cost": 1 },
+      { "id": "riego_eficiente", "name": "Riego Eficiente", "effect": "Uses 10% less water", "cost": 1 }
+    ],
+    "tier2": [
+      { "id": "doble_cosecha", "name": "Doble Cosecha", "effect": "Chance to get 2x items", "cost": 3 }
+    ]
+  },
+  "combat": {
+    "tier1": [
+      { "id": "golpe_con_machete", "name": "Golpe con Machete", "effect": "Atk +5%", "cost": 1 },
+      { "id": "defensa_basica", "name": "Defensa Básica", "effect": "Def +5%", "cost": 1 }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "source": "hoja_de_sprite_de_aventurero_pixelado.png",
+  "original_size": [
+    1086,
+    1448
+  ],
+  "grid": {
+    "columns": 3,
+    "rows": 4
+  },
+  "cell_size": [
+    362,
+    362
+  ],
+  "note": "uniformes_3x4 conserva el tamaño exacto de celda para animación; recortados contiene cada sprite ajustado al personaje.",
+  "files": [
+    {
+      "name": "oscar_leon_down_01.png",
+      "direction": "down",
+      "frame": 1,
+      "uniform_path": "uniformes_3x4/oscar_leon_down_01.png",
+      "cropped_path": "recortados/oscar_leon_down_01.png"
+    },
+    {
+      "name": "oscar_leon_down_02.png",
+      "direction": "down",
+      "frame": 2,
+      "uniform_path": "uniformes_3x4/oscar_leon_down_02.png",
+      "cropped_path": "recortados/oscar_leon_down_02.png"
+    },
+    {
+      "name": "oscar_leon_down_03.png",
+      "direction": "down",
+      "frame": 3,
+      "uniform_path": "uniformes_3x4/oscar_leon_down_03.png",
+      "cropped_path": "recortados/oscar_leon_down_03.png"
+    },
+    {
+      "name": "oscar_leon_left_01.png",
+      "direction": "left",
+      "frame": 1,
+      "uniform_path": "uniformes_3x4/oscar_leon_left_01.png",
+      "cropped_path": "recortados/oscar_leon_left_01.png"
+    },
+    {
+      "name": "oscar_leon_left_02.png",
+      "direction": "left",
+      "frame": 2,
+      "uniform_path": "uniformes_3x4/oscar_leon_left_02.png",
+      "cropped_path": "recortados/oscar_leon_left_02.png"
+    },
+    {
+      "name": "oscar_leon_left_03.png",
+      "direction": "left",
+      "frame": 3,
+      "uniform_path": "uniformes_3x4/oscar_leon_left_03.png",
+      "cropped_path": "recortados/oscar_leon_left_03.png"
+    },
+    {
+      "name": "oscar_leon_right_01.png",
+      "direction": "right",
+      "frame": 1,
+      "uniform_path": "uniformes_3x4/oscar_leon_right_01.png",
+      "cropped_path": "recortados/oscar_leon_right_01.png"
+    },
+    {
+      "name": "oscar_leon_right_02.png",
+      "direction": "right",
+      "frame": 2,
+      "uniform_path": "uniformes_3x4/oscar_leon_right_02.png",
+      "cropped_path": "recortados/oscar_leon_right_02.png"
+    },
+    {
+      "name": "oscar_leon_right_03.png",
+      "direction": "right",
+      "frame": 3,
+      "uniform_path": "uniformes_3x4/oscar_leon_right_03.png",
+      "cropped_path": "recortados/oscar_leon_right_03.png"
+    },
+    {
+      "name": "oscar_leon_up_01.png",
+      "direction": "up",
+      "frame": 1,
+      "uniform_path": "uniformes_3x4/oscar_leon_up_01.png",
+      "cropped_path": "recortados/oscar_leon_up_01.png"
+    },
+    {
+      "name": "oscar_leon_up_02.png",
+      "direction": "up",
+      "frame": 2,
+      "uniform_path": "uniformes_3x4/oscar_leon_up_02.png",
+      "cropped_path": "recortados/oscar_leon_up_02.png"
+    },
+    {
+      "name": "oscar_leon_up_03.png",
+      "direction": "up",
+      "frame": 3,
+      "uniform_path": "uniformes_3x4/oscar_leon_up_03.png",
+      "cropped_path": "recortados/oscar_leon_up_03.png"
+    }
+  ]
+}

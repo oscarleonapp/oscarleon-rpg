@@ -1,0 +1,17 @@
+{
+  "physical_meeting": {
+    "location": "Palacio de la Ceiba Blanca, Guatemala",
+    "event": "El Reencuentro de las Almas",
+    "narrative": "Oscar atraviesa los jardines reales para encontrarse con Karen. No es solo una princesa; es la clave para sellar la Sombra del Xibal.",
+    "unlocks": ["karen_companion_active"]
+  },
+  "karen_skills": {
+    "luz": [
+      { "id": "luz_sanadora", "name": "Luz Sanadora", "effect": "Restaura 20% HP a un aliado", "cost": 2 },
+      { "id": "escudo_de_jade", "name": "Escudo de Jade", "effect": "Aumenta defensa 30% por 3 turnos", "cost": 3 }
+    ],
+    "purificacion": [
+      { "id": "lectura_de_codices", "name": "Lectura de Códices", "effect": "Revela debilidades de enemigos oscuros", "cost": 1 }
+    ]
+  }
+}

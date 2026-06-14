@@ -1,0 +1,76 @@
+{
+  "regions": [
+    {
+      "id": "zacapa",
+      "name": "Zacapa",
+      "fantasyName": "Valle de Xaq’ab",
+      "biome": "chaparral_espinoso",
+      "climate": "arido_calido",
+      "levelRange": [1, 8],
+      "resources": ["maiz", "frijol", "piedra_de_rio"]
+    },
+    {
+      "id": "chiquimula",
+      "name": "Chiquimula",
+      "fantasyName": "Tierras del Jade Rojo",
+      "biome": "chaparral_espinoso",
+      "climate": "arido_calido",
+      "levelRange": [9, 12],
+      "resources": ["jade", "plata"]
+    },
+    {
+      "id": "izabal",
+      "name": "Izabal",
+      "fantasyName": "Costa de los Espíritus Azules",
+      "biome": "selva_tropical_lluviosa",
+      "climate": "muy_humedo_calido",
+      "levelRange": [13, 17],
+      "resources": ["conchas", "peces_exoticos"]
+    },
+    {
+      "id": "huehuetenango",
+      "name": "Huehuetenango",
+      "fantasyName": "Muralla de las Estrellas",
+      "biome": "bosque_de_montaña",
+      "climate": "frio_extremo",
+      "levelRange": [86, 90],
+      "resources": ["fragmento_estelar", "plata_antigua"]
+    },
+    {
+      "id": "quetzaltenango",
+      "name": "Quetzaltenango",
+      "fantasyName": "Reino del Quetzal de Plata",
+      "biome": "bosque_de_montaña",
+      "climate": "frio_templado",
+      "levelRange": [63, 66],
+      "resources": ["lana_fina", "trigo"]
+    },
+    {
+      "id": "alta_verapaz",
+      "name": "Alta Verapaz",
+      "fantasyName": "Selva de la Lluvia Eterna",
+      "biome": "selva_de_montaña",
+      "climate": "templado_muy_humedo",
+      "levelRange": [81, 85],
+      "resources": ["cafe_especial", "cardamomo"]
+    },
+    {
+      "id": "escuintla",
+      "name": "Escuintla",
+      "fantasyName": "Llanura del Fuego Negro",
+      "biome": "sabana_tropical_humeda",
+      "climate": "calido_tropical",
+      "levelRange": [47, 50],
+      "resources": ["caña_de_azucar", "sal_volcanica"]
+    },
+    {
+      "id": "peten",
+      "name": "Petén",
+      "fantasyName": "Selva del Reino Perdido",
+      "biome": "selva_tropical_humeda",
+      "climate": "caluroso_humedo",
+      "levelRange": [91, 100],
+      "resources": ["madera_preciosa", "artefactos_mayas"]
+    }
+  ]
+}

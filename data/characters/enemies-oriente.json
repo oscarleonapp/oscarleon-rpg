@@ -1,0 +1,26 @@
+[
+  {
+    "id": "minero_poseido",
+    "name": "Minero Poseído",
+    "region": "Chiquimula",
+    "stats": { "hp": 80, "atk": 12, "def": 15 },
+    "drops": ["jade_crudo", "pico_oxidado"],
+    "behavior": "aggressive"
+  },
+  {
+    "id": "pirata_fantasma",
+    "name": "Pirata Fantasma",
+    "region": "Izabal",
+    "stats": { "hp": 60, "atk": 18, "def": 5 },
+    "drops": ["doblones_antiguos", "concha_azul"],
+    "behavior": "stealthy"
+  },
+  {
+    "id": "bandido_del_cañon",
+    "name": "Bandido del Cañón",
+    "region": "El Progreso",
+    "stats": { "hp": 70, "atk": 15, "def": 8 },
+    "drops": ["cuero", "cactus_seco"],
+    "behavior": "ranged"
+  }
+]

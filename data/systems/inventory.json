@@ -1,0 +1,9 @@
+{
+  "maxWeight": 50,
+  "slots": 15,
+  "categories": ["equipment", "resources", "consumables", "relics"],
+  "encumbranceEffects": {
+    "over_75": { "speed": 0.8, "energy_consumption": 1.2 },
+    "over_100": { "speed": 0.5, "energy_consumption": 2.0, "can_sprint": false }
+  }
+}

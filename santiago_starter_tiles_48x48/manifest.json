@@ -1,0 +1,525 @@
+{
+  "pack": "Santiago Starter Tiles 48x48",
+  "location": "Santiago, Gualán, Zacapa",
+  "tile_size": [
+    48,
+    48
+  ],
+  "format": "PNG transparent",
+  "tiles": [
+    {
+      "id": "dry_soil_01",
+      "category": "terrain",
+      "file": "terrain/dry_soil_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dry_soil_02",
+      "category": "terrain",
+      "file": "terrain/dry_soil_02.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dust_path_01",
+      "category": "terrain",
+      "file": "terrain/dust_path_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "packed_yard_01",
+      "category": "terrain",
+      "file": "terrain/packed_yard_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "rocky_ground_01",
+      "category": "terrain",
+      "file": "terrain/rocky_ground_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "sand_patch_01",
+      "category": "terrain",
+      "file": "terrain/sand_patch_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dry_soil_cracked_01",
+      "category": "terrain",
+      "file": "terrain/dry_soil_cracked_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dry_grass_edge_bottom",
+      "category": "terrain",
+      "file": "terrain/dry_grass_edge_bottom.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "burnt_soil_01",
+      "category": "terrain",
+      "file": "terrain/burnt_soil_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "cart_road_vertical",
+      "category": "roads_bridges",
+      "file": "roads_bridges/cart_road_vertical.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "cart_road_horizontal",
+      "category": "roads_bridges",
+      "file": "roads_bridges/cart_road_horizontal.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "cart_road_corner_ne",
+      "category": "roads_bridges",
+      "file": "roads_bridges/cart_road_corner_ne.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "motagua_water_01",
+      "category": "water_irrigation",
+      "file": "water_irrigation/motagua_water_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "motagua_rocky_water_01",
+      "category": "water_irrigation",
+      "file": "water_irrigation/motagua_rocky_water_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "motagua_bank_bottom",
+      "category": "water_irrigation",
+      "file": "water_irrigation/motagua_bank_bottom.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "irrigation_channel_vertical",
+      "category": "water_irrigation",
+      "file": "water_irrigation/irrigation_channel_vertical.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "irrigation_channel_horizontal",
+      "category": "water_irrigation",
+      "file": "water_irrigation/irrigation_channel_horizontal.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "irrigation_gate_01",
+      "category": "water_irrigation",
+      "file": "water_irrigation/irrigation_gate_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "fish_pond_01",
+      "category": "water_irrigation",
+      "file": "water_irrigation/fish_pond_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "tilled_soil_01",
+      "category": "agriculture",
+      "file": "agriculture/tilled_soil_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "irrigated_soil_01",
+      "category": "agriculture",
+      "file": "agriculture/irrigated_soil_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "corn_seedling",
+      "category": "agriculture",
+      "file": "agriculture/corn_seedling.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "corn_mid",
+      "category": "agriculture",
+      "file": "agriculture/corn_mid.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "corn_grown",
+      "category": "agriculture",
+      "file": "agriculture/corn_grown.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "bean_seedling",
+      "category": "agriculture",
+      "file": "agriculture/bean_seedling.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "bean_mid",
+      "category": "agriculture",
+      "file": "agriculture/bean_mid.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "bean_harvest",
+      "category": "agriculture",
+      "file": "agriculture/bean_harvest.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "tomato_crop_red",
+      "category": "agriculture",
+      "file": "agriculture/tomato_crop_red.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "chili_crop_red",
+      "category": "agriculture",
+      "file": "agriculture/chili_crop_red.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "hay_bale_01",
+      "category": "agriculture",
+      "file": "agriculture/hay_bale_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "nopal_01",
+      "category": "vegetation",
+      "file": "vegetation/nopal_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "organ_cactus_01",
+      "category": "vegetation",
+      "file": "vegetation/organ_cactus_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "thorn_bush_01",
+      "category": "vegetation",
+      "file": "vegetation/thorn_bush_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dry_bush_01",
+      "category": "vegetation",
+      "file": "vegetation/dry_bush_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "jicaro_tree_01",
+      "category": "vegetation",
+      "file": "vegetation/jicaro_tree_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dead_tree_01",
+      "category": "vegetation",
+      "file": "vegetation/dead_tree_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "adobe_wall_01",
+      "category": "buildings",
+      "file": "buildings/adobe_wall_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "adobe_wall_door_01",
+      "category": "buildings",
+      "file": "buildings/adobe_wall_door_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "adobe_wall_window_01",
+      "category": "buildings",
+      "file": "buildings/adobe_wall_window_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "teja_roof_01",
+      "category": "buildings",
+      "file": "buildings/teja_roof_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "wooden_fence_01",
+      "category": "buildings",
+      "file": "buildings/wooden_fence_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "farm_shed_01",
+      "category": "buildings",
+      "file": "buildings/farm_shed_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "water_pila_01",
+      "category": "buildings",
+      "file": "buildings/water_pila_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "corn_sack_01",
+      "category": "commerce_props",
+      "file": "commerce_props/corn_sack_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "bean_sack_01",
+      "category": "commerce_props",
+      "file": "commerce_props/bean_sack_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "coffee_sack_01",
+      "category": "commerce_props",
+      "file": "commerce_props/coffee_sack_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "mango_crate_01",
+      "category": "commerce_props",
+      "file": "commerce_props/mango_crate_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "citrus_crate_01",
+      "category": "commerce_props",
+      "file": "commerce_props/citrus_crate_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "tomato_box_01",
+      "category": "commerce_props",
+      "file": "commerce_props/tomato_box_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "wooden_crate_01",
+      "category": "commerce_props",
+      "file": "commerce_props/wooden_crate_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "roadside_stall_01",
+      "category": "commerce_props",
+      "file": "commerce_props/roadside_stall_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "cart_loaded_01",
+      "category": "commerce_props",
+      "file": "commerce_props/cart_loaded_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "road_sign_01",
+      "category": "commerce_props",
+      "file": "commerce_props/road_sign_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "wooden_bridge_horizontal",
+      "category": "roads_bridges",
+      "file": "roads_bridges/wooden_bridge_horizontal.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "gray_boulder_01",
+      "category": "rocks_mountains",
+      "file": "rocks_mountains/gray_boulder_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "rock_cluster_01",
+      "category": "rocks_mountains",
+      "file": "rocks_mountains/rock_cluster_01.png",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "dry_hill_edge_01",
+      "category": "rocks_mountains",
+      "file": "rocks_mountains/dry_hill_edge_01.png",
+      "size": [
+        48,
+        48
+      ]
+    }
+  ],
+  "total_tiles": 57
+}

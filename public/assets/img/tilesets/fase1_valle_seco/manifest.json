@@ -1,0 +1,7507 @@
+{
+  "phase": "fase1_valle_seco",
+  "source": "hoja_de_tileset_para_rpg_desértico.png",
+  "count": 750,
+  "tiles": [
+    {
+      "file": "fase1_valle_seco_001.png",
+      "bbox": [
+        27,
+        31,
+        106,
+        104
+      ],
+      "area": 8428
+    },
+    {
+      "file": "fase1_valle_seco_002.png",
+      "bbox": [
+        136,
+        31,
+        106,
+        104
+      ],
+      "area": 8456
+    },
+    {
+      "file": "fase1_valle_seco_003.png",
+      "bbox": [
+        292,
+        31,
+        44,
+        35
+      ],
+      "area": 453
+    },
+    {
+      "file": "fase1_valle_seco_004.png",
+      "bbox": [
+        322,
+        31,
+        31,
+        54
+      ],
+      "area": 499
+    },
+    {
+      "file": "fase1_valle_seco_005.png",
+      "bbox": [
+        356,
+        31,
+        105,
+        104
+      ],
+      "area": 9100
+    },
+    {
+      "file": "fase1_valle_seco_006.png",
+      "bbox": [
+        1010,
+        31,
+        18,
+        21
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase1_valle_seco_007.png",
+      "bbox": [
+        1059,
+        31,
+        20,
+        18
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase1_valle_seco_008.png",
+      "bbox": [
+        1168,
+        31,
+        57,
+        56
+      ],
+      "area": 1154
+    },
+    {
+      "file": "fase1_valle_seco_009.png",
+      "bbox": [
+        247,
+        32,
+        22,
+        37
+      ],
+      "area": 203
+    },
+    {
+      "file": "fase1_valle_seco_010.png",
+      "bbox": [
+        252,
+        32,
+        51,
+        23
+      ],
+      "area": 264
+    },
+    {
+      "file": "fase1_valle_seco_011.png",
+      "bbox": [
+        465,
+        32,
+        16,
+        16
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase1_valle_seco_012.png",
+      "bbox": [
+        479,
+        32,
+        24,
+        20
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase1_valle_seco_013.png",
+      "bbox": [
+        508,
+        32,
+        23,
+        12
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase1_valle_seco_014.png",
+      "bbox": [
+        531,
+        32,
+        13,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_015.png",
+      "bbox": [
+        574,
+        32,
+        19,
+        14
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase1_valle_seco_016.png",
+      "bbox": [
+        609,
+        32,
+        26,
+        15
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase1_valle_seco_017.png",
+      "bbox": [
+        667,
+        32,
+        12,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_018.png",
+      "bbox": [
+        683,
+        32,
+        12,
+        17
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_019.png",
+      "bbox": [
+        732,
+        32,
+        14,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_020.png",
+      "bbox": [
+        795,
+        32,
+        30,
+        24
+      ],
+      "area": 278
+    },
+    {
+      "file": "fase1_valle_seco_021.png",
+      "bbox": [
+        816,
+        32,
+        57,
+        103
+      ],
+      "area": 3893
+    },
+    {
+      "file": "fase1_valle_seco_022.png",
+      "bbox": [
+        910,
+        32,
+        22,
+        28
+      ],
+      "area": 205
+    },
+    {
+      "file": "fase1_valle_seco_023.png",
+      "bbox": [
+        917,
+        32,
+        75,
+        103
+      ],
+      "area": 4595
+    },
+    {
+      "file": "fase1_valle_seco_024.png",
+      "bbox": [
+        1120,
+        32,
+        25,
+        28
+      ],
+      "area": 270
+    },
+    {
+      "file": "fase1_valle_seco_025.png",
+      "bbox": [
+        1136,
+        32,
+        19,
+        16
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase1_valle_seco_026.png",
+      "bbox": [
+        1152,
+        32,
+        19,
+        17
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase1_valle_seco_027.png",
+      "bbox": [
+        557,
+        33,
+        13,
+        21
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase1_valle_seco_028.png",
+      "bbox": [
+        1025,
+        33,
+        10,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_029.png",
+      "bbox": [
+        1044,
+        33,
+        21,
+        12
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_030.png",
+      "bbox": [
+        989,
+        37,
+        14,
+        19
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase1_valle_seco_031.png",
+      "bbox": [
+        275,
+        39,
+        15,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase1_valle_seco_032.png",
+      "bbox": [
+        769,
+        39,
+        18,
+        16
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase1_valle_seco_033.png",
+      "bbox": [
+        1102,
+        39,
+        14,
+        16
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase1_valle_seco_034.png",
+      "bbox": [
+        634,
+        41,
+        14,
+        14
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase1_valle_seco_035.png",
+      "bbox": [
+        495,
+        42,
+        14,
+        16
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase1_valle_seco_036.png",
+      "bbox": [
+        509,
+        42,
+        27,
+        21
+      ],
+      "area": 163
+    },
+    {
+      "file": "fase1_valle_seco_037.png",
+      "bbox": [
+        657,
+        42,
+        17,
+        14
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_038.png",
+      "bbox": [
+        1024,
+        42,
+        16,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_039.png",
+      "bbox": [
+        877,
+        43,
+        15,
+        17
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase1_valle_seco_040.png",
+      "bbox": [
+        1090,
+        44,
+        16,
+        17
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase1_valle_seco_041.png",
+      "bbox": [
+        265,
+        46,
+        14,
+        17
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase1_valle_seco_042.png",
+      "bbox": [
+        470,
+        47,
+        18,
+        16
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase1_valle_seco_043.png",
+      "bbox": [
+        525,
+        48,
+        28,
+        31
+      ],
+      "area": 255
+    },
+    {
+      "file": "fase1_valle_seco_044.png",
+      "bbox": [
+        599,
+        50,
+        12,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_045.png",
+      "bbox": [
+        651,
+        50,
+        13,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_046.png",
+      "bbox": [
+        1037,
+        50,
+        12,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_047.png",
+      "bbox": [
+        866,
+        52,
+        15,
+        9
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_048.png",
+      "bbox": [
+        1020,
+        53,
+        20,
+        19
+      ],
+      "area": 115
+    },
+    {
+      "file": "fase1_valle_seco_049.png",
+      "bbox": [
+        274,
+        54,
+        15,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_050.png",
+      "bbox": [
+        297,
+        56,
+        20,
+        23
+      ],
+      "area": 161
+    },
+    {
+      "file": "fase1_valle_seco_051.png",
+      "bbox": [
+        574,
+        56,
+        14,
+        11
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_052.png",
+      "bbox": [
+        497,
+        58,
+        22,
+        31
+      ],
+      "area": 231
+    },
+    {
+      "file": "fase1_valle_seco_053.png",
+      "bbox": [
+        1171,
+        58,
+        20,
+        17
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase1_valle_seco_054.png",
+      "bbox": [
+        553,
+        59,
+        17,
+        9
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_055.png",
+      "bbox": [
+        650,
+        59,
+        16,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase1_valle_seco_056.png",
+      "bbox": [
+        631,
+        60,
+        17,
+        10
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_057.png",
+      "bbox": [
+        1120,
+        60,
+        15,
+        27
+      ],
+      "area": 190
+    },
+    {
+      "file": "fase1_valle_seco_058.png",
+      "bbox": [
+        988,
+        61,
+        17,
+        15
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase1_valle_seco_059.png",
+      "bbox": [
+        579,
+        62,
+        23,
+        21
+      ],
+      "area": 217
+    },
+    {
+      "file": "fase1_valle_seco_060.png",
+      "bbox": [
+        611,
+        62,
+        18,
+        20
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase1_valle_seco_061.png",
+      "bbox": [
+        754,
+        63,
+        13,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_062.png",
+      "bbox": [
+        1102,
+        64,
+        13,
+        20
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_063.png",
+      "bbox": [
+        465,
+        65,
+        31,
+        25
+      ],
+      "area": 203
+    },
+    {
+      "file": "fase1_valle_seco_064.png",
+      "bbox": [
+        664,
+        65,
+        15,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_065.png",
+      "bbox": [
+        265,
+        66,
+        16,
+        19
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase1_valle_seco_066.png",
+      "bbox": [
+        1010,
+        66,
+        19,
+        50
+      ],
+      "area": 321
+    },
+    {
+      "file": "fase1_valle_seco_067.png",
+      "bbox": [
+        1053,
+        66,
+        18,
+        21
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase1_valle_seco_068.png",
+      "bbox": [
+        1186,
+        67,
+        19,
+        19
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase1_valle_seco_069.png",
+      "bbox": [
+        253,
+        71,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_070.png",
+      "bbox": [
+        286,
+        72,
+        16,
+        13
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_071.png",
+      "bbox": [
+        319,
+        72,
+        18,
+        18
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase1_valle_seco_072.png",
+      "bbox": [
+        667,
+        73,
+        12,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_073.png",
+      "bbox": [
+        487,
+        74,
+        17,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_074.png",
+      "bbox": [
+        630,
+        74,
+        17,
+        16
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase1_valle_seco_075.png",
+      "bbox": [
+        792,
+        74,
+        21,
+        21
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase1_valle_seco_076.png",
+      "bbox": [
+        515,
+        75,
+        18,
+        18
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase1_valle_seco_077.png",
+      "bbox": [
+        256,
+        78,
+        20,
+        17
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase1_valle_seco_078.png",
+      "bbox": [
+        553,
+        78,
+        17,
+        18
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase1_valle_seco_079.png",
+      "bbox": [
+        1033,
+        78,
+        18,
+        18
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase1_valle_seco_080.png",
+      "bbox": [
+        1162,
+        78,
+        15,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_081.png",
+      "bbox": [
+        248,
+        80,
+        10,
+        16
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_082.png",
+      "bbox": [
+        755,
+        81,
+        15,
+        14
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase1_valle_seco_083.png",
+      "bbox": [
+        1091,
+        81,
+        21,
+        18
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase1_valle_seco_084.png",
+      "bbox": [
+        1175,
+        82,
+        14,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_085.png",
+      "bbox": [
+        274,
+        84,
+        16,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase1_valle_seco_086.png",
+      "bbox": [
+        1061,
+        84,
+        17,
+        17
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase1_valle_seco_087.png",
+      "bbox": [
+        1154,
+        84,
+        13,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_088.png",
+      "bbox": [
+        316,
+        87,
+        21,
+        14
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase1_valle_seco_089.png",
+      "bbox": [
+        465,
+        87,
+        20,
+        15
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase1_valle_seco_090.png",
+      "bbox": [
+        265,
+        88,
+        15,
+        19
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase1_valle_seco_091.png",
+      "bbox": [
+        332,
+        89,
+        18,
+        18
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase1_valle_seco_092.png",
+      "bbox": [
+        480,
+        90,
+        41,
+        23
+      ],
+      "area": 304
+    },
+    {
+      "file": "fase1_valle_seco_093.png",
+      "bbox": [
+        646,
+        90,
+        22,
+        16
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_094.png",
+      "bbox": [
+        799,
+        91,
+        16,
+        13
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase1_valle_seco_095.png",
+      "bbox": [
+        1165,
+        91,
+        14,
+        24
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase1_valle_seco_096.png",
+      "bbox": [
+        232,
+        92,
+        10,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_097.png",
+      "bbox": [
+        302,
+        92,
+        15,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_098.png",
+      "bbox": [
+        527,
+        92,
+        17,
+        17
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase1_valle_seco_099.png",
+      "bbox": [
+        685,
+        92,
+        13,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_100.png",
+      "bbox": [
+        880,
+        92,
+        17,
+        15
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase1_valle_seco_101.png",
+      "bbox": [
+        991,
+        92,
+        15,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase1_valle_seco_102.png",
+      "bbox": [
+        1099,
+        92,
+        16,
+        14
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase1_valle_seco_103.png",
+      "bbox": [
+        1181,
+        92,
+        44,
+        43
+      ],
+      "area": 581
+    },
+    {
+      "file": "fase1_valle_seco_104.png",
+      "bbox": [
+        1052,
+        93,
+        14,
+        18
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase1_valle_seco_105.png",
+      "bbox": [
+        1120,
+        93,
+        20,
+        41
+      ],
+      "area": 318
+    },
+    {
+      "file": "fase1_valle_seco_106.png",
+      "bbox": [
+        587,
+        94,
+        15,
+        17
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase1_valle_seco_107.png",
+      "bbox": [
+        600,
+        96,
+        13,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_108.png",
+      "bbox": [
+        542,
+        99,
+        14,
+        17
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase1_valle_seco_109.png",
+      "bbox": [
+        247,
+        102,
+        18,
+        24
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase1_valle_seco_110.png",
+      "bbox": [
+        301,
+        102,
+        19,
+        11
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_111.png",
+      "bbox": [
+        331,
+        103,
+        18,
+        11
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase1_valle_seco_112.png",
+      "bbox": [
+        553,
+        104,
+        15,
+        14
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_113.png",
+      "bbox": [
+        465,
+        105,
+        15,
+        27
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase1_valle_seco_114.png",
+      "bbox": [
+        606,
+        107,
+        13,
+        12
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_115.png",
+      "bbox": [
+        649,
+        108,
+        19,
+        15
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase1_valle_seco_116.png",
+      "bbox": [
+        1076,
+        108,
+        40,
+        27
+      ],
+      "area": 422
+    },
+    {
+      "file": "fase1_valle_seco_117.png",
+      "bbox": [
+        309,
+        109,
+        15,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_118.png",
+      "bbox": [
+        574,
+        109,
+        17,
+        12
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase1_valle_seco_119.png",
+      "bbox": [
+        339,
+        110,
+        14,
+        21
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase1_valle_seco_120.png",
+      "bbox": [
+        901,
+        110,
+        17,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_121.png",
+      "bbox": [
+        1153,
+        110,
+        19,
+        12
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_122.png",
+      "bbox": [
+        255,
+        111,
+        36,
+        23
+      ],
+      "area": 217
+    },
+    {
+      "file": "fase1_valle_seco_123.png",
+      "bbox": [
+        1141,
+        112,
+        15,
+        14
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase1_valle_seco_124.png",
+      "bbox": [
+        1174,
+        112,
+        15,
+        9
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_125.png",
+      "bbox": [
+        302,
+        113,
+        15,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_126.png",
+      "bbox": [
+        318,
+        113,
+        15,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_127.png",
+      "bbox": [
+        1012,
+        113,
+        11,
+        16
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_128.png",
+      "bbox": [
+        809,
+        115,
+        15,
+        15
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_129.png",
+      "bbox": [
+        478,
+        116,
+        18,
+        18
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_130.png",
+      "bbox": [
+        1026,
+        116,
+        11,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_131.png",
+      "bbox": [
+        519,
+        119,
+        20,
+        14
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase1_valle_seco_132.png",
+      "bbox": [
+        277,
+        120,
+        26,
+        15
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase1_valle_seco_133.png",
+      "bbox": [
+        495,
+        120,
+        12,
+        14
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_134.png",
+      "bbox": [
+        657,
+        120,
+        14,
+        14
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_135.png",
+      "bbox": [
+        916,
+        120,
+        15,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_136.png",
+      "bbox": [
+        504,
+        122,
+        14,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_137.png",
+      "bbox": [
+        508,
+        138,
+        12,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_138.png",
+      "bbox": [
+        520,
+        138,
+        22,
+        12
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_139.png",
+      "bbox": [
+        920,
+        138,
+        86,
+        105
+      ],
+      "area": 5401
+    },
+    {
+      "file": "fase1_valle_seco_140.png",
+      "bbox": [
+        1010,
+        138,
+        12,
+        13
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_141.png",
+      "bbox": [
+        42,
+        139,
+        18,
+        11
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_142.png",
+      "bbox": [
+        80,
+        139,
+        29,
+        19
+      ],
+      "area": 175
+    },
+    {
+      "file": "fase1_valle_seco_143.png",
+      "bbox": [
+        247,
+        139,
+        106,
+        104
+      ],
+      "area": 8596
+    },
+    {
+      "file": "fase1_valle_seco_144.png",
+      "bbox": [
+        356,
+        139,
+        21,
+        17
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase1_valle_seco_145.png",
+      "bbox": [
+        413,
+        139,
+        14,
+        10
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_146.png",
+      "bbox": [
+        424,
+        139,
+        17,
+        13
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_147.png",
+      "bbox": [
+        542,
+        139,
+        24,
+        15
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase1_valle_seco_148.png",
+      "bbox": [
+        583,
+        139,
+        15,
+        12
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_149.png",
+      "bbox": [
+        625,
+        139,
+        22,
+        19
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase1_valle_seco_150.png",
+      "bbox": [
+        651,
+        139,
+        17,
+        10
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_151.png",
+      "bbox": [
+        695,
+        139,
+        13,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_152.png",
+      "bbox": [
+        769,
+        139,
+        11,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_153.png",
+      "bbox": [
+        792,
+        139,
+        82,
+        81
+      ],
+      "area": 3957
+    },
+    {
+      "file": "fase1_valle_seco_154.png",
+      "bbox": [
+        1034,
+        139,
+        13,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase1_valle_seco_155.png",
+      "bbox": [
+        1056,
+        139,
+        21,
+        17
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase1_valle_seco_156.png",
+      "bbox": [
+        1141,
+        139,
+        18,
+        11
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase1_valle_seco_157.png",
+      "bbox": [
+        1164,
+        139,
+        33,
+        18
+      ],
+      "area": 217
+    },
+    {
+      "file": "fase1_valle_seco_158.png",
+      "bbox": [
+        171,
+        140,
+        23,
+        15
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase1_valle_seco_159.png",
+      "bbox": [
+        232,
+        141,
+        10,
+        16
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_160.png",
+      "bbox": [
+        189,
+        143,
+        15,
+        18
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase1_valle_seco_161.png",
+      "bbox": [
+        1191,
+        144,
+        12,
+        17
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_162.png",
+      "bbox": [
+        414,
+        146,
+        13,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_163.png",
+      "bbox": [
+        531,
+        146,
+        14,
+        15
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase1_valle_seco_164.png",
+      "bbox": [
+        754,
+        146,
+        13,
+        15
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_165.png",
+      "bbox": [
+        803,
+        146,
+        16,
+        13
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase1_valle_seco_166.png",
+      "bbox": [
+        45,
+        147,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_167.png",
+      "bbox": [
+        357,
+        147,
+        33,
+        20
+      ],
+      "area": 196
+    },
+    {
+      "file": "fase1_valle_seco_168.png",
+      "bbox": [
+        774,
+        147,
+        11,
+        16
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_169.png",
+      "bbox": [
+        1088,
+        147,
+        11,
+        15
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_170.png",
+      "bbox": [
+        1134,
+        147,
+        15,
+        10
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_171.png",
+      "bbox": [
+        226,
+        148,
+        10,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_172.png",
+      "bbox": [
+        976,
+        148,
+        28,
+        18
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase1_valle_seco_173.png",
+      "bbox": [
+        916,
+        149,
+        12,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_174.png",
+      "bbox": [
+        1010,
+        149,
+        86,
+        94
+      ],
+      "area": 4327
+    },
+    {
+      "file": "fase1_valle_seco_175.png",
+      "bbox": [
+        1100,
+        149,
+        13,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_176.png",
+      "bbox": [
+        875,
+        150,
+        13,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_177.png",
+      "bbox": [
+        441,
+        152,
+        12,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase1_valle_seco_178.png",
+      "bbox": [
+        910,
+        154,
+        13,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_179.png",
+      "bbox": [
+        164,
+        156,
+        15,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_180.png",
+      "bbox": [
+        356,
+        156,
+        88,
+        86
+      ],
+      "area": 4594
+    },
+    {
+      "file": "fase1_valle_seco_181.png",
+      "bbox": [
+        56,
+        157,
+        14,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_182.png",
+      "bbox": [
+        101,
+        157,
+        17,
+        12
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase1_valle_seco_183.png",
+      "bbox": [
+        27,
+        158,
+        15,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_184.png",
+      "bbox": [
+        137,
+        160,
+        105,
+        71
+      ],
+      "area": 4139
+    },
+    {
+      "file": "fase1_valle_seco_185.png",
+      "bbox": [
+        596,
+        160,
+        83,
+        82
+      ],
+      "area": 4142
+    },
+    {
+      "file": "fase1_valle_seco_186.png",
+      "bbox": [
+        27,
+        161,
+        105,
+        58
+      ],
+      "area": 3857
+    },
+    {
+      "file": "fase1_valle_seco_187.png",
+      "bbox": [
+        486,
+        161,
+        84,
+        81
+      ],
+      "area": 4467
+    },
+    {
+      "file": "fase1_valle_seco_188.png",
+      "bbox": [
+        1076,
+        161,
+        20,
+        14
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase1_valle_seco_189.png",
+      "bbox": [
+        1120,
+        161,
+        105,
+        59
+      ],
+      "area": 4290
+    },
+    {
+      "file": "fase1_valle_seco_190.png",
+      "bbox": [
+        683,
+        162,
+        105,
+        62
+      ],
+      "area": 4145
+    },
+    {
+      "file": "fase1_valle_seco_191.png",
+      "bbox": [
+        440,
+        168,
+        17,
+        17
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase1_valle_seco_192.png",
+      "bbox": [
+        1104,
+        169,
+        12,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_193.png",
+      "bbox": [
+        575,
+        173,
+        17,
+        14
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase1_valle_seco_194.png",
+      "bbox": [
+        1094,
+        185,
+        19,
+        13
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase1_valle_seco_195.png",
+      "bbox": [
+        478,
+        201,
+        12,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_196.png",
+      "bbox": [
+        876,
+        202,
+        11,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_197.png",
+      "bbox": [
+        577,
+        203,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_198.png",
+      "bbox": [
+        1095,
+        204,
+        15,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_199.png",
+      "bbox": [
+        28,
+        212,
+        15,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase1_valle_seco_200.png",
+      "bbox": [
+        466,
+        213,
+        13,
+        15
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_201.png",
+      "bbox": [
+        1172,
+        213,
+        16,
+        11
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase1_valle_seco_202.png",
+      "bbox": [
+        574,
+        214,
+        17,
+        13
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_203.png",
+      "bbox": [
+        1122,
+        216,
+        14,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_204.png",
+      "bbox": [
+        358,
+        218,
+        13,
+        9
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_205.png",
+      "bbox": [
+        45,
+        219,
+        25,
+        17
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase1_valle_seco_206.png",
+      "bbox": [
+        165,
+        222,
+        20,
+        11
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase1_valle_seco_207.png",
+      "bbox": [
+        1010,
+        222,
+        13,
+        20
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase1_valle_seco_208.png",
+      "bbox": [
+        649,
+        223,
+        16,
+        12
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_209.png",
+      "bbox": [
+        701,
+        223,
+        18,
+        13
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_210.png",
+      "bbox": [
+        766,
+        223,
+        13,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase1_valle_seco_211.png",
+      "bbox": [
+        1092,
+        223,
+        17,
+        16
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase1_valle_seco_212.png",
+      "bbox": [
+        446,
+        224,
+        13,
+        17
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase1_valle_seco_213.png",
+      "bbox": [
+        1135,
+        224,
+        15,
+        15
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_214.png",
+      "bbox": [
+        1161,
+        224,
+        16,
+        15
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase1_valle_seco_215.png",
+      "bbox": [
+        832,
+        225,
+        10,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_216.png",
+      "bbox": [
+        196,
+        226,
+        15,
+        11
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_217.png",
+      "bbox": [
+        366,
+        226,
+        19,
+        12
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase1_valle_seco_218.png",
+      "bbox": [
+        87,
+        227,
+        31,
+        16
+      ],
+      "area": 158
+    },
+    {
+      "file": "fase1_valle_seco_219.png",
+      "bbox": [
+        1187,
+        227,
+        12,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_220.png",
+      "bbox": [
+        164,
+        228,
+        15,
+        15
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_221.png",
+      "bbox": [
+        477,
+        228,
+        13,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_222.png",
+      "bbox": [
+        589,
+        228,
+        11,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_223.png",
+      "bbox": [
+        878,
+        230,
+        15,
+        12
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase1_valle_seco_224.png",
+      "bbox": [
+        812,
+        233,
+        14,
+        10
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_225.png",
+      "bbox": [
+        46,
+        248,
+        87,
+        30
+      ],
+      "area": 776
+    },
+    {
+      "file": "fase1_valle_seco_226.png",
+      "bbox": [
+        167,
+        248,
+        16,
+        9
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_227.png",
+      "bbox": [
+        185,
+        248,
+        57,
+        34
+      ],
+      "area": 644
+    },
+    {
+      "file": "fase1_valle_seco_228.png",
+      "bbox": [
+        247,
+        248,
+        106,
+        103
+      ],
+      "area": 6806
+    },
+    {
+      "file": "fase1_valle_seco_229.png",
+      "bbox": [
+        356,
+        248,
+        105,
+        103
+      ],
+      "area": 7325
+    },
+    {
+      "file": "fase1_valle_seco_230.png",
+      "bbox": [
+        465,
+        248,
+        105,
+        103
+      ],
+      "area": 7144
+    },
+    {
+      "file": "fase1_valle_seco_231.png",
+      "bbox": [
+        574,
+        248,
+        105,
+        103
+      ],
+      "area": 7163
+    },
+    {
+      "file": "fase1_valle_seco_232.png",
+      "bbox": [
+        579,
+        248,
+        22,
+        14
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase1_valle_seco_233.png",
+      "bbox": [
+        683,
+        248,
+        19,
+        16
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase1_valle_seco_234.png",
+      "bbox": [
+        683,
+        248,
+        105,
+        103
+      ],
+      "area": 8091
+    },
+    {
+      "file": "fase1_valle_seco_235.png",
+      "bbox": [
+        694,
+        248,
+        19,
+        21
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase1_valle_seco_236.png",
+      "bbox": [
+        716,
+        248,
+        20,
+        11
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase1_valle_seco_237.png",
+      "bbox": [
+        859,
+        248,
+        37,
+        48
+      ],
+      "area": 571
+    },
+    {
+      "file": "fase1_valle_seco_238.png",
+      "bbox": [
+        957,
+        248,
+        49,
+        27
+      ],
+      "area": 468
+    },
+    {
+      "file": "fase1_valle_seco_239.png",
+      "bbox": [
+        1010,
+        248,
+        106,
+        103
+      ],
+      "area": 8437
+    },
+    {
+      "file": "fase1_valle_seco_240.png",
+      "bbox": [
+        1120,
+        248,
+        105,
+        103
+      ],
+      "area": 8310
+    },
+    {
+      "file": "fase1_valle_seco_241.png",
+      "bbox": [
+        1197,
+        248,
+        28,
+        19
+      ],
+      "area": 202
+    },
+    {
+      "file": "fase1_valle_seco_242.png",
+      "bbox": [
+        27,
+        249,
+        21,
+        34
+      ],
+      "area": 283
+    },
+    {
+      "file": "fase1_valle_seco_243.png",
+      "bbox": [
+        137,
+        249,
+        19,
+        23
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase1_valle_seco_244.png",
+      "bbox": [
+        247,
+        249,
+        26,
+        15
+      ],
+      "area": 138
+    },
+    {
+      "file": "fase1_valle_seco_245.png",
+      "bbox": [
+        320,
+        249,
+        33,
+        20
+      ],
+      "area": 250
+    },
+    {
+      "file": "fase1_valle_seco_246.png",
+      "bbox": [
+        356,
+        249,
+        16,
+        20
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase1_valle_seco_247.png",
+      "bbox": [
+        465,
+        249,
+        23,
+        14
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase1_valle_seco_248.png",
+      "bbox": [
+        739,
+        249,
+        19,
+        13
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_249.png",
+      "bbox": [
+        792,
+        249,
+        105,
+        102
+      ],
+      "area": 6548
+    },
+    {
+      "file": "fase1_valle_seco_250.png",
+      "bbox": [
+        834,
+        249,
+        35,
+        21
+      ],
+      "area": 254
+    },
+    {
+      "file": "fase1_valle_seco_251.png",
+      "bbox": [
+        901,
+        249,
+        18,
+        18
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase1_valle_seco_252.png",
+      "bbox": [
+        909,
+        249,
+        60,
+        37
+      ],
+      "area": 527
+    },
+    {
+      "file": "fase1_valle_seco_253.png",
+      "bbox": [
+        41,
+        254,
+        16,
+        15
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase1_valle_seco_254.png",
+      "bbox": [
+        443,
+        254,
+        13,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_255.png",
+      "bbox": [
+        817,
+        254,
+        19,
+        19
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase1_valle_seco_256.png",
+      "bbox": [
+        62,
+        256,
+        17,
+        14
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase1_valle_seco_257.png",
+      "bbox": [
+        79,
+        261,
+        16,
+        14
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase1_valle_seco_258.png",
+      "bbox": [
+        165,
+        261,
+        16,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_259.png",
+      "bbox": [
+        364,
+        262,
+        13,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_260.png",
+      "bbox": [
+        208,
+        264,
+        14,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_261.png",
+      "bbox": [
+        252,
+        265,
+        20,
+        14
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase1_valle_seco_262.png",
+      "bbox": [
+        119,
+        268,
+        14,
+        26
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase1_valle_seco_263.png",
+      "bbox": [
+        138,
+        268,
+        18,
+        18
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase1_valle_seco_264.png",
+      "bbox": [
+        901,
+        268,
+        105,
+        83
+      ],
+      "area": 5891
+    },
+    {
+      "file": "fase1_valle_seco_265.png",
+      "bbox": [
+        884,
+        270,
+        12,
+        19
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase1_valle_seco_266.png",
+      "bbox": [
+        54,
+        271,
+        12,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_267.png",
+      "bbox": [
+        209,
+        271,
+        16,
+        17
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase1_valle_seco_268.png",
+      "bbox": [
+        552,
+        272,
+        13,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_269.png",
+      "bbox": [
+        95,
+        273,
+        14,
+        15
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase1_valle_seco_270.png",
+      "bbox": [
+        447,
+        273,
+        14,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase1_valle_seco_271.png",
+      "bbox": [
+        935,
+        273,
+        13,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_272.png",
+      "bbox": [
+        111,
+        274,
+        14,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase1_valle_seco_273.png",
+      "bbox": [
+        75,
+        277,
+        22,
+        25
+      ],
+      "area": 173
+    },
+    {
+      "file": "fase1_valle_seco_274.png",
+      "bbox": [
+        155,
+        277,
+        12,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_275.png",
+      "bbox": [
+        915,
+        281,
+        18,
+        20
+      ],
+      "area": 127
+    },
+    {
+      "file": "fase1_valle_seco_276.png",
+      "bbox": [
+        27,
+        285,
+        19,
+        17
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase1_valle_seco_277.png",
+      "bbox": [
+        141,
+        286,
+        11,
+        14
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_278.png",
+      "bbox": [
+        166,
+        286,
+        17,
+        22
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase1_valle_seco_279.png",
+      "bbox": [
+        443,
+        288,
+        18,
+        11
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_280.png",
+      "bbox": [
+        53,
+        289,
+        30,
+        21
+      ],
+      "area": 182
+    },
+    {
+      "file": "fase1_valle_seco_281.png",
+      "bbox": [
+        87,
+        291,
+        24,
+        16
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase1_valle_seco_282.png",
+      "bbox": [
+        124,
+        292,
+        9,
+        14
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_283.png",
+      "bbox": [
+        109,
+        298,
+        23,
+        26
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase1_valle_seco_284.png",
+      "bbox": [
+        42,
+        299,
+        20,
+        18
+      ],
+      "area": 161
+    },
+    {
+      "file": "fase1_valle_seco_285.png",
+      "bbox": [
+        159,
+        299,
+        12,
+        15
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_286.png",
+      "bbox": [
+        227,
+        305,
+        14,
+        16
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase1_valle_seco_287.png",
+      "bbox": [
+        90,
+        306,
+        20,
+        13
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase1_valle_seco_288.png",
+      "bbox": [
+        27,
+        307,
+        29,
+        44
+      ],
+      "area": 350
+    },
+    {
+      "file": "fase1_valle_seco_289.png",
+      "bbox": [
+        71,
+        307,
+        11,
+        16
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_290.png",
+      "bbox": [
+        137,
+        307,
+        10,
+        16
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_291.png",
+      "bbox": [
+        198,
+        309,
+        16,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase1_valle_seco_292.png",
+      "bbox": [
+        83,
+        312,
+        17,
+        16
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase1_valle_seco_293.png",
+      "bbox": [
+        77,
+        317,
+        9,
+        14
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_294.png",
+      "bbox": [
+        205,
+        320,
+        27,
+        27
+      ],
+      "area": 288
+    },
+    {
+      "file": "fase1_valle_seco_295.png",
+      "bbox": [
+        121,
+        323,
+        10,
+        16
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_296.png",
+      "bbox": [
+        231,
+        323,
+        11,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_297.png",
+      "bbox": [
+        102,
+        327,
+        17,
+        13
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase1_valle_seco_298.png",
+      "bbox": [
+        157,
+        328,
+        11,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_299.png",
+      "bbox": [
+        51,
+        329,
+        19,
+        16
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase1_valle_seco_300.png",
+      "bbox": [
+        137,
+        335,
+        12,
+        16
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_301.png",
+      "bbox": [
+        225,
+        336,
+        17,
+        15
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase1_valle_seco_302.png",
+      "bbox": [
+        106,
+        337,
+        19,
+        14
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase1_valle_seco_303.png",
+      "bbox": [
+        78,
+        338,
+        12,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_304.png",
+      "bbox": [
+        28,
+        356,
+        56,
+        30
+      ],
+      "area": 621
+    },
+    {
+      "file": "fase1_valle_seco_305.png",
+      "bbox": [
+        76,
+        356,
+        57,
+        49
+      ],
+      "area": 1060
+    },
+    {
+      "file": "fase1_valle_seco_306.png",
+      "bbox": [
+        163,
+        356,
+        79,
+        33
+      ],
+      "area": 712
+    },
+    {
+      "file": "fase1_valle_seco_307.png",
+      "bbox": [
+        265,
+        356,
+        46,
+        36
+      ],
+      "area": 533
+    },
+    {
+      "file": "fase1_valle_seco_308.png",
+      "bbox": [
+        304,
+        356,
+        48,
+        49
+      ],
+      "area": 831
+    },
+    {
+      "file": "fase1_valle_seco_309.png",
+      "bbox": [
+        356,
+        356,
+        85,
+        51
+      ],
+      "area": 1772
+    },
+    {
+      "file": "fase1_valle_seco_310.png",
+      "bbox": [
+        440,
+        356,
+        17,
+        19
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase1_valle_seco_311.png",
+      "bbox": [
+        465,
+        356,
+        105,
+        107
+      ],
+      "area": 5353
+    },
+    {
+      "file": "fase1_valle_seco_312.png",
+      "bbox": [
+        476,
+        356,
+        27,
+        17
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase1_valle_seco_313.png",
+      "bbox": [
+        499,
+        356,
+        50,
+        20
+      ],
+      "area": 335
+    },
+    {
+      "file": "fase1_valle_seco_314.png",
+      "bbox": [
+        574,
+        356,
+        105,
+        107
+      ],
+      "area": 8501
+    },
+    {
+      "file": "fase1_valle_seco_315.png",
+      "bbox": [
+        683,
+        356,
+        105,
+        107
+      ],
+      "area": 9406
+    },
+    {
+      "file": "fase1_valle_seco_316.png",
+      "bbox": [
+        792,
+        356,
+        105,
+        107
+      ],
+      "area": 8730
+    },
+    {
+      "file": "fase1_valle_seco_317.png",
+      "bbox": [
+        901,
+        356,
+        105,
+        82
+      ],
+      "area": 6126
+    },
+    {
+      "file": "fase1_valle_seco_318.png",
+      "bbox": [
+        1010,
+        356,
+        106,
+        107
+      ],
+      "area": 8826
+    },
+    {
+      "file": "fase1_valle_seco_319.png",
+      "bbox": [
+        1120,
+        356,
+        105,
+        107
+      ],
+      "area": 7999
+    },
+    {
+      "file": "fase1_valle_seco_320.png",
+      "bbox": [
+        150,
+        357,
+        16,
+        12
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase1_valle_seco_321.png",
+      "bbox": [
+        246,
+        357,
+        23,
+        27
+      ],
+      "area": 229
+    },
+    {
+      "file": "fase1_valle_seco_322.png",
+      "bbox": [
+        465,
+        358,
+        15,
+        16
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase1_valle_seco_323.png",
+      "bbox": [
+        177,
+        364,
+        19,
+        17
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase1_valle_seco_324.png",
+      "bbox": [
+        306,
+        367,
+        18,
+        18
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase1_valle_seco_325.png",
+      "bbox": [
+        137,
+        368,
+        15,
+        18
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase1_valle_seco_326.png",
+      "bbox": [
+        74,
+        370,
+        14,
+        17
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase1_valle_seco_327.png",
+      "bbox": [
+        159,
+        370,
+        20,
+        19
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase1_valle_seco_328.png",
+      "bbox": [
+        209,
+        377,
+        17,
+        18
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase1_valle_seco_329.png",
+      "bbox": [
+        478,
+        378,
+        14,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_330.png",
+      "bbox": [
+        491,
+        378,
+        17,
+        15
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase1_valle_seco_331.png",
+      "bbox": [
+        255,
+        380,
+        17,
+        9
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_332.png",
+      "bbox": [
+        276,
+        380,
+        16,
+        16
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase1_valle_seco_333.png",
+      "bbox": [
+        465,
+        380,
+        18,
+        17
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase1_valle_seco_334.png",
+      "bbox": [
+        60,
+        381,
+        17,
+        15
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase1_valle_seco_335.png",
+      "bbox": [
+        357,
+        381,
+        104,
+        82
+      ],
+      "area": 4682
+    },
+    {
+      "file": "fase1_valle_seco_336.png",
+      "bbox": [
+        187,
+        382,
+        15,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_337.png",
+      "bbox": [
+        287,
+        382,
+        33,
+        21
+      ],
+      "area": 212
+    },
+    {
+      "file": "fase1_valle_seco_338.png",
+      "bbox": [
+        509,
+        384,
+        14,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_339.png",
+      "bbox": [
+        472,
+        389,
+        13,
+        11
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_340.png",
+      "bbox": [
+        506,
+        390,
+        36,
+        23
+      ],
+      "area": 243
+    },
+    {
+      "file": "fase1_valle_seco_341.png",
+      "bbox": [
+        27,
+        391,
+        106,
+        72
+      ],
+      "area": 4503
+    },
+    {
+      "file": "fase1_valle_seco_342.png",
+      "bbox": [
+        137,
+        391,
+        105,
+        72
+      ],
+      "area": 5701
+    },
+    {
+      "file": "fase1_valle_seco_343.png",
+      "bbox": [
+        78,
+        394,
+        13,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_344.png",
+      "bbox": [
+        247,
+        394,
+        105,
+        69
+      ],
+      "area": 3911
+    },
+    {
+      "file": "fase1_valle_seco_345.png",
+      "bbox": [
+        313,
+        395,
+        15,
+        16
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase1_valle_seco_346.png",
+      "bbox": [
+        491,
+        399,
+        13,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_347.png",
+      "bbox": [
+        329,
+        400,
+        23,
+        25
+      ],
+      "area": 212
+    },
+    {
+      "file": "fase1_valle_seco_348.png",
+      "bbox": [
+        91,
+        401,
+        19,
+        19
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase1_valle_seco_349.png",
+      "bbox": [
+        109,
+        401,
+        19,
+        22
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase1_valle_seco_350.png",
+      "bbox": [
+        373,
+        402,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_351.png",
+      "bbox": [
+        356,
+        410,
+        28,
+        31
+      ],
+      "area": 258
+    },
+    {
+      "file": "fase1_valle_seco_352.png",
+      "bbox": [
+        321,
+        413,
+        14,
+        11
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase1_valle_seco_353.png",
+      "bbox": [
+        120,
+        417,
+        13,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_354.png",
+      "bbox": [
+        901,
+        419,
+        78,
+        44
+      ],
+      "area": 1572
+    },
+    {
+      "file": "fase1_valle_seco_355.png",
+      "bbox": [
+        334,
+        424,
+        18,
+        25
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase1_valle_seco_356.png",
+      "bbox": [
+        1075,
+        424,
+        14,
+        13
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_357.png",
+      "bbox": [
+        1179,
+        425,
+        22,
+        16
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase1_valle_seco_358.png",
+      "bbox": [
+        973,
+        430,
+        33,
+        33
+      ],
+      "area": 462
+    },
+    {
+      "file": "fase1_valle_seco_359.png",
+      "bbox": [
+        1068,
+        436,
+        22,
+        16
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase1_valle_seco_360.png",
+      "bbox": [
+        60,
+        471,
+        15,
+        13
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase1_valle_seco_361.png",
+      "bbox": [
+        57,
+        481,
+        11,
+        30
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase1_valle_seco_362.png",
+      "bbox": [
+        40,
+        484,
+        14,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_363.png",
+      "bbox": [
+        90,
+        485,
+        11,
+        34
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase1_valle_seco_364.png",
+      "bbox": [
+        922,
+        488,
+        39,
+        28
+      ],
+      "area": 368
+    },
+    {
+      "file": "fase1_valle_seco_365.png",
+      "bbox": [
+        40,
+        493,
+        11,
+        32
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase1_valle_seco_366.png",
+      "bbox": [
+        951,
+        496,
+        21,
+        18
+      ],
+      "area": 139
+    },
+    {
+      "file": "fase1_valle_seco_367.png",
+      "bbox": [
+        411,
+        497,
+        11,
+        22
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase1_valle_seco_368.png",
+      "bbox": [
+        782,
+        499,
+        12,
+        18
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase1_valle_seco_369.png",
+      "bbox": [
+        977,
+        503,
+        15,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase1_valle_seco_370.png",
+      "bbox": [
+        398,
+        504,
+        14,
+        22
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase1_valle_seco_371.png",
+      "bbox": [
+        161,
+        506,
+        21,
+        19
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase1_valle_seco_372.png",
+      "bbox": [
+        878,
+        506,
+        12,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_373.png",
+      "bbox": [
+        380,
+        507,
+        15,
+        31
+      ],
+      "area": 123
+    },
+    {
+      "file": "fase1_valle_seco_374.png",
+      "bbox": [
+        397,
+        509,
+        9,
+        20
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_375.png",
+      "bbox": [
+        853,
+        510,
+        14,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_376.png",
+      "bbox": [
+        963,
+        510,
+        26,
+        24
+      ],
+      "area": 200
+    },
+    {
+      "file": "fase1_valle_seco_377.png",
+      "bbox": [
+        644,
+        511,
+        15,
+        15
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase1_valle_seco_378.png",
+      "bbox": [
+        986,
+        511,
+        18,
+        15
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase1_valle_seco_379.png",
+      "bbox": [
+        1171,
+        511,
+        8,
+        18
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_380.png",
+      "bbox": [
+        369,
+        513,
+        21,
+        32
+      ],
+      "area": 202
+    },
+    {
+      "file": "fase1_valle_seco_381.png",
+      "bbox": [
+        312,
+        514,
+        11,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_382.png",
+      "bbox": [
+        924,
+        514,
+        15,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_383.png",
+      "bbox": [
+        897,
+        520,
+        29,
+        24
+      ],
+      "area": 214
+    },
+    {
+      "file": "fase1_valle_seco_384.png",
+      "bbox": [
+        304,
+        522,
+        13,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_385.png",
+      "bbox": [
+        955,
+        522,
+        20,
+        13
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase1_valle_seco_386.png",
+      "bbox": [
+        633,
+        525,
+        18,
+        19
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase1_valle_seco_387.png",
+      "bbox": [
+        699,
+        527,
+        15,
+        20
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase1_valle_seco_388.png",
+      "bbox": [
+        919,
+        527,
+        20,
+        18
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase1_valle_seco_389.png",
+      "bbox": [
+        159,
+        530,
+        15,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_390.png",
+      "bbox": [
+        398,
+        531,
+        8,
+        16
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_391.png",
+      "bbox": [
+        991,
+        531,
+        21,
+        16
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase1_valle_seco_392.png",
+      "bbox": [
+        31,
+        532,
+        14,
+        28
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase1_valle_seco_393.png",
+      "bbox": [
+        935,
+        535,
+        13,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_394.png",
+      "bbox": [
+        101,
+        537,
+        11,
+        13
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_395.png",
+      "bbox": [
+        280,
+        537,
+        25,
+        31
+      ],
+      "area": 263
+    },
+    {
+      "file": "fase1_valle_seco_396.png",
+      "bbox": [
+        654,
+        537,
+        14,
+        20
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase1_valle_seco_397.png",
+      "bbox": [
+        1176,
+        541,
+        11,
+        18
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_398.png",
+      "bbox": [
+        428,
+        542,
+        20,
+        13
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase1_valle_seco_399.png",
+      "bbox": [
+        709,
+        543,
+        14,
+        16
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_400.png",
+      "bbox": [
+        905,
+        544,
+        19,
+        13
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase1_valle_seco_401.png",
+      "bbox": [
+        300,
+        545,
+        12,
+        14
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_402.png",
+      "bbox": [
+        365,
+        547,
+        22,
+        12
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase1_valle_seco_403.png",
+      "bbox": [
+        370,
+        554,
+        41,
+        24
+      ],
+      "area": 250
+    },
+    {
+      "file": "fase1_valle_seco_404.png",
+      "bbox": [
+        486,
+        555,
+        10,
+        15
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_405.png",
+      "bbox": [
+        63,
+        558,
+        9,
+        21
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_406.png",
+      "bbox": [
+        422,
+        560,
+        29,
+        12
+      ],
+      "area": 138
+    },
+    {
+      "file": "fase1_valle_seco_407.png",
+      "bbox": [
+        586,
+        562,
+        39,
+        25
+      ],
+      "area": 306
+    },
+    {
+      "file": "fase1_valle_seco_408.png",
+      "bbox": [
+        654,
+        562,
+        17,
+        14
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase1_valle_seco_409.png",
+      "bbox": [
+        478,
+        565,
+        87,
+        28
+      ],
+      "area": 859
+    },
+    {
+      "file": "fase1_valle_seco_410.png",
+      "bbox": [
+        1142,
+        566,
+        30,
+        22
+      ],
+      "area": 262
+    },
+    {
+      "file": "fase1_valle_seco_411.png",
+      "bbox": [
+        1169,
+        566,
+        43,
+        25
+      ],
+      "area": 354
+    },
+    {
+      "file": "fase1_valle_seco_412.png",
+      "bbox": [
+        732,
+        568,
+        10,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_413.png",
+      "bbox": [
+        1028,
+        569,
+        25,
+        19
+      ],
+      "area": 142
+    },
+    {
+      "file": "fase1_valle_seco_414.png",
+      "bbox": [
+        1063,
+        570,
+        43,
+        22
+      ],
+      "area": 330
+    },
+    {
+      "file": "fase1_valle_seco_415.png",
+      "bbox": [
+        613,
+        572,
+        66,
+        21
+      ],
+      "area": 486
+    },
+    {
+      "file": "fase1_valle_seco_416.png",
+      "bbox": [
+        252,
+        577,
+        12,
+        15
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_417.png",
+      "bbox": [
+        310,
+        578,
+        27,
+        24
+      ],
+      "area": 211
+    },
+    {
+      "file": "fase1_valle_seco_418.png",
+      "bbox": [
+        36,
+        586,
+        16,
+        17
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_419.png",
+      "bbox": [
+        953,
+        587,
+        12,
+        15
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase1_valle_seco_420.png",
+      "bbox": [
+        261,
+        588,
+        16,
+        12
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_421.png",
+      "bbox": [
+        84,
+        590,
+        19,
+        12
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase1_valle_seco_422.png",
+      "bbox": [
+        760,
+        593,
+        30,
+        37
+      ],
+      "area": 321
+    },
+    {
+      "file": "fase1_valle_seco_423.png",
+      "bbox": [
+        189,
+        596,
+        15,
+        12
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_424.png",
+      "bbox": [
+        832,
+        596,
+        38,
+        20
+      ],
+      "area": 208
+    },
+    {
+      "file": "fase1_valle_seco_425.png",
+      "bbox": [
+        68,
+        597,
+        11,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_426.png",
+      "bbox": [
+        487,
+        599,
+        50,
+        29
+      ],
+      "area": 578
+    },
+    {
+      "file": "fase1_valle_seco_427.png",
+      "bbox": [
+        948,
+        599,
+        19,
+        23
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase1_valle_seco_428.png",
+      "bbox": [
+        965,
+        600,
+        14,
+        14
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_429.png",
+      "bbox": [
+        920,
+        602,
+        32,
+        17
+      ],
+      "area": 147
+    },
+    {
+      "file": "fase1_valle_seco_430.png",
+      "bbox": [
+        934,
+        602,
+        64,
+        30
+      ],
+      "area": 554
+    },
+    {
+      "file": "fase1_valle_seco_431.png",
+      "bbox": [
+        584,
+        607,
+        18,
+        12
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_432.png",
+      "bbox": [
+        910,
+        610,
+        15,
+        13
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase1_valle_seco_433.png",
+      "bbox": [
+        832,
+        612,
+        26,
+        14
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase1_valle_seco_434.png",
+      "bbox": [
+        698,
+        614,
+        16,
+        16
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase1_valle_seco_435.png",
+      "bbox": [
+        391,
+        615,
+        17,
+        15
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_436.png",
+      "bbox": [
+        454,
+        617,
+        12,
+        17
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_437.png",
+      "bbox": [
+        787,
+        618,
+        23,
+        16
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase1_valle_seco_438.png",
+      "bbox": [
+        587,
+        619,
+        16,
+        12
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase1_valle_seco_439.png",
+      "bbox": [
+        412,
+        620,
+        12,
+        15
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_440.png",
+      "bbox": [
+        606,
+        620,
+        15,
+        9
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_441.png",
+      "bbox": [
+        815,
+        620,
+        19,
+        13
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase1_valle_seco_442.png",
+      "bbox": [
+        1136,
+        620,
+        15,
+        15
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_443.png",
+      "bbox": [
+        1201,
+        620,
+        19,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_444.png",
+      "bbox": [
+        354,
+        621,
+        19,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase1_valle_seco_445.png",
+      "bbox": [
+        1066,
+        622,
+        18,
+        12
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_446.png",
+      "bbox": [
+        1112,
+        623,
+        27,
+        13
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase1_valle_seco_447.png",
+      "bbox": [
+        25,
+        634,
+        96,
+        99
+      ],
+      "area": 4313
+    },
+    {
+      "file": "fase1_valle_seco_448.png",
+      "bbox": [
+        135,
+        634,
+        83,
+        97
+      ],
+      "area": 3957
+    },
+    {
+      "file": "fase1_valle_seco_449.png",
+      "bbox": [
+        211,
+        634,
+        115,
+        101
+      ],
+      "area": 5351
+    },
+    {
+      "file": "fase1_valle_seco_450.png",
+      "bbox": [
+        504,
+        636,
+        89,
+        16
+      ],
+      "area": 734
+    },
+    {
+      "file": "fase1_valle_seco_451.png",
+      "bbox": [
+        1001,
+        644,
+        9,
+        15
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_452.png",
+      "bbox": [
+        504,
+        645,
+        89,
+        87
+      ],
+      "area": 3258
+    },
+    {
+      "file": "fase1_valle_seco_453.png",
+      "bbox": [
+        833,
+        645,
+        17,
+        9
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_454.png",
+      "bbox": [
+        332,
+        646,
+        163,
+        76
+      ],
+      "area": 7618
+    },
+    {
+      "file": "fase1_valle_seco_455.png",
+      "bbox": [
+        37,
+        651,
+        12,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_456.png",
+      "bbox": [
+        77,
+        652,
+        12,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_457.png",
+      "bbox": [
+        1098,
+        652,
+        14,
+        9
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_458.png",
+      "bbox": [
+        1126,
+        652,
+        15,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_459.png",
+      "bbox": [
+        1079,
+        653,
+        17,
+        9
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase1_valle_seco_460.png",
+      "bbox": [
+        1171,
+        653,
+        19,
+        10
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_461.png",
+      "bbox": [
+        66,
+        655,
+        14,
+        12
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_462.png",
+      "bbox": [
+        303,
+        655,
+        21,
+        13
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase1_valle_seco_463.png",
+      "bbox": [
+        604,
+        660,
+        20,
+        103
+      ],
+      "area": 1352
+    },
+    {
+      "file": "fase1_valle_seco_464.png",
+      "bbox": [
+        108,
+        667,
+        14,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_465.png",
+      "bbox": [
+        869,
+        684,
+        9,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_466.png",
+      "bbox": [
+        535,
+        687,
+        12,
+        13
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_467.png",
+      "bbox": [
+        524,
+        691,
+        12,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_468.png",
+      "bbox": [
+        522,
+        702,
+        11,
+        16
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_469.png",
+      "bbox": [
+        978,
+        714,
+        13,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_470.png",
+      "bbox": [
+        963,
+        721,
+        15,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_471.png",
+      "bbox": [
+        292,
+        722,
+        14,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_472.png",
+      "bbox": [
+        256,
+        726,
+        31,
+        8
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase1_valle_seco_473.png",
+      "bbox": [
+        505,
+        728,
+        89,
+        15
+      ],
+      "area": 485
+    },
+    {
+      "file": "fase1_valle_seco_474.png",
+      "bbox": [
+        269,
+        731,
+        11,
+        13
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_475.png",
+      "bbox": [
+        1150,
+        731,
+        10,
+        13
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_476.png",
+      "bbox": [
+        953,
+        736,
+        18,
+        13
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_477.png",
+      "bbox": [
+        962,
+        737,
+        85,
+        29
+      ],
+      "area": 1220
+    },
+    {
+      "file": "fase1_valle_seco_478.png",
+      "bbox": [
+        333,
+        749,
+        21,
+        13
+      ],
+      "area": 137
+    },
+    {
+      "file": "fase1_valle_seco_479.png",
+      "bbox": [
+        358,
+        749,
+        11,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_480.png",
+      "bbox": [
+        1125,
+        749,
+        22,
+        14
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase1_valle_seco_481.png",
+      "bbox": [
+        1149,
+        749,
+        29,
+        17
+      ],
+      "area": 159
+    },
+    {
+      "file": "fase1_valle_seco_482.png",
+      "bbox": [
+        161,
+        750,
+        13,
+        12
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_483.png",
+      "bbox": [
+        137,
+        752,
+        13,
+        10
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_484.png",
+      "bbox": [
+        463,
+        752,
+        17,
+        10
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_485.png",
+      "bbox": [
+        811,
+        752,
+        13,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_486.png",
+      "bbox": [
+        1193,
+        752,
+        22,
+        14
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase1_valle_seco_487.png",
+      "bbox": [
+        171,
+        753,
+        43,
+        12
+      ],
+      "area": 250
+    },
+    {
+      "file": "fase1_valle_seco_488.png",
+      "bbox": [
+        1078,
+        753,
+        12,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_489.png",
+      "bbox": [
+        129,
+        779,
+        22,
+        29
+      ],
+      "area": 257
+    },
+    {
+      "file": "fase1_valle_seco_490.png",
+      "bbox": [
+        678,
+        779,
+        19,
+        21
+      ],
+      "area": 146
+    },
+    {
+      "file": "fase1_valle_seco_491.png",
+      "bbox": [
+        31,
+        780,
+        21,
+        29
+      ],
+      "area": 221
+    },
+    {
+      "file": "fase1_valle_seco_492.png",
+      "bbox": [
+        493,
+        782,
+        20,
+        31
+      ],
+      "area": 241
+    },
+    {
+      "file": "fase1_valle_seco_493.png",
+      "bbox": [
+        423,
+        784,
+        18,
+        11
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase1_valle_seco_494.png",
+      "bbox": [
+        727,
+        784,
+        20,
+        24
+      ],
+      "area": 207
+    },
+    {
+      "file": "fase1_valle_seco_495.png",
+      "bbox": [
+        544,
+        785,
+        21,
+        16
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase1_valle_seco_496.png",
+      "bbox": [
+        1202,
+        785,
+        13,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_497.png",
+      "bbox": [
+        379,
+        786,
+        19,
+        14
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase1_valle_seco_498.png",
+      "bbox": [
+        216,
+        790,
+        18,
+        14
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase1_valle_seco_499.png",
+      "bbox": [
+        326,
+        792,
+        19,
+        14
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase1_valle_seco_500.png",
+      "bbox": [
+        175,
+        793,
+        15,
+        9
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_501.png",
+      "bbox": [
+        160,
+        795,
+        13,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_502.png",
+      "bbox": [
+        832,
+        795,
+        14,
+        16
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_503.png",
+      "bbox": [
+        769,
+        796,
+        13,
+        29
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase1_valle_seco_504.png",
+      "bbox": [
+        270,
+        798,
+        16,
+        14
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase1_valle_seco_505.png",
+      "bbox": [
+        915,
+        798,
+        17,
+        16
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_506.png",
+      "bbox": [
+        977,
+        798,
+        22,
+        29
+      ],
+      "area": 198
+    },
+    {
+      "file": "fase1_valle_seco_507.png",
+      "bbox": [
+        57,
+        800,
+        13,
+        15
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_508.png",
+      "bbox": [
+        71,
+        800,
+        15,
+        16
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase1_valle_seco_509.png",
+      "bbox": [
+        86,
+        800,
+        14,
+        15
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase1_valle_seco_510.png",
+      "bbox": [
+        100,
+        800,
+        15,
+        17
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase1_valle_seco_511.png",
+      "bbox": [
+        117,
+        800,
+        13,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_512.png",
+      "bbox": [
+        1044,
+        801,
+        14,
+        14
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_513.png",
+      "bbox": [
+        590,
+        802,
+        13,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_514.png",
+      "bbox": [
+        601,
+        802,
+        20,
+        13
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_515.png",
+      "bbox": [
+        629,
+        802,
+        18,
+        12
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase1_valle_seco_516.png",
+      "bbox": [
+        644,
+        802,
+        17,
+        12
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_517.png",
+      "bbox": [
+        1062,
+        803,
+        15,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase1_valle_seco_518.png",
+      "bbox": [
+        31,
+        805,
+        15,
+        28
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase1_valle_seco_519.png",
+      "bbox": [
+        877,
+        805,
+        15,
+        26
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase1_valle_seco_520.png",
+      "bbox": [
+        1162,
+        805,
+        39,
+        20
+      ],
+      "area": 299
+    },
+    {
+      "file": "fase1_valle_seco_521.png",
+      "bbox": [
+        351,
+        808,
+        27,
+        12
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase1_valle_seco_522.png",
+      "bbox": [
+        588,
+        808,
+        16,
+        15
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase1_valle_seco_523.png",
+      "bbox": [
+        302,
+        812,
+        16,
+        10
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_524.png",
+      "bbox": [
+        240,
+        813,
+        16,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_525.png",
+      "bbox": [
+        653,
+        814,
+        8,
+        20
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_526.png",
+      "bbox": [
+        1081,
+        816,
+        11,
+        15
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase1_valle_seco_527.png",
+      "bbox": [
+        100,
+        817,
+        15,
+        40
+      ],
+      "area": 238
+    },
+    {
+      "file": "fase1_valle_seco_528.png",
+      "bbox": [
+        494,
+        817,
+        14,
+        37
+      ],
+      "area": 185
+    },
+    {
+      "file": "fase1_valle_seco_529.png",
+      "bbox": [
+        70,
+        818,
+        15,
+        31
+      ],
+      "area": 176
+    },
+    {
+      "file": "fase1_valle_seco_530.png",
+      "bbox": [
+        86,
+        818,
+        14,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase1_valle_seco_531.png",
+      "bbox": [
+        120,
+        818,
+        10,
+        17
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_532.png",
+      "bbox": [
+        913,
+        818,
+        12,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_533.png",
+      "bbox": [
+        149,
+        820,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase1_valle_seco_534.png",
+      "bbox": [
+        460,
+        820,
+        17,
+        14
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase1_valle_seco_535.png",
+      "bbox": [
+        588,
+        821,
+        16,
+        34
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase1_valle_seco_536.png",
+      "bbox": [
+        629,
+        821,
+        13,
+        20
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase1_valle_seco_537.png",
+      "bbox": [
+        57,
+        822,
+        13,
+        32
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase1_valle_seco_538.png",
+      "bbox": [
+        1168,
+        822,
+        23,
+        17
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase1_valle_seco_539.png",
+      "bbox": [
+        158,
+        823,
+        15,
+        33
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase1_valle_seco_540.png",
+      "bbox": [
+        1162,
+        823,
+        16,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_541.png",
+      "bbox": [
+        115,
+        826,
+        8,
+        17
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_542.png",
+      "bbox": [
+        546,
+        826,
+        13,
+        27
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase1_valle_seco_543.png",
+      "bbox": [
+        1138,
+        826,
+        16,
+        12
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_544.png",
+      "bbox": [
+        877,
+        829,
+        13,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_545.png",
+      "bbox": [
+        949,
+        830,
+        13,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_546.png",
+      "bbox": [
+        629,
+        832,
+        9,
+        23
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_547.png",
+      "bbox": [
+        678,
+        833,
+        54,
+        51
+      ],
+      "area": 963
+    },
+    {
+      "file": "fase1_valle_seco_548.png",
+      "bbox": [
+        1022,
+        833,
+        16,
+        19
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase1_valle_seco_549.png",
+      "bbox": [
+        645,
+        834,
+        16,
+        19
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_550.png",
+      "bbox": [
+        86,
+        836,
+        14,
+        19
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase1_valle_seco_551.png",
+      "bbox": [
+        150,
+        838,
+        9,
+        16
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_552.png",
+      "bbox": [
+        877,
+        839,
+        12,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_553.png",
+      "bbox": [
+        1139,
+        839,
+        14,
+        9
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_554.png",
+      "bbox": [
+        1153,
+        839,
+        46,
+        20
+      ],
+      "area": 466
+    },
+    {
+      "file": "fase1_valle_seco_555.png",
+      "bbox": [
+        606,
+        840,
+        13,
+        22
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase1_valle_seco_556.png",
+      "bbox": [
+        855,
+        840,
+        11,
+        17
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_557.png",
+      "bbox": [
+        769,
+        843,
+        10,
+        17
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_558.png",
+      "bbox": [
+        912,
+        843,
+        15,
+        17
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_559.png",
+      "bbox": [
+        985,
+        843,
+        15,
+        17
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase1_valle_seco_560.png",
+      "bbox": [
+        235,
+        844,
+        15,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_561.png",
+      "bbox": [
+        947,
+        844,
+        15,
+        16
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase1_valle_seco_562.png",
+      "bbox": [
+        813,
+        845,
+        16,
+        16
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_563.png",
+      "bbox": [
+        1084,
+        846,
+        15,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase1_valle_seco_564.png",
+      "bbox": [
+        73,
+        847,
+        12,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase1_valle_seco_565.png",
+      "bbox": [
+        1125,
+        848,
+        8,
+        19
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_566.png",
+      "bbox": [
+        1138,
+        848,
+        15,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_567.png",
+      "bbox": [
+        1020,
+        850,
+        17,
+        28
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase1_valle_seco_568.png",
+      "bbox": [
+        840,
+        851,
+        14,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_569.png",
+      "bbox": [
+        446,
+        852,
+        15,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase1_valle_seco_570.png",
+      "bbox": [
+        822,
+        853,
+        18,
+        14
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase1_valle_seco_571.png",
+      "bbox": [
+        679,
+        855,
+        14,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_572.png",
+      "bbox": [
+        588,
+        856,
+        12,
+        23
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase1_valle_seco_573.png",
+      "bbox": [
+        731,
+        856,
+        15,
+        22
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase1_valle_seco_574.png",
+      "bbox": [
+        1088,
+        856,
+        12,
+        18
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_575.png",
+      "bbox": [
+        1138,
+        856,
+        62,
+        19
+      ],
+      "area": 479
+    },
+    {
+      "file": "fase1_valle_seco_576.png",
+      "bbox": [
+        851,
+        858,
+        16,
+        18
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase1_valle_seco_577.png",
+      "bbox": [
+        495,
+        859,
+        12,
+        14
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_578.png",
+      "bbox": [
+        610,
+        862,
+        11,
+        17
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_579.png",
+      "bbox": [
+        439,
+        863,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_580.png",
+      "bbox": [
+        232,
+        864,
+        12,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_581.png",
+      "bbox": [
+        285,
+        864,
+        13,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase1_valle_seco_582.png",
+      "bbox": [
+        316,
+        864,
+        13,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase1_valle_seco_583.png",
+      "bbox": [
+        832,
+        865,
+        13,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_584.png",
+      "bbox": [
+        1059,
+        866,
+        40,
+        29
+      ],
+      "area": 326
+    },
+    {
+      "file": "fase1_valle_seco_585.png",
+      "bbox": [
+        878,
+        868,
+        10,
+        17
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase1_valle_seco_586.png",
+      "bbox": [
+        709,
+        870,
+        22,
+        20
+      ],
+      "area": 255
+    },
+    {
+      "file": "fase1_valle_seco_587.png",
+      "bbox": [
+        948,
+        871,
+        15,
+        11
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_588.png",
+      "bbox": [
+        769,
+        872,
+        11,
+        17
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_589.png",
+      "bbox": [
+        801,
+        872,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_590.png",
+      "bbox": [
+        1143,
+        872,
+        50,
+        20
+      ],
+      "area": 508
+    },
+    {
+      "file": "fase1_valle_seco_591.png",
+      "bbox": [
+        1189,
+        872,
+        17,
+        19
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase1_valle_seco_592.png",
+      "bbox": [
+        936,
+        874,
+        64,
+        30
+      ],
+      "area": 575
+    },
+    {
+      "file": "fase1_valle_seco_593.png",
+      "bbox": [
+        914,
+        878,
+        14,
+        14
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase1_valle_seco_594.png",
+      "bbox": [
+        1042,
+        880,
+        20,
+        17
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase1_valle_seco_595.png",
+      "bbox": [
+        876,
+        883,
+        19,
+        21
+      ],
+      "area": 138
+    },
+    {
+      "file": "fase1_valle_seco_596.png",
+      "bbox": [
+        776,
+        884,
+        26,
+        19
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase1_valle_seco_597.png",
+      "bbox": [
+        828,
+        887,
+        32,
+        17
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase1_valle_seco_598.png",
+      "bbox": [
+        1151,
+        889,
+        25,
+        18
+      ],
+      "area": 159
+    },
+    {
+      "file": "fase1_valle_seco_599.png",
+      "bbox": [
+        912,
+        890,
+        16,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_600.png",
+      "bbox": [
+        1168,
+        890,
+        23,
+        15
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase1_valle_seco_601.png",
+      "bbox": [
+        928,
+        891,
+        11,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_602.png",
+      "bbox": [
+        810,
+        892,
+        20,
+        11
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase1_valle_seco_603.png",
+      "bbox": [
+        892,
+        893,
+        29,
+        12
+      ],
+      "area": 115
+    },
+    {
+      "file": "fase1_valle_seco_604.png",
+      "bbox": [
+        241,
+        902,
+        92,
+        94
+      ],
+      "area": 3998
+    },
+    {
+      "file": "fase1_valle_seco_605.png",
+      "bbox": [
+        1134,
+        905,
+        17,
+        20
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase1_valle_seco_606.png",
+      "bbox": [
+        1152,
+        905,
+        55,
+        20
+      ],
+      "area": 470
+    },
+    {
+      "file": "fase1_valle_seco_607.png",
+      "bbox": [
+        375,
+        914,
+        90,
+        97
+      ],
+      "area": 3573
+    },
+    {
+      "file": "fase1_valle_seco_608.png",
+      "bbox": [
+        1211,
+        915,
+        12,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_609.png",
+      "bbox": [
+        643,
+        916,
+        13,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase1_valle_seco_610.png",
+      "bbox": [
+        720,
+        916,
+        13,
+        18
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase1_valle_seco_611.png",
+      "bbox": [
+        26,
+        923,
+        80,
+        76
+      ],
+      "area": 2438
+    },
+    {
+      "file": "fase1_valle_seco_612.png",
+      "bbox": [
+        662,
+        925,
+        20,
+        11
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase1_valle_seco_613.png",
+      "bbox": [
+        687,
+        925,
+        15,
+        10
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_614.png",
+      "bbox": [
+        708,
+        925,
+        14,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase1_valle_seco_615.png",
+      "bbox": [
+        130,
+        931,
+        54,
+        54
+      ],
+      "area": 1219
+    },
+    {
+      "file": "fase1_valle_seco_616.png",
+      "bbox": [
+        487,
+        931,
+        91,
+        85
+      ],
+      "area": 2820
+    },
+    {
+      "file": "fase1_valle_seco_617.png",
+      "bbox": [
+        325,
+        934,
+        21,
+        24
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase1_valle_seco_618.png",
+      "bbox": [
+        500,
+        936,
+        22,
+        20
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase1_valle_seco_619.png",
+      "bbox": [
+        316,
+        939,
+        12,
+        13
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_620.png",
+      "bbox": [
+        828,
+        939,
+        21,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_621.png",
+      "bbox": [
+        976,
+        941,
+        19,
+        11
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase1_valle_seco_622.png",
+      "bbox": [
+        993,
+        941,
+        13,
+        9
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_623.png",
+      "bbox": [
+        439,
+        943,
+        16,
+        25
+      ],
+      "area": 130
+    },
+    {
+      "file": "fase1_valle_seco_624.png",
+      "bbox": [
+        570,
+        948,
+        23,
+        22
+      ],
+      "area": 157
+    },
+    {
+      "file": "fase1_valle_seco_625.png",
+      "bbox": [
+        74,
+        953,
+        18,
+        17
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase1_valle_seco_626.png",
+      "bbox": [
+        486,
+        953,
+        29,
+        27
+      ],
+      "area": 251
+    },
+    {
+      "file": "fase1_valle_seco_627.png",
+      "bbox": [
+        918,
+        953,
+        18,
+        9
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase1_valle_seco_628.png",
+      "bbox": [
+        153,
+        954,
+        54,
+        45
+      ],
+      "area": 690
+    },
+    {
+      "file": "fase1_valle_seco_629.png",
+      "bbox": [
+        334,
+        954,
+        13,
+        14
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_630.png",
+      "bbox": [
+        164,
+        959,
+        12,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_631.png",
+      "bbox": [
+        556,
+        960,
+        38,
+        44
+      ],
+      "area": 522
+    },
+    {
+      "file": "fase1_valle_seco_632.png",
+      "bbox": [
+        693,
+        960,
+        30,
+        26
+      ],
+      "area": 288
+    },
+    {
+      "file": "fase1_valle_seco_633.png",
+      "bbox": [
+        404,
+        961,
+        25,
+        30
+      ],
+      "area": 307
+    },
+    {
+      "file": "fase1_valle_seco_634.png",
+      "bbox": [
+        652,
+        961,
+        28,
+        22
+      ],
+      "area": 268
+    },
+    {
+      "file": "fase1_valle_seco_635.png",
+      "bbox": [
+        87,
+        964,
+        26,
+        25
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase1_valle_seco_636.png",
+      "bbox": [
+        187,
+        965,
+        37,
+        30
+      ],
+      "area": 274
+    },
+    {
+      "file": "fase1_valle_seco_637.png",
+      "bbox": [
+        303,
+        965,
+        33,
+        39
+      ],
+      "area": 476
+    },
+    {
+      "file": "fase1_valle_seco_638.png",
+      "bbox": [
+        898,
+        970,
+        18,
+        17
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase1_valle_seco_639.png",
+      "bbox": [
+        981,
+        970,
+        12,
+        21
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_640.png",
+      "bbox": [
+        821,
+        971,
+        38,
+        25
+      ],
+      "area": 392
+    },
+    {
+      "file": "fase1_valle_seco_641.png",
+      "bbox": [
+        321,
+        972,
+        37,
+        40
+      ],
+      "area": 383
+    },
+    {
+      "file": "fase1_valle_seco_642.png",
+      "bbox": [
+        74,
+        973,
+        10,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_643.png",
+      "bbox": [
+        628,
+        974,
+        114,
+        95
+      ],
+      "area": 2336
+    },
+    {
+      "file": "fase1_valle_seco_644.png",
+      "bbox": [
+        798,
+        974,
+        25,
+        25
+      ],
+      "area": 251
+    },
+    {
+      "file": "fase1_valle_seco_645.png",
+      "bbox": [
+        238,
+        981,
+        15,
+        16
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase1_valle_seco_646.png",
+      "bbox": [
+        78,
+        983,
+        24,
+        16
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase1_valle_seco_647.png",
+      "bbox": [
+        272,
+        987,
+        26,
+        22
+      ],
+      "area": 205
+    },
+    {
+      "file": "fase1_valle_seco_648.png",
+      "bbox": [
+        1053,
+        988,
+        19,
+        18
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase1_valle_seco_649.png",
+      "bbox": [
+        1128,
+        988,
+        94,
+        61
+      ],
+      "area": 2417
+    },
+    {
+      "file": "fase1_valle_seco_650.png",
+      "bbox": [
+        53,
+        990,
+        34,
+        12
+      ],
+      "area": 144
+    },
+    {
+      "file": "fase1_valle_seco_651.png",
+      "bbox": [
+        244,
+        993,
+        33,
+        21
+      ],
+      "area": 216
+    },
+    {
+      "file": "fase1_valle_seco_652.png",
+      "bbox": [
+        297,
+        999,
+        13,
+        17
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase1_valle_seco_653.png",
+      "bbox": [
+        304,
+        1001,
+        17,
+        15
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase1_valle_seco_654.png",
+      "bbox": [
+        1053,
+        1002,
+        25,
+        14
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase1_valle_seco_655.png",
+      "bbox": [
+        273,
+        1005,
+        27,
+        10
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase1_valle_seco_656.png",
+      "bbox": [
+        131,
+        1009,
+        72,
+        51
+      ],
+      "area": 1358
+    },
+    {
+      "file": "fase1_valle_seco_657.png",
+      "bbox": [
+        1085,
+        1024,
+        24,
+        23
+      ],
+      "area": 181
+    },
+    {
+      "file": "fase1_valle_seco_658.png",
+      "bbox": [
+        647,
+        1027,
+        16,
+        19
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase1_valle_seco_659.png",
+      "bbox": [
+        898,
+        1028,
+        25,
+        21
+      ],
+      "area": 159
+    },
+    {
+      "file": "fase1_valle_seco_660.png",
+      "bbox": [
+        920,
+        1028,
+        14,
+        18
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase1_valle_seco_661.png",
+      "bbox": [
+        993,
+        1028,
+        39,
+        23
+      ],
+      "area": 286
+    },
+    {
+      "file": "fase1_valle_seco_662.png",
+      "bbox": [
+        1158,
+        1028,
+        48,
+        21
+      ],
+      "area": 459
+    },
+    {
+      "file": "fase1_valle_seco_663.png",
+      "bbox": [
+        795,
+        1029,
+        51,
+        25
+      ],
+      "area": 382
+    },
+    {
+      "file": "fase1_valle_seco_664.png",
+      "bbox": [
+        250,
+        1032,
+        73,
+        72
+      ],
+      "area": 1796
+    },
+    {
+      "file": "fase1_valle_seco_665.png",
+      "bbox": [
+        663,
+        1033,
+        85,
+        39
+      ],
+      "area": 602
+    },
+    {
+      "file": "fase1_valle_seco_666.png",
+      "bbox": [
+        667,
+        1034,
+        23,
+        17
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase1_valle_seco_667.png",
+      "bbox": [
+        1208,
+        1034,
+        16,
+        21
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase1_valle_seco_668.png",
+      "bbox": [
+        177,
+        1035,
+        33,
+        24
+      ],
+      "area": 162
+    },
+    {
+      "file": "fase1_valle_seco_669.png",
+      "bbox": [
+        703,
+        1036,
+        12,
+        14
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_670.png",
+      "bbox": [
+        1154,
+        1046,
+        39,
+        8
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase1_valle_seco_671.png",
+      "bbox": [
+        387,
+        1047,
+        57,
+        25
+      ],
+      "area": 516
+    },
+    {
+      "file": "fase1_valle_seco_672.png",
+      "bbox": [
+        502,
+        1047,
+        45,
+        24
+      ],
+      "area": 369
+    },
+    {
+      "file": "fase1_valle_seco_673.png",
+      "bbox": [
+        518,
+        1048,
+        13,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_674.png",
+      "bbox": [
+        322,
+        1054,
+        31,
+        35
+      ],
+      "area": 370
+    },
+    {
+      "file": "fase1_valle_seco_675.png",
+      "bbox": [
+        59,
+        1064,
+        14,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase1_valle_seco_676.png",
+      "bbox": [
+        265,
+        1075,
+        63,
+        40
+      ],
+      "area": 733
+    },
+    {
+      "file": "fase1_valle_seco_677.png",
+      "bbox": [
+        346,
+        1075,
+        12,
+        14
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase1_valle_seco_678.png",
+      "bbox": [
+        47,
+        1079,
+        15,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_679.png",
+      "bbox": [
+        1151,
+        1080,
+        15,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase1_valle_seco_680.png",
+      "bbox": [
+        778,
+        1084,
+        76,
+        72
+      ],
+      "area": 2464
+    },
+    {
+      "file": "fase1_valle_seco_681.png",
+      "bbox": [
+        295,
+        1085,
+        73,
+        33
+      ],
+      "area": 647
+    },
+    {
+      "file": "fase1_valle_seco_682.png",
+      "bbox": [
+        32,
+        1087,
+        53,
+        25
+      ],
+      "area": 440
+    },
+    {
+      "file": "fase1_valle_seco_683.png",
+      "bbox": [
+        79,
+        1087,
+        19,
+        20
+      ],
+      "area": 166
+    },
+    {
+      "file": "fase1_valle_seco_684.png",
+      "bbox": [
+        513,
+        1087,
+        80,
+        33
+      ],
+      "area": 449
+    },
+    {
+      "file": "fase1_valle_seco_685.png",
+      "bbox": [
+        399,
+        1088,
+        31,
+        38
+      ],
+      "area": 423
+    },
+    {
+      "file": "fase1_valle_seco_686.png",
+      "bbox": [
+        598,
+        1092,
+        18,
+        16
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase1_valle_seco_687.png",
+      "bbox": [
+        912,
+        1095,
+        45,
+        58
+      ],
+      "area": 341
+    },
+    {
+      "file": "fase1_valle_seco_688.png",
+      "bbox": [
+        684,
+        1097,
+        16,
+        20
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase1_valle_seco_689.png",
+      "bbox": [
+        1027,
+        1097,
+        71,
+        83
+      ],
+      "area": 2477
+    },
+    {
+      "file": "fase1_valle_seco_690.png",
+      "bbox": [
+        1157,
+        1097,
+        21,
+        19
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase1_valle_seco_691.png",
+      "bbox": [
+        1086,
+        1098,
+        14,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_692.png",
+      "bbox": [
+        163,
+        1101,
+        22,
+        20
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase1_valle_seco_693.png",
+      "bbox": [
+        923,
+        1101,
+        12,
+        15
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase1_valle_seco_694.png",
+      "bbox": [
+        160,
+        1104,
+        70,
+        48
+      ],
+      "area": 1687
+    },
+    {
+      "file": "fase1_valle_seco_695.png",
+      "bbox": [
+        500,
+        1105,
+        13,
+        11
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_696.png",
+      "bbox": [
+        894,
+        1106,
+        10,
+        15
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_697.png",
+      "bbox": [
+        1172,
+        1108,
+        9,
+        17
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase1_valle_seco_698.png",
+      "bbox": [
+        136,
+        1109,
+        30,
+        53
+      ],
+      "area": 643
+    },
+    {
+      "file": "fase1_valle_seco_699.png",
+      "bbox": [
+        688,
+        1111,
+        21,
+        14
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase1_valle_seco_700.png",
+      "bbox": [
+        380,
+        1112,
+        50,
+        50
+      ],
+      "area": 896
+    },
+    {
+      "file": "fase1_valle_seco_701.png",
+      "bbox": [
+        672,
+        1115,
+        26,
+        36
+      ],
+      "area": 294
+    },
+    {
+      "file": "fase1_valle_seco_702.png",
+      "bbox": [
+        172,
+        1118,
+        72,
+        58
+      ],
+      "area": 874
+    },
+    {
+      "file": "fase1_valle_seco_703.png",
+      "bbox": [
+        496,
+        1118,
+        39,
+        38
+      ],
+      "area": 355
+    },
+    {
+      "file": "fase1_valle_seco_704.png",
+      "bbox": [
+        537,
+        1119,
+        80,
+        33
+      ],
+      "area": 377
+    },
+    {
+      "file": "fase1_valle_seco_705.png",
+      "bbox": [
+        900,
+        1121,
+        14,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase1_valle_seco_706.png",
+      "bbox": [
+        1150,
+        1121,
+        10,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase1_valle_seco_707.png",
+      "bbox": [
+        938,
+        1122,
+        26,
+        25
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase1_valle_seco_708.png",
+      "bbox": [
+        848,
+        1123,
+        12,
+        16
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase1_valle_seco_709.png",
+      "bbox": [
+        1177,
+        1127,
+        10,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_710.png",
+      "bbox": [
+        397,
+        1130,
+        54,
+        41
+      ],
+      "area": 513
+    },
+    {
+      "file": "fase1_valle_seco_711.png",
+      "bbox": [
+        907,
+        1131,
+        8,
+        16
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase1_valle_seco_712.png",
+      "bbox": [
+        1149,
+        1132,
+        19,
+        12
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase1_valle_seco_713.png",
+      "bbox": [
+        1168,
+        1132,
+        13,
+        22
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase1_valle_seco_714.png",
+      "bbox": [
+        1129,
+        1134,
+        19,
+        17
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase1_valle_seco_715.png",
+      "bbox": [
+        765,
+        1139,
+        100,
+        52
+      ],
+      "area": 1451
+    },
+    {
+      "file": "fase1_valle_seco_716.png",
+      "bbox": [
+        847,
+        1139,
+        19,
+        26
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase1_valle_seco_717.png",
+      "bbox": [
+        1154,
+        1144,
+        14,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_718.png",
+      "bbox": [
+        822,
+        1145,
+        26,
+        27
+      ],
+      "area": 314
+    },
+    {
+      "file": "fase1_valle_seco_719.png",
+      "bbox": [
+        933,
+        1145,
+        21,
+        15
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase1_valle_seco_720.png",
+      "bbox": [
+        154,
+        1147,
+        28,
+        24
+      ],
+      "area": 258
+    },
+    {
+      "file": "fase1_valle_seco_721.png",
+      "bbox": [
+        367,
+        1149,
+        35,
+        35
+      ],
+      "area": 346
+    },
+    {
+      "file": "fase1_valle_seco_722.png",
+      "bbox": [
+        445,
+        1150,
+        17,
+        21
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase1_valle_seco_723.png",
+      "bbox": [
+        507,
+        1151,
+        14,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase1_valle_seco_724.png",
+      "bbox": [
+        281,
+        1153,
+        40,
+        36
+      ],
+      "area": 555
+    },
+    {
+      "file": "fase1_valle_seco_725.png",
+      "bbox": [
+        1123,
+        1153,
+        97,
+        39
+      ],
+      "area": 1100
+    },
+    {
+      "file": "fase1_valle_seco_726.png",
+      "bbox": [
+        1162,
+        1153,
+        13,
+        17
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase1_valle_seco_727.png",
+      "bbox": [
+        67,
+        1154,
+        11,
+        16
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_728.png",
+      "bbox": [
+        931,
+        1154,
+        16,
+        18
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase1_valle_seco_729.png",
+      "bbox": [
+        954,
+        1155,
+        27,
+        22
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase1_valle_seco_730.png",
+      "bbox": [
+        1182,
+        1156,
+        16,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase1_valle_seco_731.png",
+      "bbox": [
+        859,
+        1159,
+        16,
+        18
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase1_valle_seco_732.png",
+      "bbox": [
+        904,
+        1159,
+        53,
+        30
+      ],
+      "area": 496
+    },
+    {
+      "file": "fase1_valle_seco_733.png",
+      "bbox": [
+        30,
+        1160,
+        29,
+        23
+      ],
+      "area": 200
+    },
+    {
+      "file": "fase1_valle_seco_734.png",
+      "bbox": [
+        54,
+        1160,
+        43,
+        28
+      ],
+      "area": 427
+    },
+    {
+      "file": "fase1_valle_seco_735.png",
+      "bbox": [
+        42,
+        1161,
+        13,
+        14
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase1_valle_seco_736.png",
+      "bbox": [
+        498,
+        1161,
+        15,
+        14
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase1_valle_seco_737.png",
+      "bbox": [
+        722,
+        1162,
+        22,
+        19
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase1_valle_seco_738.png",
+      "bbox": [
+        409,
+        1163,
+        11,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase1_valle_seco_739.png",
+      "bbox": [
+        664,
+        1163,
+        49,
+        26
+      ],
+      "area": 288
+    },
+    {
+      "file": "fase1_valle_seco_740.png",
+      "bbox": [
+        309,
+        1164,
+        26,
+        18
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase1_valle_seco_741.png",
+      "bbox": [
+        587,
+        1165,
+        13,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase1_valle_seco_742.png",
+      "bbox": [
+        424,
+        1166,
+        20,
+        16
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase1_valle_seco_743.png",
+      "bbox": [
+        508,
+        1166,
+        90,
+        34
+      ],
+      "area": 1031
+    },
+    {
+      "file": "fase1_valle_seco_744.png",
+      "bbox": [
+        441,
+        1167,
+        14,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase1_valle_seco_745.png",
+      "bbox": [
+        508,
+        1167,
+        20,
+        21
+      ],
+      "area": 137
+    },
+    {
+      "file": "fase1_valle_seco_746.png",
+      "bbox": [
+        954,
+        1167,
+        20,
+        21
+      ],
+      "area": 143
+    },
+    {
+      "file": "fase1_valle_seco_747.png",
+      "bbox": [
+        710,
+        1168,
+        12,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase1_valle_seco_748.png",
+      "bbox": [
+        618,
+        1169,
+        16,
+        15
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase1_valle_seco_749.png",
+      "bbox": [
+        394,
+        1174,
+        30,
+        15
+      ],
+      "area": 172
+    },
+    {
+      "file": "fase1_valle_seco_750.png",
+      "bbox": [
+        710,
+        1176,
+        20,
+        12
+      ],
+      "area": 66
+    }
+  ]
+}

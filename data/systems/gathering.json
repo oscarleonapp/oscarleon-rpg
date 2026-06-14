@@ -1,0 +1,27 @@
+{
+  "system": "gathering",
+  "mechanics": {
+    "tools": ["sickle", "gloves", "none"],
+    "rarityLevels": ["common", "uncommon", "rare", "epic", "legendary"]
+  },
+  "resources": [
+    {
+      "id": "hierba_medicinal",
+      "name": "Hierba Medicinal",
+      "rarity": "common",
+      "habitat": ["forest", "river"]
+    },
+    {
+      "id": "hongo_azul",
+      "name": "Hongo Azul",
+      "rarity": "rare",
+      "habitat": ["cave", "deep_forest"]
+    },
+    {
+      "id": "piedra_de_rio",
+      "name": "Piedra de Río",
+      "rarity": "common",
+      "habitat": ["river"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "marisol_orellana": {
+    "greeting": "¡Oscar, hijo! Qué bueno que despertaste. La tierra nos necesita hoy.",
+    "quest_available": "Necesito que me ayudes con el maizal antes de que el sol pegue más fuerte.",
+    "quest_progress": "¿Ya terminaste de regar? El río se ve cada día más seco...",
+    "quest_complete": "Gracias, hijo. Toma un poco de pan de maíz para tu camino. Ve a hablar con tu abuelo Gregorio, te estaba buscando."
+  },
+  "gregorio_paz": {
+    "greeting": "El viento de Gualán trae susurros antiguos, Oscar...",
+    "quest_hint": "Esa piedra que brilla en tu morral... no la pierdas. Tu linaje es más profundo que estas surcos.",
+    "world_lore": "Cuentan que el espíritu del Xaq’ab se está desvaneciendo. Si el río calla, la sombra despierta."
+  }
+}

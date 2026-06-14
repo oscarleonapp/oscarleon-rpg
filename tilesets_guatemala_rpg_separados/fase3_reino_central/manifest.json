@@ -1,0 +1,8757 @@
+{
+  "phase": "fase3_reino_central",
+  "source": "hoja_de_sprites_de_mundo_rpg.png",
+  "count": 875,
+  "tiles": [
+    {
+      "file": "fase3_reino_central_001.png",
+      "bbox": [
+        26,
+        23,
+        100,
+        102
+      ],
+      "area": 7739
+    },
+    {
+      "file": "fase3_reino_central_002.png",
+      "bbox": [
+        131,
+        23,
+        100,
+        102
+      ],
+      "area": 7968
+    },
+    {
+      "file": "fase3_reino_central_003.png",
+      "bbox": [
+        236,
+        23,
+        124,
+        102
+      ],
+      "area": 10763
+    },
+    {
+      "file": "fase3_reino_central_004.png",
+      "bbox": [
+        365,
+        23,
+        119,
+        102
+      ],
+      "area": 10021
+    },
+    {
+      "file": "fase3_reino_central_005.png",
+      "bbox": [
+        488,
+        23,
+        103,
+        102
+      ],
+      "area": 8480
+    },
+    {
+      "file": "fase3_reino_central_006.png",
+      "bbox": [
+        596,
+        23,
+        98,
+        102
+      ],
+      "area": 7895
+    },
+    {
+      "file": "fase3_reino_central_007.png",
+      "bbox": [
+        699,
+        23,
+        101,
+        102
+      ],
+      "area": 6186
+    },
+    {
+      "file": "fase3_reino_central_008.png",
+      "bbox": [
+        1023,
+        23,
+        18,
+        14
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase3_reino_central_009.png",
+      "bbox": [
+        1101,
+        23,
+        19,
+        16
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase3_reino_central_010.png",
+      "bbox": [
+        1210,
+        23,
+        13,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_011.png",
+      "bbox": [
+        365,
+        24,
+        17,
+        14
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase3_reino_central_012.png",
+      "bbox": [
+        952,
+        24,
+        13,
+        10
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_013.png",
+      "bbox": [
+        893,
+        27,
+        12,
+        15
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_014.png",
+      "bbox": [
+        1182,
+        30,
+        18,
+        12
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_015.png",
+      "bbox": [
+        1206,
+        30,
+        14,
+        16
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase3_reino_central_016.png",
+      "bbox": [
+        928,
+        35,
+        12,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_017.png",
+      "bbox": [
+        1092,
+        36,
+        16,
+        11
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase3_reino_central_018.png",
+      "bbox": [
+        820,
+        39,
+        72,
+        85
+      ],
+      "area": 1817
+    },
+    {
+      "file": "fase3_reino_central_019.png",
+      "bbox": [
+        787,
+        53,
+        12,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_020.png",
+      "bbox": [
+        946,
+        57,
+        10,
+        14
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_021.png",
+      "bbox": [
+        810,
+        60,
+        11,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_022.png",
+      "bbox": [
+        865,
+        61,
+        22,
+        24
+      ],
+      "area": 167
+    },
+    {
+      "file": "fase3_reino_central_023.png",
+      "bbox": [
+        894,
+        62,
+        12,
+        20
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase3_reino_central_024.png",
+      "bbox": [
+        914,
+        62,
+        17,
+        12
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_025.png",
+      "bbox": [
+        1057,
+        62,
+        15,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_026.png",
+      "bbox": [
+        954,
+        63,
+        14,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase3_reino_central_027.png",
+      "bbox": [
+        930,
+        64,
+        13,
+        17
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_028.png",
+      "bbox": [
+        945,
+        70,
+        19,
+        26
+      ],
+      "area": 115
+    },
+    {
+      "file": "fase3_reino_central_029.png",
+      "bbox": [
+        1130,
+        70,
+        15,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_030.png",
+      "bbox": [
+        913,
+        71,
+        12,
+        22
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_031.png",
+      "bbox": [
+        961,
+        72,
+        26,
+        24
+      ],
+      "area": 194
+    },
+    {
+      "file": "fase3_reino_central_032.png",
+      "bbox": [
+        1101,
+        74,
+        18,
+        25
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase3_reino_central_033.png",
+      "bbox": [
+        699,
+        75,
+        15,
+        9
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_034.png",
+      "bbox": [
+        782,
+        75,
+        17,
+        17
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase3_reino_central_035.png",
+      "bbox": [
+        1067,
+        82,
+        18,
+        11
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_036.png",
+      "bbox": [
+        1019,
+        91,
+        13,
+        16
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_037.png",
+      "bbox": [
+        805,
+        92,
+        11,
+        17
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_038.png",
+      "bbox": [
+        1124,
+        94,
+        9,
+        16
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_039.png",
+      "bbox": [
+        855,
+        96,
+        23,
+        10
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase3_reino_central_040.png",
+      "bbox": [
+        895,
+        96,
+        13,
+        26
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase3_reino_central_041.png",
+      "bbox": [
+        1150,
+        100,
+        15,
+        13
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase3_reino_central_042.png",
+      "bbox": [
+        959,
+        101,
+        19,
+        19
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_043.png",
+      "bbox": [
+        1198,
+        101,
+        14,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_044.png",
+      "bbox": [
+        914,
+        102,
+        15,
+        19
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_045.png",
+      "bbox": [
+        997,
+        103,
+        18,
+        21
+      ],
+      "area": 134
+    },
+    {
+      "file": "fase3_reino_central_046.png",
+      "bbox": [
+        718,
+        106,
+        15,
+        19
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase3_reino_central_047.png",
+      "bbox": [
+        973,
+        106,
+        20,
+        15
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_048.png",
+      "bbox": [
+        1186,
+        107,
+        15,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_049.png",
+      "bbox": [
+        710,
+        108,
+        12,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_050.png",
+      "bbox": [
+        758,
+        110,
+        16,
+        15
+      ],
+      "area": 106
+    },
+    {
+      "file": "fase3_reino_central_051.png",
+      "bbox": [
+        609,
+        111,
+        15,
+        14
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_052.png",
+      "bbox": [
+        1088,
+        129,
+        24,
+        13
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase3_reino_central_053.png",
+      "bbox": [
+        26,
+        130,
+        101,
+        88
+      ],
+      "area": 4921
+    },
+    {
+      "file": "fase3_reino_central_054.png",
+      "bbox": [
+        237,
+        130,
+        14,
+        25
+      ],
+      "area": 130
+    },
+    {
+      "file": "fase3_reino_central_055.png",
+      "bbox": [
+        251,
+        130,
+        99,
+        103
+      ],
+      "area": 5680
+    },
+    {
+      "file": "fase3_reino_central_056.png",
+      "bbox": [
+        425,
+        130,
+        13,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_057.png",
+      "bbox": [
+        488,
+        130,
+        16,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase3_reino_central_058.png",
+      "bbox": [
+        525,
+        130,
+        13,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_059.png",
+      "bbox": [
+        643,
+        130,
+        15,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_060.png",
+      "bbox": [
+        676,
+        130,
+        18,
+        14
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_061.png",
+      "bbox": [
+        700,
+        130,
+        14,
+        21
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase3_reino_central_062.png",
+      "bbox": [
+        780,
+        130,
+        20,
+        12
+      ],
+      "area": 114
+    },
+    {
+      "file": "fase3_reino_central_063.png",
+      "bbox": [
+        804,
+        130,
+        75,
+        77
+      ],
+      "area": 2885
+    },
+    {
+      "file": "fase3_reino_central_064.png",
+      "bbox": [
+        805,
+        130,
+        29,
+        15
+      ],
+      "area": 196
+    },
+    {
+      "file": "fase3_reino_central_065.png",
+      "bbox": [
+        940,
+        130,
+        64,
+        103
+      ],
+      "area": 3674
+    },
+    {
+      "file": "fase3_reino_central_066.png",
+      "bbox": [
+        1020,
+        130,
+        22,
+        17
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase3_reino_central_067.png",
+      "bbox": [
+        500,
+        131,
+        13,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_068.png",
+      "bbox": [
+        914,
+        131,
+        15,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_069.png",
+      "bbox": [
+        1042,
+        131,
+        11,
+        13
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_070.png",
+      "bbox": [
+        1104,
+        131,
+        15,
+        30
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase3_reino_central_071.png",
+      "bbox": [
+        1125,
+        131,
+        13,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_072.png",
+      "bbox": [
+        432,
+        136,
+        13,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_073.png",
+      "bbox": [
+        210,
+        137,
+        20,
+        22
+      ],
+      "area": 129
+    },
+    {
+      "file": "fase3_reino_central_074.png",
+      "bbox": [
+        349,
+        137,
+        10,
+        15
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_075.png",
+      "bbox": [
+        412,
+        137,
+        15,
+        11
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_076.png",
+      "bbox": [
+        132,
+        139,
+        99,
+        94
+      ],
+      "area": 5153
+    },
+    {
+      "file": "fase3_reino_central_077.png",
+      "bbox": [
+        155,
+        139,
+        26,
+        16
+      ],
+      "area": 142
+    },
+    {
+      "file": "fase3_reino_central_078.png",
+      "bbox": [
+        552,
+        139,
+        16,
+        15
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase3_reino_central_079.png",
+      "bbox": [
+        42,
+        140,
+        15,
+        9
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_080.png",
+      "bbox": [
+        1029,
+        141,
+        14,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_081.png",
+      "bbox": [
+        366,
+        142,
+        105,
+        92
+      ],
+      "area": 5617
+    },
+    {
+      "file": "fase3_reino_central_082.png",
+      "bbox": [
+        921,
+        143,
+        17,
+        14
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_083.png",
+      "bbox": [
+        598,
+        144,
+        96,
+        90
+      ],
+      "area": 5062
+    },
+    {
+      "file": "fase3_reino_central_084.png",
+      "bbox": [
+        699,
+        148,
+        101,
+        59
+      ],
+      "area": 3696
+    },
+    {
+      "file": "fase3_reino_central_085.png",
+      "bbox": [
+        1020,
+        149,
+        14,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_086.png",
+      "bbox": [
+        914,
+        150,
+        9,
+        15
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_087.png",
+      "bbox": [
+        505,
+        152,
+        86,
+        81
+      ],
+      "area": 4318
+    },
+    {
+      "file": "fase3_reino_central_088.png",
+      "bbox": [
+        510,
+        154,
+        14,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_089.png",
+      "bbox": [
+        244,
+        155,
+        20,
+        16
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase3_reino_central_090.png",
+      "bbox": [
+        1019,
+        158,
+        75,
+        75
+      ],
+      "area": 3113
+    },
+    {
+      "file": "fase3_reino_central_091.png",
+      "bbox": [
+        931,
+        159,
+        15,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_092.png",
+      "bbox": [
+        1124,
+        159,
+        14,
+        21
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase3_reino_central_093.png",
+      "bbox": [
+        336,
+        160,
+        23,
+        15
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase3_reino_central_094.png",
+      "bbox": [
+        1197,
+        161,
+        13,
+        16
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_095.png",
+      "bbox": [
+        489,
+        163,
+        11,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_096.png",
+      "bbox": [
+        1149,
+        165,
+        11,
+        14
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_097.png",
+      "bbox": [
+        470,
+        168,
+        9,
+        14
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_098.png",
+      "bbox": [
+        1070,
+        170,
+        13,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_099.png",
+      "bbox": [
+        255,
+        184,
+        11,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_100.png",
+      "bbox": [
+        346,
+        186,
+        12,
+        18
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase3_reino_central_101.png",
+      "bbox": [
+        1178,
+        186,
+        13,
+        14
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_102.png",
+      "bbox": [
+        913,
+        188,
+        13,
+        14
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_103.png",
+      "bbox": [
+        1124,
+        188,
+        13,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_104.png",
+      "bbox": [
+        1159,
+        199,
+        19,
+        17
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase3_reino_central_105.png",
+      "bbox": [
+        348,
+        201,
+        11,
+        15
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_106.png",
+      "bbox": [
+        1126,
+        202,
+        17,
+        15
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase3_reino_central_107.png",
+      "bbox": [
+        563,
+        203,
+        13,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_108.png",
+      "bbox": [
+        700,
+        203,
+        12,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_109.png",
+      "bbox": [
+        831,
+        204,
+        13,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_110.png",
+      "bbox": [
+        112,
+        205,
+        15,
+        18
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase3_reino_central_111.png",
+      "bbox": [
+        1027,
+        205,
+        14,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_112.png",
+      "bbox": [
+        856,
+        207,
+        14,
+        12
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase3_reino_central_113.png",
+      "bbox": [
+        1198,
+        207,
+        14,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_114.png",
+      "bbox": [
+        789,
+        209,
+        11,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_115.png",
+      "bbox": [
+        1211,
+        210,
+        15,
+        15
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_116.png",
+      "bbox": [
+        884,
+        211,
+        15,
+        12
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_117.png",
+      "bbox": [
+        389,
+        213,
+        12,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_118.png",
+      "bbox": [
+        1191,
+        214,
+        14,
+        12
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_119.png",
+      "bbox": [
+        774,
+        216,
+        18,
+        17
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_120.png",
+      "bbox": [
+        211,
+        219,
+        15,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_121.png",
+      "bbox": [
+        139,
+        220,
+        15,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_122.png",
+      "bbox": [
+        989,
+        220,
+        13,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_123.png",
+      "bbox": [
+        110,
+        221,
+        17,
+        12
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_124.png",
+      "bbox": [
+        463,
+        221,
+        16,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_125.png",
+      "bbox": [
+        882,
+        221,
+        23,
+        12
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase3_reino_central_126.png",
+      "bbox": [
+        1003,
+        221,
+        12,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_127.png",
+      "bbox": [
+        1213,
+        221,
+        13,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_128.png",
+      "bbox": [
+        823,
+        222,
+        13,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_129.png",
+      "bbox": [
+        1202,
+        222,
+        13,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_130.png",
+      "bbox": [
+        682,
+        223,
+        13,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_131.png",
+      "bbox": [
+        274,
+        240,
+        50,
+        62
+      ],
+      "area": 1537
+    },
+    {
+      "file": "fase3_reino_central_132.png",
+      "bbox": [
+        366,
+        241,
+        118,
+        112
+      ],
+      "area": 6812
+    },
+    {
+      "file": "fase3_reino_central_133.png",
+      "bbox": [
+        512,
+        241,
+        49,
+        49
+      ],
+      "area": 1243
+    },
+    {
+      "file": "fase3_reino_central_134.png",
+      "bbox": [
+        596,
+        241,
+        99,
+        112
+      ],
+      "area": 4816
+    },
+    {
+      "file": "fase3_reino_central_135.png",
+      "bbox": [
+        672,
+        242,
+        10,
+        15
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_136.png",
+      "bbox": [
+        745,
+        243,
+        14,
+        17
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_137.png",
+      "bbox": [
+        735,
+        245,
+        14,
+        28
+      ],
+      "area": 168
+    },
+    {
+      "file": "fase3_reino_central_138.png",
+      "bbox": [
+        757,
+        245,
+        14,
+        18
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase3_reino_central_139.png",
+      "bbox": [
+        854,
+        252,
+        18,
+        19
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase3_reino_central_140.png",
+      "bbox": [
+        868,
+        254,
+        11,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_141.png",
+      "bbox": [
+        935,
+        255,
+        107,
+        97
+      ],
+      "area": 4857
+    },
+    {
+      "file": "fase3_reino_central_142.png",
+      "bbox": [
+        1170,
+        255,
+        17,
+        22
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase3_reino_central_143.png",
+      "bbox": [
+        1186,
+        262,
+        16,
+        17
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase3_reino_central_144.png",
+      "bbox": [
+        1084,
+        263,
+        29,
+        20
+      ],
+      "area": 289
+    },
+    {
+      "file": "fase3_reino_central_145.png",
+      "bbox": [
+        139,
+        264,
+        19,
+        15
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_146.png",
+      "bbox": [
+        708,
+        265,
+        89,
+        68
+      ],
+      "area": 2105
+    },
+    {
+      "file": "fase3_reino_central_147.png",
+      "bbox": [
+        848,
+        265,
+        36,
+        25
+      ],
+      "area": 366
+    },
+    {
+      "file": "fase3_reino_central_148.png",
+      "bbox": [
+        454,
+        266,
+        16,
+        14
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase3_reino_central_149.png",
+      "bbox": [
+        736,
+        267,
+        28,
+        36
+      ],
+      "area": 416
+    },
+    {
+      "file": "fase3_reino_central_150.png",
+      "bbox": [
+        1158,
+        268,
+        15,
+        14
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase3_reino_central_151.png",
+      "bbox": [
+        1195,
+        268,
+        26,
+        15
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase3_reino_central_152.png",
+      "bbox": [
+        678,
+        271,
+        16,
+        15
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase3_reino_central_153.png",
+      "bbox": [
+        1062,
+        272,
+        25,
+        16
+      ],
+      "area": 187
+    },
+    {
+      "file": "fase3_reino_central_154.png",
+      "bbox": [
+        1111,
+        272,
+        24,
+        24
+      ],
+      "area": 212
+    },
+    {
+      "file": "fase3_reino_central_155.png",
+      "bbox": [
+        514,
+        273,
+        18,
+        16
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase3_reino_central_156.png",
+      "bbox": [
+        999,
+        274,
+        15,
+        18
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase3_reino_central_157.png",
+      "bbox": [
+        983,
+        275,
+        20,
+        27
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase3_reino_central_158.png",
+      "bbox": [
+        953,
+        276,
+        14,
+        10
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_159.png",
+      "bbox": [
+        1005,
+        276,
+        20,
+        10
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase3_reino_central_160.png",
+      "bbox": [
+        1198,
+        276,
+        15,
+        16
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_161.png",
+      "bbox": [
+        394,
+        277,
+        17,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_162.png",
+      "bbox": [
+        821,
+        277,
+        91,
+        65
+      ],
+      "area": 2556
+    },
+    {
+      "file": "fase3_reino_central_163.png",
+      "bbox": [
+        169,
+        278,
+        15,
+        16
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase3_reino_central_164.png",
+      "bbox": [
+        132,
+        279,
+        13,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_165.png",
+      "bbox": [
+        44,
+        280,
+        13,
+        18
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase3_reino_central_166.png",
+      "bbox": [
+        26,
+        281,
+        80,
+        72
+      ],
+      "area": 2510
+    },
+    {
+      "file": "fase3_reino_central_167.png",
+      "bbox": [
+        1062,
+        285,
+        12,
+        16
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase3_reino_central_168.png",
+      "bbox": [
+        1091,
+        285,
+        16,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_169.png",
+      "bbox": [
+        319,
+        286,
+        19,
+        20
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase3_reino_central_170.png",
+      "bbox": [
+        514,
+        287,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_171.png",
+      "bbox": [
+        178,
+        288,
+        20,
+        19
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase3_reino_central_172.png",
+      "bbox": [
+        286,
+        288,
+        14,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_173.png",
+      "bbox": [
+        1152,
+        288,
+        62,
+        37
+      ],
+      "area": 642
+    },
+    {
+      "file": "fase3_reino_central_174.png",
+      "bbox": [
+        524,
+        289,
+        24,
+        18
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase3_reino_central_175.png",
+      "bbox": [
+        278,
+        290,
+        11,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_176.png",
+      "bbox": [
+        490,
+        292,
+        23,
+        13
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase3_reino_central_177.png",
+      "bbox": [
+        265,
+        293,
+        16,
+        14
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase3_reino_central_178.png",
+      "bbox": [
+        1123,
+        293,
+        13,
+        34
+      ],
+      "area": 211
+    },
+    {
+      "file": "fase3_reino_central_179.png",
+      "bbox": [
+        1073,
+        294,
+        49,
+        39
+      ],
+      "area": 740
+    },
+    {
+      "file": "fase3_reino_central_180.png",
+      "bbox": [
+        295,
+        296,
+        11,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_181.png",
+      "bbox": [
+        1102,
+        297,
+        23,
+        23
+      ],
+      "area": 174
+    },
+    {
+      "file": "fase3_reino_central_182.png",
+      "bbox": [
+        1210,
+        297,
+        12,
+        24
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_183.png",
+      "bbox": [
+        253,
+        298,
+        107,
+        55
+      ],
+      "area": 2391
+    },
+    {
+      "file": "fase3_reino_central_184.png",
+      "bbox": [
+        655,
+        298,
+        10,
+        15
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_185.png",
+      "bbox": [
+        1059,
+        298,
+        16,
+        28
+      ],
+      "area": 179
+    },
+    {
+      "file": "fase3_reino_central_186.png",
+      "bbox": [
+        56,
+        301,
+        17,
+        16
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase3_reino_central_187.png",
+      "bbox": [
+        132,
+        301,
+        65,
+        52
+      ],
+      "area": 1512
+    },
+    {
+      "file": "fase3_reino_central_188.png",
+      "bbox": [
+        489,
+        301,
+        101,
+        53
+      ],
+      "area": 2353
+    },
+    {
+      "file": "fase3_reino_central_189.png",
+      "bbox": [
+        525,
+        301,
+        23,
+        21
+      ],
+      "area": 204
+    },
+    {
+      "file": "fase3_reino_central_190.png",
+      "bbox": [
+        743,
+        301,
+        19,
+        10
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase3_reino_central_191.png",
+      "bbox": [
+        256,
+        302,
+        13,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_192.png",
+      "bbox": [
+        562,
+        302,
+        29,
+        25
+      ],
+      "area": 306
+    },
+    {
+      "file": "fase3_reino_central_193.png",
+      "bbox": [
+        248,
+        308,
+        13,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_194.png",
+      "bbox": [
+        909,
+        308,
+        10,
+        20
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_195.png",
+      "bbox": [
+        597,
+        312,
+        12,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_196.png",
+      "bbox": [
+        99,
+        313,
+        10,
+        13
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_197.png",
+      "bbox": [
+        344,
+        314,
+        15,
+        15
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase3_reino_central_198.png",
+      "bbox": [
+        705,
+        314,
+        13,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_199.png",
+      "bbox": [
+        199,
+        316,
+        20,
+        21
+      ],
+      "area": 164
+    },
+    {
+      "file": "fase3_reino_central_200.png",
+      "bbox": [
+        552,
+        316,
+        15,
+        13
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_201.png",
+      "bbox": [
+        789,
+        318,
+        11,
+        17
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_202.png",
+      "bbox": [
+        186,
+        320,
+        12,
+        15
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_203.png",
+      "bbox": [
+        334,
+        320,
+        13,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_204.png",
+      "bbox": [
+        713,
+        321,
+        15,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_205.png",
+      "bbox": [
+        817,
+        321,
+        17,
+        22
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase3_reino_central_206.png",
+      "bbox": [
+        1169,
+        322,
+        16,
+        13
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase3_reino_central_207.png",
+      "bbox": [
+        706,
+        324,
+        13,
+        15
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_208.png",
+      "bbox": [
+        771,
+        325,
+        18,
+        12
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_209.png",
+      "bbox": [
+        100,
+        327,
+        27,
+        26
+      ],
+      "area": 291
+    },
+    {
+      "file": "fase3_reino_central_210.png",
+      "bbox": [
+        717,
+        327,
+        25,
+        23
+      ],
+      "area": 180
+    },
+    {
+      "file": "fase3_reino_central_211.png",
+      "bbox": [
+        261,
+        329,
+        15,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_212.png",
+      "bbox": [
+        1093,
+        329,
+        14,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_213.png",
+      "bbox": [
+        736,
+        330,
+        17,
+        16
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_214.png",
+      "bbox": [
+        751,
+        331,
+        14,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_215.png",
+      "bbox": [
+        245,
+        332,
+        11,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_216.png",
+      "bbox": [
+        831,
+        332,
+        15,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_217.png",
+      "bbox": [
+        1131,
+        332,
+        11,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_218.png",
+      "bbox": [
+        1211,
+        332,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_219.png",
+      "bbox": [
+        1192,
+        334,
+        12,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_220.png",
+      "bbox": [
+        893,
+        335,
+        18,
+        14
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_221.png",
+      "bbox": [
+        212,
+        336,
+        17,
+        10
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_222.png",
+      "bbox": [
+        237,
+        336,
+        12,
+        17
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_223.png",
+      "bbox": [
+        826,
+        337,
+        31,
+        15
+      ],
+      "area": 152
+    },
+    {
+      "file": "fase3_reino_central_224.png",
+      "bbox": [
+        877,
+        337,
+        13,
+        10
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_225.png",
+      "bbox": [
+        195,
+        339,
+        11,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_226.png",
+      "bbox": [
+        854,
+        339,
+        14,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_227.png",
+      "bbox": [
+        865,
+        339,
+        14,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_228.png",
+      "bbox": [
+        1011,
+        339,
+        10,
+        15
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_229.png",
+      "bbox": [
+        1108,
+        339,
+        13,
+        9
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_230.png",
+      "bbox": [
+        398,
+        340,
+        12,
+        13
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_231.png",
+      "bbox": [
+        767,
+        341,
+        13,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_232.png",
+      "bbox": [
+        950,
+        343,
+        24,
+        9
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_233.png",
+      "bbox": [
+        998,
+        343,
+        15,
+        9
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_234.png",
+      "bbox": [
+        59,
+        368,
+        12,
+        21
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_235.png",
+      "bbox": [
+        415,
+        368,
+        14,
+        21
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_236.png",
+      "bbox": [
+        292,
+        371,
+        21,
+        19
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase3_reino_central_237.png",
+      "bbox": [
+        394,
+        372,
+        16,
+        14
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_238.png",
+      "bbox": [
+        1035,
+        375,
+        43,
+        64
+      ],
+      "area": 930
+    },
+    {
+      "file": "fase3_reino_central_239.png",
+      "bbox": [
+        686,
+        379,
+        15,
+        24
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase3_reino_central_240.png",
+      "bbox": [
+        409,
+        380,
+        10,
+        15
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_241.png",
+      "bbox": [
+        965,
+        382,
+        28,
+        34
+      ],
+      "area": 486
+    },
+    {
+      "file": "fase3_reino_central_242.png",
+      "bbox": [
+        884,
+        383,
+        23,
+        17
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase3_reino_central_243.png",
+      "bbox": [
+        380,
+        385,
+        16,
+        18
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_244.png",
+      "bbox": [
+        538,
+        388,
+        14,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_245.png",
+      "bbox": [
+        57,
+        389,
+        14,
+        13
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_246.png",
+      "bbox": [
+        292,
+        390,
+        22,
+        15
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase3_reino_central_247.png",
+      "bbox": [
+        1076,
+        391,
+        17,
+        17
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_248.png",
+      "bbox": [
+        399,
+        398,
+        18,
+        14
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_249.png",
+      "bbox": [
+        459,
+        399,
+        13,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_250.png",
+      "bbox": [
+        901,
+        399,
+        16,
+        20
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_251.png",
+      "bbox": [
+        625,
+        403,
+        13,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_252.png",
+      "bbox": [
+        946,
+        404,
+        32,
+        43
+      ],
+      "area": 607
+    },
+    {
+      "file": "fase3_reino_central_253.png",
+      "bbox": [
+        44,
+        405,
+        16,
+        12
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_254.png",
+      "bbox": [
+        282,
+        405,
+        17,
+        17
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_255.png",
+      "bbox": [
+        982,
+        405,
+        31,
+        41
+      ],
+      "area": 591
+    },
+    {
+      "file": "fase3_reino_central_256.png",
+      "bbox": [
+        1076,
+        405,
+        19,
+        14
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase3_reino_central_257.png",
+      "bbox": [
+        54,
+        406,
+        15,
+        15
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_258.png",
+      "bbox": [
+        608,
+        406,
+        19,
+        23
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase3_reino_central_259.png",
+      "bbox": [
+        297,
+        407,
+        18,
+        12
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_260.png",
+      "bbox": [
+        903,
+        411,
+        23,
+        19
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase3_reino_central_261.png",
+      "bbox": [
+        867,
+        412,
+        16,
+        13
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_262.png",
+      "bbox": [
+        411,
+        414,
+        17,
+        12
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_263.png",
+      "bbox": [
+        618,
+        414,
+        23,
+        22
+      ],
+      "area": 161
+    },
+    {
+      "file": "fase3_reino_central_264.png",
+      "bbox": [
+        143,
+        419,
+        15,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_265.png",
+      "bbox": [
+        264,
+        420,
+        16,
+        14
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_266.png",
+      "bbox": [
+        779,
+        420,
+        14,
+        19
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_267.png",
+      "bbox": [
+        59,
+        422,
+        14,
+        15
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase3_reino_central_268.png",
+      "bbox": [
+        39,
+        424,
+        12,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_269.png",
+      "bbox": [
+        824,
+        425,
+        13,
+        14
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_270.png",
+      "bbox": [
+        595,
+        430,
+        18,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase3_reino_central_271.png",
+      "bbox": [
+        801,
+        430,
+        12,
+        16
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_272.png",
+      "bbox": [
+        609,
+        434,
+        16,
+        12
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_273.png",
+      "bbox": [
+        1221,
+        436,
+        14,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_274.png",
+      "bbox": [
+        143,
+        438,
+        11,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_275.png",
+      "bbox": [
+        150,
+        438,
+        12,
+        15
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_276.png",
+      "bbox": [
+        32,
+        440,
+        24,
+        16
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase3_reino_central_277.png",
+      "bbox": [
+        904,
+        440,
+        13,
+        13
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_278.png",
+      "bbox": [
+        835,
+        442,
+        11,
+        12
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_279.png",
+      "bbox": [
+        1218,
+        450,
+        15,
+        11
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_280.png",
+      "bbox": [
+        768,
+        455,
+        23,
+        26
+      ],
+      "area": 167
+    },
+    {
+      "file": "fase3_reino_central_281.png",
+      "bbox": [
+        867,
+        456,
+        18,
+        11
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_282.png",
+      "bbox": [
+        28,
+        458,
+        18,
+        11
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_283.png",
+      "bbox": [
+        1177,
+        458,
+        55,
+        28
+      ],
+      "area": 582
+    },
+    {
+      "file": "fase3_reino_central_284.png",
+      "bbox": [
+        1144,
+        460,
+        16,
+        15
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_285.png",
+      "bbox": [
+        1076,
+        461,
+        16,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_286.png",
+      "bbox": [
+        380,
+        463,
+        83,
+        39
+      ],
+      "area": 1090
+    },
+    {
+      "file": "fase3_reino_central_287.png",
+      "bbox": [
+        829,
+        463,
+        22,
+        12
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase3_reino_central_288.png",
+      "bbox": [
+        287,
+        464,
+        13,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_289.png",
+      "bbox": [
+        315,
+        464,
+        13,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_290.png",
+      "bbox": [
+        1109,
+        465,
+        18,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase3_reino_central_291.png",
+      "bbox": [
+        325,
+        466,
+        31,
+        28
+      ],
+      "area": 215
+    },
+    {
+      "file": "fase3_reino_central_292.png",
+      "bbox": [
+        145,
+        467,
+        14,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_293.png",
+      "bbox": [
+        653,
+        467,
+        12,
+        13
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_294.png",
+      "bbox": [
+        165,
+        468,
+        27,
+        26
+      ],
+      "area": 236
+    },
+    {
+      "file": "fase3_reino_central_295.png",
+      "bbox": [
+        911,
+        468,
+        17,
+        13
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase3_reino_central_296.png",
+      "bbox": [
+        276,
+        469,
+        14,
+        17
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase3_reino_central_297.png",
+      "bbox": [
+        1067,
+        469,
+        20,
+        16
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_298.png",
+      "bbox": [
+        125,
+        470,
+        45,
+        22
+      ],
+      "area": 303
+    },
+    {
+      "file": "fase3_reino_central_299.png",
+      "bbox": [
+        1130,
+        470,
+        13,
+        15
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_300.png",
+      "bbox": [
+        548,
+        471,
+        23,
+        19
+      ],
+      "area": 144
+    },
+    {
+      "file": "fase3_reino_central_301.png",
+      "bbox": [
+        215,
+        473,
+        14,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_302.png",
+      "bbox": [
+        703,
+        474,
+        16,
+        18
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_303.png",
+      "bbox": [
+        796,
+        474,
+        10,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_304.png",
+      "bbox": [
+        884,
+        474,
+        31,
+        15
+      ],
+      "area": 156
+    },
+    {
+      "file": "fase3_reino_central_305.png",
+      "bbox": [
+        1045,
+        474,
+        19,
+        14
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_306.png",
+      "bbox": [
+        212,
+        475,
+        38,
+        21
+      ],
+      "area": 285
+    },
+    {
+      "file": "fase3_reino_central_307.png",
+      "bbox": [
+        502,
+        475,
+        11,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_308.png",
+      "bbox": [
+        605,
+        475,
+        17,
+        13
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_309.png",
+      "bbox": [
+        822,
+        475,
+        14,
+        10
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_310.png",
+      "bbox": [
+        619,
+        476,
+        38,
+        16
+      ],
+      "area": 203
+    },
+    {
+      "file": "fase3_reino_central_311.png",
+      "bbox": [
+        34,
+        477,
+        21,
+        14
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_312.png",
+      "bbox": [
+        74,
+        477,
+        36,
+        25
+      ],
+      "area": 318
+    },
+    {
+      "file": "fase3_reino_central_313.png",
+      "bbox": [
+        725,
+        479,
+        12,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_314.png",
+      "bbox": [
+        542,
+        480,
+        18,
+        17
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase3_reino_central_315.png",
+      "bbox": [
+        512,
+        482,
+        22,
+        14
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase3_reino_central_316.png",
+      "bbox": [
+        294,
+        484,
+        20,
+        16
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase3_reino_central_317.png",
+      "bbox": [
+        319,
+        487,
+        14,
+        11
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_318.png",
+      "bbox": [
+        836,
+        504,
+        18,
+        22
+      ],
+      "area": 189
+    },
+    {
+      "file": "fase3_reino_central_319.png",
+      "bbox": [
+        947,
+        506,
+        14,
+        14
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase3_reino_central_320.png",
+      "bbox": [
+        927,
+        516,
+        43,
+        37
+      ],
+      "area": 770
+    },
+    {
+      "file": "fase3_reino_central_321.png",
+      "bbox": [
+        90,
+        518,
+        13,
+        19
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_322.png",
+      "bbox": [
+        807,
+        522,
+        68,
+        45
+      ],
+      "area": 1589
+    },
+    {
+      "file": "fase3_reino_central_323.png",
+      "bbox": [
+        1077,
+        524,
+        14,
+        16
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_324.png",
+      "bbox": [
+        701,
+        525,
+        58,
+        54
+      ],
+      "area": 1072
+    },
+    {
+      "file": "fase3_reino_central_325.png",
+      "bbox": [
+        693,
+        532,
+        17,
+        28
+      ],
+      "area": 183
+    },
+    {
+      "file": "fase3_reino_central_326.png",
+      "bbox": [
+        73,
+        533,
+        47,
+        18
+      ],
+      "area": 417
+    },
+    {
+      "file": "fase3_reino_central_327.png",
+      "bbox": [
+        488,
+        543,
+        104,
+        79
+      ],
+      "area": 3092
+    },
+    {
+      "file": "fase3_reino_central_328.png",
+      "bbox": [
+        600,
+        544,
+        76,
+        122
+      ],
+      "area": 4478
+    },
+    {
+      "file": "fase3_reino_central_329.png",
+      "bbox": [
+        193,
+        545,
+        28,
+        25
+      ],
+      "area": 395
+    },
+    {
+      "file": "fase3_reino_central_330.png",
+      "bbox": [
+        433,
+        545,
+        36,
+        26
+      ],
+      "area": 431
+    },
+    {
+      "file": "fase3_reino_central_331.png",
+      "bbox": [
+        751,
+        545,
+        13,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_332.png",
+      "bbox": [
+        365,
+        546,
+        13,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_333.png",
+      "bbox": [
+        1073,
+        547,
+        26,
+        23
+      ],
+      "area": 222
+    },
+    {
+      "file": "fase3_reino_central_334.png",
+      "bbox": [
+        62,
+        548,
+        63,
+        38
+      ],
+      "area": 1109
+    },
+    {
+      "file": "fase3_reino_central_335.png",
+      "bbox": [
+        353,
+        551,
+        17,
+        10
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_336.png",
+      "bbox": [
+        922,
+        551,
+        63,
+        46
+      ],
+      "area": 1648
+    },
+    {
+      "file": "fase3_reino_central_337.png",
+      "bbox": [
+        345,
+        553,
+        33,
+        18
+      ],
+      "area": 250
+    },
+    {
+      "file": "fase3_reino_central_338.png",
+      "bbox": [
+        860,
+        553,
+        11,
+        16
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_339.png",
+      "bbox": [
+        988,
+        553,
+        18,
+        40
+      ],
+      "area": 330
+    },
+    {
+      "file": "fase3_reino_central_340.png",
+      "bbox": [
+        873,
+        555,
+        20,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase3_reino_central_341.png",
+      "bbox": [
+        121,
+        556,
+        38,
+        29
+      ],
+      "area": 435
+    },
+    {
+      "file": "fase3_reino_central_342.png",
+      "bbox": [
+        26,
+        558,
+        12,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_343.png",
+      "bbox": [
+        798,
+        560,
+        17,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_344.png",
+      "bbox": [
+        1057,
+        560,
+        19,
+        10
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase3_reino_central_345.png",
+      "bbox": [
+        707,
+        561,
+        19,
+        18
+      ],
+      "area": 144
+    },
+    {
+      "file": "fase3_reino_central_346.png",
+      "bbox": [
+        20,
+        565,
+        24,
+        23
+      ],
+      "area": 194
+    },
+    {
+      "file": "fase3_reino_central_347.png",
+      "bbox": [
+        694,
+        565,
+        16,
+        17
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase3_reino_central_348.png",
+      "bbox": [
+        842,
+        565,
+        31,
+        9
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_349.png",
+      "bbox": [
+        819,
+        566,
+        24,
+        8
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_350.png",
+      "bbox": [
+        194,
+        568,
+        14,
+        13
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase3_reino_central_351.png",
+      "bbox": [
+        205,
+        568,
+        12,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_352.png",
+      "bbox": [
+        220,
+        568,
+        14,
+        16
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase3_reino_central_353.png",
+      "bbox": [
+        373,
+        568,
+        94,
+        86
+      ],
+      "area": 4561
+    },
+    {
+      "file": "fase3_reino_central_354.png",
+      "bbox": [
+        385,
+        568,
+        14,
+        8
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_355.png",
+      "bbox": [
+        399,
+        568,
+        25,
+        19
+      ],
+      "area": 237
+    },
+    {
+      "file": "fase3_reino_central_356.png",
+      "bbox": [
+        40,
+        569,
+        15,
+        15
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase3_reino_central_357.png",
+      "bbox": [
+        52,
+        569,
+        20,
+        17
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase3_reino_central_358.png",
+      "bbox": [
+        344,
+        569,
+        33,
+        85
+      ],
+      "area": 1423
+    },
+    {
+      "file": "fase3_reino_central_359.png",
+      "bbox": [
+        290,
+        570,
+        22,
+        22
+      ],
+      "area": 202
+    },
+    {
+      "file": "fase3_reino_central_360.png",
+      "bbox": [
+        799,
+        570,
+        89,
+        38
+      ],
+      "area": 1670
+    },
+    {
+      "file": "fase3_reino_central_361.png",
+      "bbox": [
+        1037,
+        570,
+        104,
+        36
+      ],
+      "area": 1508
+    },
+    {
+      "file": "fase3_reino_central_362.png",
+      "bbox": [
+        310,
+        571,
+        14,
+        21
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase3_reino_central_363.png",
+      "bbox": [
+        914,
+        571,
+        14,
+        15
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase3_reino_central_364.png",
+      "bbox": [
+        156,
+        572,
+        18,
+        14
+      ],
+      "area": 118
+    },
+    {
+      "file": "fase3_reino_central_365.png",
+      "bbox": [
+        229,
+        573,
+        16,
+        18
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase3_reino_central_366.png",
+      "bbox": [
+        380,
+        573,
+        22,
+        15
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase3_reino_central_367.png",
+      "bbox": [
+        977,
+        573,
+        14,
+        24
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase3_reino_central_368.png",
+      "bbox": [
+        701,
+        576,
+        21,
+        29
+      ],
+      "area": 290
+    },
+    {
+      "file": "fase3_reino_central_369.png",
+      "bbox": [
+        708,
+        576,
+        46,
+        43
+      ],
+      "area": 715
+    },
+    {
+      "file": "fase3_reino_central_370.png",
+      "bbox": [
+        193,
+        578,
+        12,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_371.png",
+      "bbox": [
+        566,
+        581,
+        24,
+        65
+      ],
+      "area": 837
+    },
+    {
+      "file": "fase3_reino_central_372.png",
+      "bbox": [
+        67,
+        583,
+        109,
+        68
+      ],
+      "area": 2794
+    },
+    {
+      "file": "fase3_reino_central_373.png",
+      "bbox": [
+        218,
+        583,
+        106,
+        80
+      ],
+      "area": 4111
+    },
+    {
+      "file": "fase3_reino_central_374.png",
+      "bbox": [
+        912,
+        584,
+        13,
+        13
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_375.png",
+      "bbox": [
+        1151,
+        584,
+        82,
+        84
+      ],
+      "area": 4520
+    },
+    {
+      "file": "fase3_reino_central_376.png",
+      "bbox": [
+        1026,
+        585,
+        14,
+        17
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_377.png",
+      "bbox": [
+        490,
+        588,
+        20,
+        64
+      ],
+      "area": 853
+    },
+    {
+      "file": "fase3_reino_central_378.png",
+      "bbox": [
+        22,
+        590,
+        43,
+        61
+      ],
+      "area": 1313
+    },
+    {
+      "file": "fase3_reino_central_379.png",
+      "bbox": [
+        912,
+        590,
+        94,
+        15
+      ],
+      "area": 499
+    },
+    {
+      "file": "fase3_reino_central_380.png",
+      "bbox": [
+        277,
+        594,
+        16,
+        18
+      ],
+      "area": 119
+    },
+    {
+      "file": "fase3_reino_central_381.png",
+      "bbox": [
+        194,
+        595,
+        26,
+        40
+      ],
+      "area": 454
+    },
+    {
+      "file": "fase3_reino_central_382.png",
+      "bbox": [
+        254,
+        596,
+        26,
+        18
+      ],
+      "area": 228
+    },
+    {
+      "file": "fase3_reino_central_383.png",
+      "bbox": [
+        245,
+        597,
+        12,
+        11
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_384.png",
+      "bbox": [
+        887,
+        597,
+        13,
+        22
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_385.png",
+      "bbox": [
+        788,
+        598,
+        46,
+        27
+      ],
+      "area": 365
+    },
+    {
+      "file": "fase3_reino_central_386.png",
+      "bbox": [
+        691,
+        599,
+        20,
+        12
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase3_reino_central_387.png",
+      "bbox": [
+        912,
+        601,
+        100,
+        70
+      ],
+      "area": 3755
+    },
+    {
+      "file": "fase3_reino_central_388.png",
+      "bbox": [
+        687,
+        602,
+        88,
+        60
+      ],
+      "area": 2073
+    },
+    {
+      "file": "fase3_reino_central_389.png",
+      "bbox": [
+        1028,
+        603,
+        14,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_390.png",
+      "bbox": [
+        1039,
+        603,
+        13,
+        9
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_391.png",
+      "bbox": [
+        1050,
+        603,
+        10,
+        12
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_392.png",
+      "bbox": [
+        1058,
+        603,
+        35,
+        9
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase3_reino_central_393.png",
+      "bbox": [
+        1091,
+        603,
+        19,
+        9
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase3_reino_central_394.png",
+      "bbox": [
+        1115,
+        603,
+        26,
+        45
+      ],
+      "area": 582
+    },
+    {
+      "file": "fase3_reino_central_395.png",
+      "bbox": [
+        688,
+        606,
+        22,
+        18
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase3_reino_central_396.png",
+      "bbox": [
+        1038,
+        609,
+        40,
+        40
+      ],
+      "area": 600
+    },
+    {
+      "file": "fase3_reino_central_397.png",
+      "bbox": [
+        1087,
+        609,
+        31,
+        52
+      ],
+      "area": 582
+    },
+    {
+      "file": "fase3_reino_central_398.png",
+      "bbox": [
+        866,
+        611,
+        34,
+        14
+      ],
+      "area": 163
+    },
+    {
+      "file": "fase3_reino_central_399.png",
+      "bbox": [
+        1025,
+        612,
+        16,
+        42
+      ],
+      "area": 292
+    },
+    {
+      "file": "fase3_reino_central_400.png",
+      "bbox": [
+        832,
+        617,
+        27,
+        8
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_401.png",
+      "bbox": [
+        309,
+        622,
+        14,
+        14
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase3_reino_central_402.png",
+      "bbox": [
+        511,
+        622,
+        10,
+        21
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase3_reino_central_403.png",
+      "bbox": [
+        558,
+        622,
+        11,
+        34
+      ],
+      "area": 201
+    },
+    {
+      "file": "fase3_reino_central_404.png",
+      "bbox": [
+        790,
+        622,
+        111,
+        42
+      ],
+      "area": 2467
+    },
+    {
+      "file": "fase3_reino_central_405.png",
+      "bbox": [
+        208,
+        632,
+        13,
+        15
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_406.png",
+      "bbox": [
+        64,
+        633,
+        85,
+        37
+      ],
+      "area": 948
+    },
+    {
+      "file": "fase3_reino_central_407.png",
+      "bbox": [
+        1057,
+        639,
+        10,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_408.png",
+      "bbox": [
+        511,
+        640,
+        11,
+        18
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_409.png",
+      "bbox": [
+        619,
+        641,
+        37,
+        26
+      ],
+      "area": 584
+    },
+    {
+      "file": "fase3_reino_central_410.png",
+      "bbox": [
+        574,
+        643,
+        14,
+        10
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_411.png",
+      "bbox": [
+        599,
+        645,
+        23,
+        21
+      ],
+      "area": 273
+    },
+    {
+      "file": "fase3_reino_central_412.png",
+      "bbox": [
+        22,
+        648,
+        17,
+        16
+      ],
+      "area": 112
+    },
+    {
+      "file": "fase3_reino_central_413.png",
+      "bbox": [
+        160,
+        648,
+        18,
+        17
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase3_reino_central_414.png",
+      "bbox": [
+        488,
+        649,
+        23,
+        17
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase3_reino_central_415.png",
+      "bbox": [
+        390,
+        650,
+        13,
+        12
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_416.png",
+      "bbox": [
+        409,
+        650,
+        12,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_417.png",
+      "bbox": [
+        193,
+        651,
+        15,
+        11
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_418.png",
+      "bbox": [
+        231,
+        651,
+        15,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_419.png",
+      "bbox": [
+        286,
+        651,
+        12,
+        12
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_420.png",
+      "bbox": [
+        296,
+        651,
+        27,
+        11
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase3_reino_central_421.png",
+      "bbox": [
+        1004,
+        654,
+        9,
+        20
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase3_reino_central_422.png",
+      "bbox": [
+        334,
+        655,
+        12,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_423.png",
+      "bbox": [
+        49,
+        656,
+        19,
+        11
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_424.png",
+      "bbox": [
+        572,
+        656,
+        17,
+        10
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_425.png",
+      "bbox": [
+        895,
+        656,
+        11,
+        20
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_426.png",
+      "bbox": [
+        300,
+        657,
+        28,
+        15
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase3_reino_central_427.png",
+      "bbox": [
+        1125,
+        657,
+        22,
+        22
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase3_reino_central_428.png",
+      "bbox": [
+        757,
+        658,
+        19,
+        18
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_429.png",
+      "bbox": [
+        413,
+        659,
+        15,
+        11
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_430.png",
+      "bbox": [
+        707,
+        659,
+        44,
+        18
+      ],
+      "area": 202
+    },
+    {
+      "file": "fase3_reino_central_431.png",
+      "bbox": [
+        240,
+        660,
+        22,
+        11
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_432.png",
+      "bbox": [
+        372,
+        660,
+        30,
+        10
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase3_reino_central_433.png",
+      "bbox": [
+        399,
+        660,
+        17,
+        9
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_434.png",
+      "bbox": [
+        425,
+        660,
+        22,
+        11
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_435.png",
+      "bbox": [
+        189,
+        661,
+        15,
+        10
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_436.png",
+      "bbox": [
+        286,
+        661,
+        17,
+        10
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_437.png",
+      "bbox": [
+        348,
+        661,
+        23,
+        11
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase3_reino_central_438.png",
+      "bbox": [
+        510,
+        661,
+        19,
+        9
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_439.png",
+      "bbox": [
+        910,
+        661,
+        14,
+        15
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_440.png",
+      "bbox": [
+        1027,
+        662,
+        13,
+        11
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_441.png",
+      "bbox": [
+        207,
+        663,
+        17,
+        10
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_442.png",
+      "bbox": [
+        1189,
+        663,
+        12,
+        11
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_443.png",
+      "bbox": [
+        1105,
+        665,
+        13,
+        9
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_444.png",
+      "bbox": [
+        1169,
+        665,
+        16,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_445.png",
+      "bbox": [
+        824,
+        667,
+        41,
+        10
+      ],
+      "area": 172
+    },
+    {
+      "file": "fase3_reino_central_446.png",
+      "bbox": [
+        931,
+        667,
+        42,
+        12
+      ],
+      "area": 186
+    },
+    {
+      "file": "fase3_reino_central_447.png",
+      "bbox": [
+        1047,
+        667,
+        61,
+        12
+      ],
+      "area": 275
+    },
+    {
+      "file": "fase3_reino_central_448.png",
+      "bbox": [
+        787,
+        668,
+        24,
+        10
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_449.png",
+      "bbox": [
+        988,
+        669,
+        19,
+        10
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_450.png",
+      "bbox": [
+        153,
+        694,
+        15,
+        12
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_451.png",
+      "bbox": [
+        237,
+        694,
+        19,
+        11
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_452.png",
+      "bbox": [
+        273,
+        694,
+        18,
+        12
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase3_reino_central_453.png",
+      "bbox": [
+        349,
+        694,
+        18,
+        12
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase3_reino_central_454.png",
+      "bbox": [
+        365,
+        694,
+        16,
+        12
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase3_reino_central_455.png",
+      "bbox": [
+        379,
+        694,
+        17,
+        11
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase3_reino_central_456.png",
+      "bbox": [
+        289,
+        696,
+        15,
+        10
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_457.png",
+      "bbox": [
+        302,
+        696,
+        19,
+        11
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase3_reino_central_458.png",
+      "bbox": [
+        320,
+        696,
+        15,
+        10
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_459.png",
+      "bbox": [
+        337,
+        696,
+        14,
+        10
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_460.png",
+      "bbox": [
+        513,
+        696,
+        22,
+        25
+      ],
+      "area": 178
+    },
+    {
+      "file": "fase3_reino_central_461.png",
+      "bbox": [
+        242,
+        704,
+        10,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_462.png",
+      "bbox": [
+        273,
+        704,
+        15,
+        16
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_463.png",
+      "bbox": [
+        290,
+        704,
+        13,
+        15
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_464.png",
+      "bbox": [
+        307,
+        704,
+        14,
+        15
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase3_reino_central_465.png",
+      "bbox": [
+        322,
+        704,
+        15,
+        16
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase3_reino_central_466.png",
+      "bbox": [
+        338,
+        704,
+        12,
+        15
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_467.png",
+      "bbox": [
+        354,
+        704,
+        13,
+        15
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_468.png",
+      "bbox": [
+        368,
+        704,
+        11,
+        15
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_469.png",
+      "bbox": [
+        382,
+        704,
+        14,
+        40
+      ],
+      "area": 280
+    },
+    {
+      "file": "fase3_reino_central_470.png",
+      "bbox": [
+        213,
+        705,
+        9,
+        14
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_471.png",
+      "bbox": [
+        577,
+        709,
+        25,
+        18
+      ],
+      "area": 199
+    },
+    {
+      "file": "fase3_reino_central_472.png",
+      "bbox": [
+        521,
+        711,
+        15,
+        10
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_473.png",
+      "bbox": [
+        1131,
+        712,
+        102,
+        48
+      ],
+      "area": 2824
+    },
+    {
+      "file": "fase3_reino_central_474.png",
+      "bbox": [
+        813,
+        715,
+        13,
+        38
+      ],
+      "area": 268
+    },
+    {
+      "file": "fase3_reino_central_475.png",
+      "bbox": [
+        834,
+        715,
+        20,
+        69
+      ],
+      "area": 830
+    },
+    {
+      "file": "fase3_reino_central_476.png",
+      "bbox": [
+        860,
+        715,
+        14,
+        66
+      ],
+      "area": 546
+    },
+    {
+      "file": "fase3_reino_central_477.png",
+      "bbox": [
+        271,
+        716,
+        15,
+        16
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_478.png",
+      "bbox": [
+        166,
+        717,
+        12,
+        15
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_479.png",
+      "bbox": [
+        197,
+        717,
+        9,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_480.png",
+      "bbox": [
+        212,
+        717,
+        10,
+        15
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase3_reino_central_481.png",
+      "bbox": [
+        227,
+        717,
+        9,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_482.png",
+      "bbox": [
+        242,
+        717,
+        10,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_483.png",
+      "bbox": [
+        290,
+        717,
+        13,
+        15
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase3_reino_central_484.png",
+      "bbox": [
+        307,
+        717,
+        14,
+        15
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase3_reino_central_485.png",
+      "bbox": [
+        322,
+        717,
+        15,
+        15
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_486.png",
+      "bbox": [
+        338,
+        717,
+        15,
+        15
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_487.png",
+      "bbox": [
+        353,
+        717,
+        14,
+        15
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_488.png",
+      "bbox": [
+        368,
+        717,
+        13,
+        15
+      ],
+      "area": 91
+    },
+    {
+      "file": "fase3_reino_central_489.png",
+      "bbox": [
+        729,
+        717,
+        23,
+        78
+      ],
+      "area": 908
+    },
+    {
+      "file": "fase3_reino_central_490.png",
+      "bbox": [
+        921,
+        717,
+        66,
+        16
+      ],
+      "area": 568
+    },
+    {
+      "file": "fase3_reino_central_491.png",
+      "bbox": [
+        514,
+        718,
+        22,
+        28
+      ],
+      "area": 333
+    },
+    {
+      "file": "fase3_reino_central_492.png",
+      "bbox": [
+        548,
+        724,
+        65,
+        58
+      ],
+      "area": 1973
+    },
+    {
+      "file": "fase3_reino_central_493.png",
+      "bbox": [
+        167,
+        729,
+        11,
+        15
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_494.png",
+      "bbox": [
+        197,
+        729,
+        9,
+        15
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_495.png",
+      "bbox": [
+        227,
+        729,
+        9,
+        15
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_496.png",
+      "bbox": [
+        242,
+        729,
+        10,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_497.png",
+      "bbox": [
+        273,
+        729,
+        13,
+        16
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_498.png",
+      "bbox": [
+        306,
+        729,
+        16,
+        16
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase3_reino_central_499.png",
+      "bbox": [
+        338,
+        729,
+        15,
+        16
+      ],
+      "area": 104
+    },
+    {
+      "file": "fase3_reino_central_500.png",
+      "bbox": [
+        353,
+        729,
+        14,
+        16
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_501.png",
+      "bbox": [
+        181,
+        730,
+        9,
+        14
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_502.png",
+      "bbox": [
+        290,
+        730,
+        13,
+        15
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase3_reino_central_503.png",
+      "bbox": [
+        322,
+        730,
+        13,
+        15
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_504.png",
+      "bbox": [
+        368,
+        730,
+        13,
+        15
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_505.png",
+      "bbox": [
+        708,
+        733,
+        11,
+        21
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_506.png",
+      "bbox": [
+        1010,
+        737,
+        55,
+        58
+      ],
+      "area": 2198
+    },
+    {
+      "file": "fase3_reino_central_507.png",
+      "bbox": [
+        920,
+        740,
+        66,
+        9
+      ],
+      "area": 217
+    },
+    {
+      "file": "fase3_reino_central_508.png",
+      "bbox": [
+        512,
+        741,
+        24,
+        11
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase3_reino_central_509.png",
+      "bbox": [
+        182,
+        742,
+        10,
+        14
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_510.png",
+      "bbox": [
+        197,
+        742,
+        9,
+        14
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_511.png",
+      "bbox": [
+        213,
+        742,
+        9,
+        14
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_512.png",
+      "bbox": [
+        227,
+        742,
+        9,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_513.png",
+      "bbox": [
+        243,
+        742,
+        9,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_514.png",
+      "bbox": [
+        272,
+        742,
+        14,
+        16
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase3_reino_central_515.png",
+      "bbox": [
+        290,
+        742,
+        15,
+        16
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase3_reino_central_516.png",
+      "bbox": [
+        307,
+        742,
+        14,
+        15
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_517.png",
+      "bbox": [
+        323,
+        742,
+        12,
+        15
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase3_reino_central_518.png",
+      "bbox": [
+        338,
+        742,
+        15,
+        16
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase3_reino_central_519.png",
+      "bbox": [
+        353,
+        742,
+        14,
+        16
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase3_reino_central_520.png",
+      "bbox": [
+        368,
+        742,
+        14,
+        16
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase3_reino_central_521.png",
+      "bbox": [
+        383,
+        742,
+        12,
+        15
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase3_reino_central_522.png",
+      "bbox": [
+        929,
+        746,
+        13,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_523.png",
+      "bbox": [
+        512,
+        749,
+        24,
+        31
+      ],
+      "area": 501
+    },
+    {
+      "file": "fase3_reino_central_524.png",
+      "bbox": [
+        813,
+        749,
+        13,
+        34
+      ],
+      "area": 183
+    },
+    {
+      "file": "fase3_reino_central_525.png",
+      "bbox": [
+        418,
+        750,
+        77,
+        32
+      ],
+      "area": 1138
+    },
+    {
+      "file": "fase3_reino_central_526.png",
+      "bbox": [
+        1202,
+        751,
+        30,
+        19
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase3_reino_central_527.png",
+      "bbox": [
+        212,
+        754,
+        10,
+        14
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_528.png",
+      "bbox": [
+        228,
+        754,
+        9,
+        14
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_529.png",
+      "bbox": [
+        271,
+        755,
+        17,
+        16
+      ],
+      "area": 110
+    },
+    {
+      "file": "fase3_reino_central_530.png",
+      "bbox": [
+        290,
+        755,
+        14,
+        16
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase3_reino_central_531.png",
+      "bbox": [
+        307,
+        755,
+        12,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase3_reino_central_532.png",
+      "bbox": [
+        322,
+        755,
+        15,
+        16
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase3_reino_central_533.png",
+      "bbox": [
+        337,
+        755,
+        15,
+        16
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_534.png",
+      "bbox": [
+        352,
+        755,
+        16,
+        15
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_535.png",
+      "bbox": [
+        368,
+        755,
+        11,
+        16
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_536.png",
+      "bbox": [
+        382,
+        755,
+        13,
+        16
+      ],
+      "area": 85
+    },
+    {
+      "file": "fase3_reino_central_537.png",
+      "bbox": [
+        923,
+        756,
+        60,
+        19
+      ],
+      "area": 380
+    },
+    {
+      "file": "fase3_reino_central_538.png",
+      "bbox": [
+        1076,
+        756,
+        9,
+        17
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_539.png",
+      "bbox": [
+        710,
+        760,
+        13,
+        10
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_540.png",
+      "bbox": [
+        1082,
+        763,
+        31,
+        25
+      ],
+      "area": 244
+    },
+    {
+      "file": "fase3_reino_central_541.png",
+      "bbox": [
+        710,
+        768,
+        10,
+        20
+      ],
+      "area": 58
+    },
+    {
+      "file": "fase3_reino_central_542.png",
+      "bbox": [
+        877,
+        769,
+        17,
+        11
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_543.png",
+      "bbox": [
+        165,
+        770,
+        17,
+        10
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_544.png",
+      "bbox": [
+        1203,
+        771,
+        23,
+        49
+      ],
+      "area": 350
+    },
+    {
+      "file": "fase3_reino_central_545.png",
+      "bbox": [
+        280,
+        772,
+        26,
+        12
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase3_reino_central_546.png",
+      "bbox": [
+        305,
+        772,
+        30,
+        10
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase3_reino_central_547.png",
+      "bbox": [
+        332,
+        772,
+        59,
+        12
+      ],
+      "area": 245
+    },
+    {
+      "file": "fase3_reino_central_548.png",
+      "bbox": [
+        1191,
+        778,
+        16,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_549.png",
+      "bbox": [
+        28,
+        792,
+        106,
+        55
+      ],
+      "area": 4086
+    },
+    {
+      "file": "fase3_reino_central_550.png",
+      "bbox": [
+        162,
+        793,
+        84,
+        48
+      ],
+      "area": 2251
+    },
+    {
+      "file": "fase3_reino_central_551.png",
+      "bbox": [
+        390,
+        800,
+        64,
+        52
+      ],
+      "area": 1670
+    },
+    {
+      "file": "fase3_reino_central_552.png",
+      "bbox": [
+        353,
+        801,
+        16,
+        42
+      ],
+      "area": 347
+    },
+    {
+      "file": "fase3_reino_central_553.png",
+      "bbox": [
+        1146,
+        803,
+        20,
+        17
+      ],
+      "area": 105
+    },
+    {
+      "file": "fase3_reino_central_554.png",
+      "bbox": [
+        309,
+        804,
+        15,
+        10
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_555.png",
+      "bbox": [
+        332,
+        807,
+        16,
+        39
+      ],
+      "area": 356
+    },
+    {
+      "file": "fase3_reino_central_556.png",
+      "bbox": [
+        508,
+        808,
+        21,
+        17
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase3_reino_central_557.png",
+      "bbox": [
+        479,
+        809,
+        13,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_558.png",
+      "bbox": [
+        553,
+        811,
+        13,
+        11
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_559.png",
+      "bbox": [
+        999,
+        811,
+        15,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_560.png",
+      "bbox": [
+        1187,
+        811,
+        27,
+        14
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase3_reino_central_561.png",
+      "bbox": [
+        934,
+        812,
+        14,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_562.png",
+      "bbox": [
+        993,
+        813,
+        44,
+        39
+      ],
+      "area": 502
+    },
+    {
+      "file": "fase3_reino_central_563.png",
+      "bbox": [
+        285,
+        814,
+        16,
+        31
+      ],
+      "area": 259
+    },
+    {
+      "file": "fase3_reino_central_564.png",
+      "bbox": [
+        309,
+        814,
+        16,
+        13
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_565.png",
+      "bbox": [
+        627,
+        815,
+        16,
+        11
+      ],
+      "area": 57
+    },
+    {
+      "file": "fase3_reino_central_566.png",
+      "bbox": [
+        1164,
+        815,
+        25,
+        10
+      ],
+      "area": 93
+    },
+    {
+      "file": "fase3_reino_central_567.png",
+      "bbox": [
+        485,
+        816,
+        20,
+        11
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase3_reino_central_568.png",
+      "bbox": [
+        543,
+        819,
+        13,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_569.png",
+      "bbox": [
+        614,
+        819,
+        11,
+        17
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_570.png",
+      "bbox": [
+        309,
+        823,
+        15,
+        17
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase3_reino_central_571.png",
+      "bbox": [
+        983,
+        823,
+        15,
+        14
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_572.png",
+      "bbox": [
+        474,
+        826,
+        16,
+        19
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase3_reino_central_573.png",
+      "bbox": [
+        554,
+        826,
+        12,
+        15
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_574.png",
+      "bbox": [
+        918,
+        829,
+        13,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_575.png",
+      "bbox": [
+        1163,
+        830,
+        65,
+        45
+      ],
+      "area": 1332
+    },
+    {
+      "file": "fase3_reino_central_576.png",
+      "bbox": [
+        1026,
+        832,
+        20,
+        13
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_577.png",
+      "bbox": [
+        484,
+        833,
+        12,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_578.png",
+      "bbox": [
+        639,
+        835,
+        13,
+        14
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_579.png",
+      "bbox": [
+        311,
+        837,
+        13,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_580.png",
+      "bbox": [
+        605,
+        837,
+        16,
+        27
+      ],
+      "area": 150
+    },
+    {
+      "file": "fase3_reino_central_581.png",
+      "bbox": [
+        980,
+        837,
+        14,
+        13
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase3_reino_central_582.png",
+      "bbox": [
+        915,
+        843,
+        45,
+        30
+      ],
+      "area": 368
+    },
+    {
+      "file": "fase3_reino_central_583.png",
+      "bbox": [
+        673,
+        848,
+        13,
+        15
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_584.png",
+      "bbox": [
+        957,
+        848,
+        12,
+        16
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_585.png",
+      "bbox": [
+        113,
+        849,
+        16,
+        37
+      ],
+      "area": 266
+    },
+    {
+      "file": "fase3_reino_central_586.png",
+      "bbox": [
+        231,
+        851,
+        13,
+        20
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_587.png",
+      "bbox": [
+        131,
+        852,
+        11,
+        31
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase3_reino_central_588.png",
+      "bbox": [
+        353,
+        852,
+        13,
+        21
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_589.png",
+      "bbox": [
+        618,
+        852,
+        30,
+        13
+      ],
+      "area": 197
+    },
+    {
+      "file": "fase3_reino_central_590.png",
+      "bbox": [
+        646,
+        852,
+        29,
+        11
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase3_reino_central_591.png",
+      "bbox": [
+        161,
+        855,
+        15,
+        31
+      ],
+      "area": 211
+    },
+    {
+      "file": "fase3_reino_central_592.png",
+      "bbox": [
+        246,
+        855,
+        9,
+        17
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_593.png",
+      "bbox": [
+        35,
+        856,
+        16,
+        20
+      ],
+      "area": 144
+    },
+    {
+      "file": "fase3_reino_central_594.png",
+      "bbox": [
+        500,
+        857,
+        54,
+        20
+      ],
+      "area": 430
+    },
+    {
+      "file": "fase3_reino_central_595.png",
+      "bbox": [
+        745,
+        857,
+        25,
+        20
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase3_reino_central_596.png",
+      "bbox": [
+        274,
+        858,
+        16,
+        19
+      ],
+      "area": 136
+    },
+    {
+      "file": "fase3_reino_central_597.png",
+      "bbox": [
+        368,
+        858,
+        11,
+        25
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_598.png",
+      "bbox": [
+        566,
+        858,
+        20,
+        17
+      ],
+      "area": 138
+    },
+    {
+      "file": "fase3_reino_central_599.png",
+      "bbox": [
+        962,
+        858,
+        12,
+        18
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_600.png",
+      "bbox": [
+        481,
+        859,
+        12,
+        15
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase3_reino_central_601.png",
+      "bbox": [
+        680,
+        859,
+        12,
+        19
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_602.png",
+      "bbox": [
+        1021,
+        859,
+        25,
+        21
+      ],
+      "area": 153
+    },
+    {
+      "file": "fase3_reino_central_603.png",
+      "bbox": [
+        434,
+        860,
+        11,
+        26
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase3_reino_central_604.png",
+      "bbox": [
+        656,
+        860,
+        11,
+        14
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_605.png",
+      "bbox": [
+        665,
+        860,
+        19,
+        14
+      ],
+      "area": 128
+    },
+    {
+      "file": "fase3_reino_central_606.png",
+      "bbox": [
+        608,
+        861,
+        20,
+        14
+      ],
+      "area": 111
+    },
+    {
+      "file": "fase3_reino_central_607.png",
+      "bbox": [
+        621,
+        861,
+        38,
+        17
+      ],
+      "area": 252
+    },
+    {
+      "file": "fase3_reino_central_608.png",
+      "bbox": [
+        824,
+        861,
+        21,
+        19
+      ],
+      "area": 121
+    },
+    {
+      "file": "fase3_reino_central_609.png",
+      "bbox": [
+        885,
+        861,
+        17,
+        15
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase3_reino_central_610.png",
+      "bbox": [
+        931,
+        861,
+        21,
+        12
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase3_reino_central_611.png",
+      "bbox": [
+        954,
+        861,
+        12,
+        11
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_612.png",
+      "bbox": [
+        445,
+        867,
+        11,
+        17
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_613.png",
+      "bbox": [
+        177,
+        868,
+        19,
+        16
+      ],
+      "area": 133
+    },
+    {
+      "file": "fase3_reino_central_614.png",
+      "bbox": [
+        201,
+        869,
+        28,
+        17
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase3_reino_central_615.png",
+      "bbox": [
+        231,
+        869,
+        13,
+        17
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_616.png",
+      "bbox": [
+        246,
+        869,
+        10,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_617.png",
+      "bbox": [
+        1089,
+        870,
+        36,
+        29
+      ],
+      "area": 424
+    },
+    {
+      "file": "fase3_reino_central_618.png",
+      "bbox": [
+        53,
+        871,
+        57,
+        13
+      ],
+      "area": 332
+    },
+    {
+      "file": "fase3_reino_central_619.png",
+      "bbox": [
+        38,
+        872,
+        13,
+        13
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_620.png",
+      "bbox": [
+        291,
+        873,
+        60,
+        13
+      ],
+      "area": 482
+    },
+    {
+      "file": "fase3_reino_central_621.png",
+      "bbox": [
+        410,
+        873,
+        26,
+        13
+      ],
+      "area": 171
+    },
+    {
+      "file": "fase3_reino_central_622.png",
+      "bbox": [
+        1186,
+        874,
+        18,
+        13
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_623.png",
+      "bbox": [
+        1208,
+        875,
+        18,
+        33
+      ],
+      "area": 337
+    },
+    {
+      "file": "fase3_reino_central_624.png",
+      "bbox": [
+        351,
+        876,
+        18,
+        10
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_625.png",
+      "bbox": [
+        1156,
+        876,
+        77,
+        49
+      ],
+      "area": 1113
+    },
+    {
+      "file": "fase3_reino_central_626.png",
+      "bbox": [
+        1183,
+        883,
+        20,
+        27
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase3_reino_central_627.png",
+      "bbox": [
+        1010,
+        892,
+        25,
+        10
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase3_reino_central_628.png",
+      "bbox": [
+        1085,
+        896,
+        40,
+        45
+      ],
+      "area": 738
+    },
+    {
+      "file": "fase3_reino_central_629.png",
+      "bbox": [
+        22,
+        897,
+        27,
+        22
+      ],
+      "area": 305
+    },
+    {
+      "file": "fase3_reino_central_630.png",
+      "bbox": [
+        120,
+        897,
+        28,
+        22
+      ],
+      "area": 302
+    },
+    {
+      "file": "fase3_reino_central_631.png",
+      "bbox": [
+        225,
+        897,
+        25,
+        22
+      ],
+      "area": 271
+    },
+    {
+      "file": "fase3_reino_central_632.png",
+      "bbox": [
+        354,
+        897,
+        30,
+        22
+      ],
+      "area": 304
+    },
+    {
+      "file": "fase3_reino_central_633.png",
+      "bbox": [
+        499,
+        897,
+        28,
+        20
+      ],
+      "area": 303
+    },
+    {
+      "file": "fase3_reino_central_634.png",
+      "bbox": [
+        578,
+        897,
+        29,
+        20
+      ],
+      "area": 357
+    },
+    {
+      "file": "fase3_reino_central_635.png",
+      "bbox": [
+        995,
+        898,
+        16,
+        20
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase3_reino_central_636.png",
+      "bbox": [
+        1037,
+        898,
+        13,
+        21
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase3_reino_central_637.png",
+      "bbox": [
+        898,
+        899,
+        17,
+        8
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_638.png",
+      "bbox": [
+        542,
+        904,
+        11,
+        13
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_639.png",
+      "bbox": [
+        1209,
+        905,
+        17,
+        11
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase3_reino_central_640.png",
+      "bbox": [
+        421,
+        910,
+        13,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_641.png",
+      "bbox": [
+        500,
+        914,
+        27,
+        56
+      ],
+      "area": 1028
+    },
+    {
+      "file": "fase3_reino_central_642.png",
+      "bbox": [
+        578,
+        914,
+        36,
+        55
+      ],
+      "area": 1121
+    },
+    {
+      "file": "fase3_reino_central_643.png",
+      "bbox": [
+        1229,
+        914,
+        9,
+        16
+      ],
+      "area": 47
+    },
+    {
+      "file": "fase3_reino_central_644.png",
+      "bbox": [
+        22,
+        916,
+        25,
+        51
+      ],
+      "area": 714
+    },
+    {
+      "file": "fase3_reino_central_645.png",
+      "bbox": [
+        45,
+        916,
+        16,
+        14
+      ],
+      "area": 95
+    },
+    {
+      "file": "fase3_reino_central_646.png",
+      "bbox": [
+        90,
+        916,
+        36,
+        14
+      ],
+      "area": 273
+    },
+    {
+      "file": "fase3_reino_central_647.png",
+      "bbox": [
+        123,
+        916,
+        25,
+        12
+      ],
+      "area": 141
+    },
+    {
+      "file": "fase3_reino_central_648.png",
+      "bbox": [
+        58,
+        917,
+        35,
+        13
+      ],
+      "area": 253
+    },
+    {
+      "file": "fase3_reino_central_649.png",
+      "bbox": [
+        227,
+        917,
+        26,
+        20
+      ],
+      "area": 297
+    },
+    {
+      "file": "fase3_reino_central_650.png",
+      "bbox": [
+        357,
+        917,
+        24,
+        40
+      ],
+      "area": 633
+    },
+    {
+      "file": "fase3_reino_central_651.png",
+      "bbox": [
+        940,
+        917,
+        38,
+        18
+      ],
+      "area": 208
+    },
+    {
+      "file": "fase3_reino_central_652.png",
+      "bbox": [
+        1157,
+        919,
+        23,
+        13
+      ],
+      "area": 108
+    },
+    {
+      "file": "fase3_reino_central_653.png",
+      "bbox": [
+        1177,
+        921,
+        54,
+        14
+      ],
+      "area": 281
+    },
+    {
+      "file": "fase3_reino_central_654.png",
+      "bbox": [
+        1082,
+        923,
+        49,
+        33
+      ],
+      "area": 534
+    },
+    {
+      "file": "fase3_reino_central_655.png",
+      "bbox": [
+        460,
+        924,
+        12,
+        12
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_656.png",
+      "bbox": [
+        122,
+        925,
+        26,
+        42
+      ],
+      "area": 686
+    },
+    {
+      "file": "fase3_reino_central_657.png",
+      "bbox": [
+        533,
+        927,
+        11,
+        16
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_658.png",
+      "bbox": [
+        55,
+        928,
+        19,
+        11
+      ],
+      "area": 94
+    },
+    {
+      "file": "fase3_reino_central_659.png",
+      "bbox": [
+        72,
+        928,
+        24,
+        20
+      ],
+      "area": 209
+    },
+    {
+      "file": "fase3_reino_central_660.png",
+      "bbox": [
+        92,
+        928,
+        34,
+        12
+      ],
+      "area": 187
+    },
+    {
+      "file": "fase3_reino_central_661.png",
+      "bbox": [
+        45,
+        929,
+        13,
+        11
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_662.png",
+      "bbox": [
+        944,
+        931,
+        30,
+        19
+      ],
+      "area": 302
+    },
+    {
+      "file": "fase3_reino_central_663.png",
+      "bbox": [
+        199,
+        933,
+        55,
+        36
+      ],
+      "area": 760
+    },
+    {
+      "file": "fase3_reino_central_664.png",
+      "bbox": [
+        302,
+        935,
+        10,
+        17
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_665.png",
+      "bbox": [
+        51,
+        936,
+        15,
+        12
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase3_reino_central_666.png",
+      "bbox": [
+        67,
+        936,
+        16,
+        12
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase3_reino_central_667.png",
+      "bbox": [
+        105,
+        936,
+        12,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_668.png",
+      "bbox": [
+        114,
+        936,
+        12,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_669.png",
+      "bbox": [
+        327,
+        936,
+        11,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_670.png",
+      "bbox": [
+        93,
+        937,
+        14,
+        11
+      ],
+      "area": 62
+    },
+    {
+      "file": "fase3_reino_central_671.png",
+      "bbox": [
+        673,
+        938,
+        12,
+        12
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_672.png",
+      "bbox": [
+        1077,
+        939,
+        64,
+        34
+      ],
+      "area": 785
+    },
+    {
+      "file": "fase3_reino_central_673.png",
+      "bbox": [
+        942,
+        943,
+        24,
+        14
+      ],
+      "area": 98
+    },
+    {
+      "file": "fase3_reino_central_674.png",
+      "bbox": [
+        97,
+        944,
+        28,
+        12
+      ],
+      "area": 153
+    },
+    {
+      "file": "fase3_reino_central_675.png",
+      "bbox": [
+        57,
+        945,
+        21,
+        12
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase3_reino_central_676.png",
+      "bbox": [
+        75,
+        945,
+        15,
+        11
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_677.png",
+      "bbox": [
+        88,
+        945,
+        12,
+        12
+      ],
+      "area": 59
+    },
+    {
+      "file": "fase3_reino_central_678.png",
+      "bbox": [
+        410,
+        945,
+        11,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_679.png",
+      "bbox": [
+        54,
+        953,
+        15,
+        12
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_680.png",
+      "bbox": [
+        67,
+        953,
+        16,
+        12
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_681.png",
+      "bbox": [
+        80,
+        953,
+        15,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_682.png",
+      "bbox": [
+        94,
+        953,
+        13,
+        12
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase3_reino_central_683.png",
+      "bbox": [
+        106,
+        953,
+        15,
+        12
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_684.png",
+      "bbox": [
+        1030,
+        953,
+        14,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_685.png",
+      "bbox": [
+        1175,
+        953,
+        45,
+        21
+      ],
+      "area": 280
+    },
+    {
+      "file": "fase3_reino_central_686.png",
+      "bbox": [
+        22,
+        954,
+        18,
+        16
+      ],
+      "area": 132
+    },
+    {
+      "file": "fase3_reino_central_687.png",
+      "bbox": [
+        356,
+        954,
+        25,
+        13
+      ],
+      "area": 163
+    },
+    {
+      "file": "fase3_reino_central_688.png",
+      "bbox": [
+        942,
+        954,
+        26,
+        18
+      ],
+      "area": 181
+    },
+    {
+      "file": "fase3_reino_central_689.png",
+      "bbox": [
+        284,
+        956,
+        19,
+        12
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase3_reino_central_690.png",
+      "bbox": [
+        309,
+        956,
+        20,
+        12
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_691.png",
+      "bbox": [
+        336,
+        956,
+        20,
+        12
+      ],
+      "area": 90
+    },
+    {
+      "file": "fase3_reino_central_692.png",
+      "bbox": [
+        431,
+        956,
+        21,
+        12
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase3_reino_central_693.png",
+      "bbox": [
+        455,
+        957,
+        19,
+        10
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_694.png",
+      "bbox": [
+        688,
+        957,
+        13,
+        13
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase3_reino_central_695.png",
+      "bbox": [
+        161,
+        958,
+        31,
+        10
+      ],
+      "area": 124
+    },
+    {
+      "file": "fase3_reino_central_696.png",
+      "bbox": [
+        189,
+        958,
+        13,
+        9
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_697.png",
+      "bbox": [
+        406,
+        958,
+        22,
+        9
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase3_reino_central_698.png",
+      "bbox": [
+        649,
+        958,
+        19,
+        12
+      ],
+      "area": 68
+    },
+    {
+      "file": "fase3_reino_central_699.png",
+      "bbox": [
+        795,
+        961,
+        14,
+        20
+      ],
+      "area": 103
+    },
+    {
+      "file": "fase3_reino_central_700.png",
+      "bbox": [
+        53,
+        962,
+        43,
+        9
+      ],
+      "area": 153
+    },
+    {
+      "file": "fase3_reino_central_701.png",
+      "bbox": [
+        103,
+        962,
+        22,
+        9
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase3_reino_central_702.png",
+      "bbox": [
+        972,
+        963,
+        12,
+        16
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_703.png",
+      "bbox": [
+        1042,
+        964,
+        14,
+        15
+      ],
+      "area": 77
+    },
+    {
+      "file": "fase3_reino_central_704.png",
+      "bbox": [
+        1165,
+        964,
+        16,
+        10
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_705.png",
+      "bbox": [
+        847,
+        965,
+        14,
+        15
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase3_reino_central_706.png",
+      "bbox": [
+        942,
+        966,
+        14,
+        12
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_707.png",
+      "bbox": [
+        953,
+        970,
+        13,
+        9
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_708.png",
+      "bbox": [
+        1158,
+        974,
+        72,
+        57
+      ],
+      "area": 1700
+    },
+    {
+      "file": "fase3_reino_central_709.png",
+      "bbox": [
+        908,
+        979,
+        11,
+        14
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_710.png",
+      "bbox": [
+        690,
+        983,
+        10,
+        18
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_711.png",
+      "bbox": [
+        922,
+        983,
+        15,
+        11
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_712.png",
+      "bbox": [
+        513,
+        987,
+        29,
+        23
+      ],
+      "area": 170
+    },
+    {
+      "file": "fase3_reino_central_713.png",
+      "bbox": [
+        699,
+        998,
+        25,
+        73
+      ],
+      "area": 1196
+    },
+    {
+      "file": "fase3_reino_central_714.png",
+      "bbox": [
+        593,
+        1004,
+        8,
+        77
+      ],
+      "area": 255
+    },
+    {
+      "file": "fase3_reino_central_715.png",
+      "bbox": [
+        641,
+        1004,
+        9,
+        91
+      ],
+      "area": 350
+    },
+    {
+      "file": "fase3_reino_central_716.png",
+      "bbox": [
+        651,
+        1004,
+        24,
+        67
+      ],
+      "area": 707
+    },
+    {
+      "file": "fase3_reino_central_717.png",
+      "bbox": [
+        518,
+        1005,
+        14,
+        30
+      ],
+      "area": 117
+    },
+    {
+      "file": "fase3_reino_central_718.png",
+      "bbox": [
+        690,
+        1005,
+        8,
+        82
+      ],
+      "area": 288
+    },
+    {
+      "file": "fase3_reino_central_719.png",
+      "bbox": [
+        739,
+        1005,
+        8,
+        76
+      ],
+      "area": 287
+    },
+    {
+      "file": "fase3_reino_central_720.png",
+      "bbox": [
+        1072,
+        1005,
+        80,
+        70
+      ],
+      "area": 2029
+    },
+    {
+      "file": "fase3_reino_central_721.png",
+      "bbox": [
+        367,
+        1007,
+        77,
+        27
+      ],
+      "area": 689
+    },
+    {
+      "file": "fase3_reino_central_722.png",
+      "bbox": [
+        602,
+        1008,
+        24,
+        63
+      ],
+      "area": 954
+    },
+    {
+      "file": "fase3_reino_central_723.png",
+      "bbox": [
+        251,
+        1012,
+        12,
+        14
+      ],
+      "area": 65
+    },
+    {
+      "file": "fase3_reino_central_724.png",
+      "bbox": [
+        153,
+        1013,
+        18,
+        12
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase3_reino_central_725.png",
+      "bbox": [
+        171,
+        1013,
+        18,
+        12
+      ],
+      "area": 83
+    },
+    {
+      "file": "fase3_reino_central_726.png",
+      "bbox": [
+        127,
+        1017,
+        75,
+        47
+      ],
+      "area": 990
+    },
+    {
+      "file": "fase3_reino_central_727.png",
+      "bbox": [
+        183,
+        1019,
+        27,
+        18
+      ],
+      "area": 154
+    },
+    {
+      "file": "fase3_reino_central_728.png",
+      "bbox": [
+        300,
+        1019,
+        21,
+        17
+      ],
+      "area": 122
+    },
+    {
+      "file": "fase3_reino_central_729.png",
+      "bbox": [
+        233,
+        1021,
+        87,
+        50
+      ],
+      "area": 1131
+    },
+    {
+      "file": "fase3_reino_central_730.png",
+      "bbox": [
+        1020,
+        1021,
+        21,
+        14
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase3_reino_central_731.png",
+      "bbox": [
+        368,
+        1031,
+        76,
+        29
+      ],
+      "area": 748
+    },
+    {
+      "file": "fase3_reino_central_732.png",
+      "bbox": [
+        494,
+        1031,
+        58,
+        49
+      ],
+      "area": 970
+    },
+    {
+      "file": "fase3_reino_central_733.png",
+      "bbox": [
+        357,
+        1033,
+        13,
+        17
+      ],
+      "area": 88
+    },
+    {
+      "file": "fase3_reino_central_734.png",
+      "bbox": [
+        193,
+        1034,
+        17,
+        14
+      ],
+      "area": 101
+    },
+    {
+      "file": "fase3_reino_central_735.png",
+      "bbox": [
+        807,
+        1037,
+        15,
+        16
+      ],
+      "area": 92
+    },
+    {
+      "file": "fase3_reino_central_736.png",
+      "bbox": [
+        203,
+        1040,
+        12,
+        31
+      ],
+      "area": 109
+    },
+    {
+      "file": "fase3_reino_central_737.png",
+      "bbox": [
+        949,
+        1040,
+        15,
+        11
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_738.png",
+      "bbox": [
+        226,
+        1043,
+        9,
+        15
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_739.png",
+      "bbox": [
+        368,
+        1046,
+        11,
+        15
+      ],
+      "area": 54
+    },
+    {
+      "file": "fase3_reino_central_740.png",
+      "bbox": [
+        352,
+        1047,
+        18,
+        11
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_741.png",
+      "bbox": [
+        1023,
+        1049,
+        13,
+        10
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_742.png",
+      "bbox": [
+        545,
+        1051,
+        15,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_743.png",
+      "bbox": [
+        665,
+        1051,
+        10,
+        15
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_744.png",
+      "bbox": [
+        442,
+        1052,
+        19,
+        24
+      ],
+      "area": 97
+    },
+    {
+      "file": "fase3_reino_central_745.png",
+      "bbox": [
+        318,
+        1053,
+        12,
+        14
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_746.png",
+      "bbox": [
+        376,
+        1053,
+        14,
+        14
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_747.png",
+      "bbox": [
+        441,
+        1054,
+        13,
+        12
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_748.png",
+      "bbox": [
+        360,
+        1055,
+        14,
+        13
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_749.png",
+      "bbox": [
+        226,
+        1056,
+        15,
+        12
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_750.png",
+      "bbox": [
+        481,
+        1056,
+        29,
+        20
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase3_reino_central_751.png",
+      "bbox": [
+        533,
+        1058,
+        15,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_752.png",
+      "bbox": [
+        1124,
+        1058,
+        13,
+        14
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase3_reino_central_753.png",
+      "bbox": [
+        40,
+        1059,
+        63,
+        18
+      ],
+      "area": 716
+    },
+    {
+      "file": "fase3_reino_central_754.png",
+      "bbox": [
+        131,
+        1059,
+        15,
+        17
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_755.png",
+      "bbox": [
+        156,
+        1059,
+        17,
+        13
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_756.png",
+      "bbox": [
+        105,
+        1061,
+        11,
+        15
+      ],
+      "area": 71
+    },
+    {
+      "file": "fase3_reino_central_757.png",
+      "bbox": [
+        171,
+        1061,
+        13,
+        10
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_758.png",
+      "bbox": [
+        547,
+        1061,
+        22,
+        17
+      ],
+      "area": 80
+    },
+    {
+      "file": "fase3_reino_central_759.png",
+      "bbox": [
+        254,
+        1062,
+        17,
+        13
+      ],
+      "area": 78
+    },
+    {
+      "file": "fase3_reino_central_760.png",
+      "bbox": [
+        388,
+        1062,
+        14,
+        11
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_761.png",
+      "bbox": [
+        977,
+        1062,
+        19,
+        19
+      ],
+      "area": 116
+    },
+    {
+      "file": "fase3_reino_central_762.png",
+      "bbox": [
+        368,
+        1063,
+        13,
+        12
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase3_reino_central_763.png",
+      "bbox": [
+        306,
+        1064,
+        18,
+        12
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_764.png",
+      "bbox": [
+        1047,
+        1064,
+        20,
+        18
+      ],
+      "area": 113
+    },
+    {
+      "file": "fase3_reino_central_765.png",
+      "bbox": [
+        269,
+        1065,
+        13,
+        12
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_766.png",
+      "bbox": [
+        1135,
+        1065,
+        21,
+        18
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_767.png",
+      "bbox": [
+        241,
+        1068,
+        15,
+        11
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase3_reino_central_768.png",
+      "bbox": [
+        422,
+        1068,
+        12,
+        12
+      ],
+      "area": 49
+    },
+    {
+      "file": "fase3_reino_central_769.png",
+      "bbox": [
+        1117,
+        1069,
+        16,
+        12
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_770.png",
+      "bbox": [
+        400,
+        1071,
+        18,
+        11
+      ],
+      "area": 73
+    },
+    {
+      "file": "fase3_reino_central_771.png",
+      "bbox": [
+        507,
+        1071,
+        42,
+        20
+      ],
+      "area": 210
+    },
+    {
+      "file": "fase3_reino_central_772.png",
+      "bbox": [
+        382,
+        1072,
+        17,
+        13
+      ],
+      "area": 76
+    },
+    {
+      "file": "fase3_reino_central_773.png",
+      "bbox": [
+        431,
+        1072,
+        11,
+        11
+      ],
+      "area": 41
+    },
+    {
+      "file": "fase3_reino_central_774.png",
+      "bbox": [
+        490,
+        1072,
+        15,
+        15
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_775.png",
+      "bbox": [
+        829,
+        1072,
+        13,
+        14
+      ],
+      "area": 60
+    },
+    {
+      "file": "fase3_reino_central_776.png",
+      "bbox": [
+        274,
+        1073,
+        18,
+        10
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_777.png",
+      "bbox": [
+        408,
+        1077,
+        18,
+        13
+      ],
+      "area": 66
+    },
+    {
+      "file": "fase3_reino_central_778.png",
+      "bbox": [
+        530,
+        1081,
+        25,
+        14
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase3_reino_central_779.png",
+      "bbox": [
+        1142,
+        1101,
+        60,
+        31
+      ],
+      "area": 633
+    },
+    {
+      "file": "fase3_reino_central_780.png",
+      "bbox": [
+        1198,
+        1103,
+        15,
+        16
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase3_reino_central_781.png",
+      "bbox": [
+        228,
+        1104,
+        33,
+        39
+      ],
+      "area": 361
+    },
+    {
+      "file": "fase3_reino_central_782.png",
+      "bbox": [
+        1110,
+        1104,
+        42,
+        40
+      ],
+      "area": 519
+    },
+    {
+      "file": "fase3_reino_central_783.png",
+      "bbox": [
+        79,
+        1109,
+        32,
+        32
+      ],
+      "area": 281
+    },
+    {
+      "file": "fase3_reino_central_784.png",
+      "bbox": [
+        1199,
+        1114,
+        25,
+        17
+      ],
+      "area": 142
+    },
+    {
+      "file": "fase3_reino_central_785.png",
+      "bbox": [
+        1023,
+        1121,
+        60,
+        28
+      ],
+      "area": 663
+    },
+    {
+      "file": "fase3_reino_central_786.png",
+      "bbox": [
+        362,
+        1122,
+        42,
+        44
+      ],
+      "area": 725
+    },
+    {
+      "file": "fase3_reino_central_787.png",
+      "bbox": [
+        1164,
+        1127,
+        14,
+        16
+      ],
+      "area": 55
+    },
+    {
+      "file": "fase3_reino_central_788.png",
+      "bbox": [
+        727,
+        1128,
+        32,
+        24
+      ],
+      "area": 290
+    },
+    {
+      "file": "fase3_reino_central_789.png",
+      "bbox": [
+        1205,
+        1128,
+        25,
+        15
+      ],
+      "area": 155
+    },
+    {
+      "file": "fase3_reino_central_790.png",
+      "bbox": [
+        359,
+        1130,
+        10,
+        14
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_791.png",
+      "bbox": [
+        1001,
+        1133,
+        41,
+        31
+      ],
+      "area": 412
+    },
+    {
+      "file": "fase3_reino_central_792.png",
+      "bbox": [
+        1150,
+        1133,
+        17,
+        15
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_793.png",
+      "bbox": [
+        757,
+        1134,
+        17,
+        13
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_794.png",
+      "bbox": [
+        619,
+        1136,
+        27,
+        36
+      ],
+      "area": 343
+    },
+    {
+      "file": "fase3_reino_central_795.png",
+      "bbox": [
+        1178,
+        1136,
+        23,
+        18
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase3_reino_central_796.png",
+      "bbox": [
+        156,
+        1137,
+        131,
+        83
+      ],
+      "area": 3698
+    },
+    {
+      "file": "fase3_reino_central_797.png",
+      "bbox": [
+        1121,
+        1139,
+        12,
+        14
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_798.png",
+      "bbox": [
+        23,
+        1140,
+        126,
+        72
+      ],
+      "area": 3994
+    },
+    {
+      "file": "fase3_reino_central_799.png",
+      "bbox": [
+        1043,
+        1141,
+        13,
+        13
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_800.png",
+      "bbox": [
+        1135,
+        1141,
+        19,
+        22
+      ],
+      "area": 126
+    },
+    {
+      "file": "fase3_reino_central_801.png",
+      "bbox": [
+        645,
+        1142,
+        11,
+        12
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_802.png",
+      "bbox": [
+        1109,
+        1142,
+        17,
+        19
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_803.png",
+      "bbox": [
+        498,
+        1143,
+        20,
+        35
+      ],
+      "area": 258
+    },
+    {
+      "file": "fase3_reino_central_804.png",
+      "bbox": [
+        1037,
+        1145,
+        33,
+        26
+      ],
+      "area": 274
+    },
+    {
+      "file": "fase3_reino_central_805.png",
+      "bbox": [
+        1217,
+        1146,
+        15,
+        15
+      ],
+      "area": 81
+    },
+    {
+      "file": "fase3_reino_central_806.png",
+      "bbox": [
+        1067,
+        1147,
+        25,
+        14
+      ],
+      "area": 135
+    },
+    {
+      "file": "fase3_reino_central_807.png",
+      "bbox": [
+        752,
+        1148,
+        16,
+        11
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_808.png",
+      "bbox": [
+        770,
+        1149,
+        19,
+        20
+      ],
+      "area": 125
+    },
+    {
+      "file": "fase3_reino_central_809.png",
+      "bbox": [
+        904,
+        1150,
+        27,
+        18
+      ],
+      "area": 239
+    },
+    {
+      "file": "fase3_reino_central_810.png",
+      "bbox": [
+        1191,
+        1150,
+        15,
+        13
+      ],
+      "area": 79
+    },
+    {
+      "file": "fase3_reino_central_811.png",
+      "bbox": [
+        523,
+        1152,
+        30,
+        43
+      ],
+      "area": 483
+    },
+    {
+      "file": "fase3_reino_central_812.png",
+      "bbox": [
+        721,
+        1153,
+        16,
+        15
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_813.png",
+      "bbox": [
+        761,
+        1153,
+        13,
+        13
+      ],
+      "area": 46
+    },
+    {
+      "file": "fase3_reino_central_814.png",
+      "bbox": [
+        630,
+        1156,
+        30,
+        33
+      ],
+      "area": 364
+    },
+    {
+      "file": "fase3_reino_central_815.png",
+      "bbox": [
+        594,
+        1158,
+        12,
+        12
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_816.png",
+      "bbox": [
+        708,
+        1158,
+        18,
+        24
+      ],
+      "area": 160
+    },
+    {
+      "file": "fase3_reino_central_817.png",
+      "bbox": [
+        492,
+        1160,
+        10,
+        12
+      ],
+      "area": 40
+    },
+    {
+      "file": "fase3_reino_central_818.png",
+      "bbox": [
+        1131,
+        1160,
+        19,
+        9
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_819.png",
+      "bbox": [
+        1192,
+        1160,
+        18,
+        9
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_820.png",
+      "bbox": [
+        246,
+        1161,
+        13,
+        17
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase3_reino_central_821.png",
+      "bbox": [
+        1003,
+        1161,
+        19,
+        18
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase3_reino_central_822.png",
+      "bbox": [
+        469,
+        1164,
+        29,
+        35
+      ],
+      "area": 414
+    },
+    {
+      "file": "fase3_reino_central_823.png",
+      "bbox": [
+        583,
+        1164,
+        11,
+        11
+      ],
+      "area": 42
+    },
+    {
+      "file": "fase3_reino_central_824.png",
+      "bbox": [
+        599,
+        1164,
+        25,
+        22
+      ],
+      "area": 223
+    },
+    {
+      "file": "fase3_reino_central_825.png",
+      "bbox": [
+        1077,
+        1164,
+        14,
+        15
+      ],
+      "area": 61
+    },
+    {
+      "file": "fase3_reino_central_826.png",
+      "bbox": [
+        1109,
+        1164,
+        19,
+        16
+      ],
+      "area": 99
+    },
+    {
+      "file": "fase3_reino_central_827.png",
+      "bbox": [
+        266,
+        1166,
+        16,
+        14
+      ],
+      "area": 63
+    },
+    {
+      "file": "fase3_reino_central_828.png",
+      "bbox": [
+        726,
+        1166,
+        40,
+        16
+      ],
+      "area": 226
+    },
+    {
+      "file": "fase3_reino_central_829.png",
+      "bbox": [
+        1219,
+        1168,
+        13,
+        11
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_830.png",
+      "bbox": [
+        1190,
+        1171,
+        16,
+        27
+      ],
+      "area": 264
+    },
+    {
+      "file": "fase3_reino_central_831.png",
+      "bbox": [
+        1134,
+        1173,
+        14,
+        25
+      ],
+      "area": 184
+    },
+    {
+      "file": "fase3_reino_central_832.png",
+      "bbox": [
+        660,
+        1176,
+        21,
+        20
+      ],
+      "area": 120
+    },
+    {
+      "file": "fase3_reino_central_833.png",
+      "bbox": [
+        774,
+        1177,
+        17,
+        20
+      ],
+      "area": 148
+    },
+    {
+      "file": "fase3_reino_central_834.png",
+      "bbox": [
+        694,
+        1178,
+        23,
+        23
+      ],
+      "area": 140
+    },
+    {
+      "file": "fase3_reino_central_835.png",
+      "bbox": [
+        940,
+        1179,
+        15,
+        13
+      ],
+      "area": 50
+    },
+    {
+      "file": "fase3_reino_central_836.png",
+      "bbox": [
+        351,
+        1180,
+        13,
+        15
+      ],
+      "area": 51
+    },
+    {
+      "file": "fase3_reino_central_837.png",
+      "bbox": [
+        588,
+        1180,
+        13,
+        13
+      ],
+      "area": 64
+    },
+    {
+      "file": "fase3_reino_central_838.png",
+      "bbox": [
+        712,
+        1180,
+        14,
+        15
+      ],
+      "area": 69
+    },
+    {
+      "file": "fase3_reino_central_839.png",
+      "bbox": [
+        955,
+        1180,
+        15,
+        13
+      ],
+      "area": 44
+    },
+    {
+      "file": "fase3_reino_central_840.png",
+      "bbox": [
+        274,
+        1181,
+        38,
+        27
+      ],
+      "area": 232
+    },
+    {
+      "file": "fase3_reino_central_841.png",
+      "bbox": [
+        764,
+        1183,
+        12,
+        16
+      ],
+      "area": 67
+    },
+    {
+      "file": "fase3_reino_central_842.png",
+      "bbox": [
+        613,
+        1184,
+        11,
+        12
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_843.png",
+      "bbox": [
+        507,
+        1185,
+        24,
+        24
+      ],
+      "area": 186
+    },
+    {
+      "file": "fase3_reino_central_844.png",
+      "bbox": [
+        622,
+        1186,
+        15,
+        14
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_845.png",
+      "bbox": [
+        1053,
+        1186,
+        28,
+        29
+      ],
+      "area": 299
+    },
+    {
+      "file": "fase3_reino_central_846.png",
+      "bbox": [
+        802,
+        1187,
+        13,
+        20
+      ],
+      "area": 70
+    },
+    {
+      "file": "fase3_reino_central_847.png",
+      "bbox": [
+        1016,
+        1187,
+        40,
+        30
+      ],
+      "area": 416
+    },
+    {
+      "file": "fase3_reino_central_848.png",
+      "bbox": [
+        856,
+        1188,
+        19,
+        19
+      ],
+      "area": 96
+    },
+    {
+      "file": "fase3_reino_central_849.png",
+      "bbox": [
+        534,
+        1189,
+        34,
+        24
+      ],
+      "area": 199
+    },
+    {
+      "file": "fase3_reino_central_850.png",
+      "bbox": [
+        829,
+        1189,
+        14,
+        13
+      ],
+      "area": 45
+    },
+    {
+      "file": "fase3_reino_central_851.png",
+      "bbox": [
+        934,
+        1189,
+        21,
+        13
+      ],
+      "area": 74
+    },
+    {
+      "file": "fase3_reino_central_852.png",
+      "bbox": [
+        459,
+        1191,
+        41,
+        18
+      ],
+      "area": 244
+    },
+    {
+      "file": "fase3_reino_central_853.png",
+      "bbox": [
+        892,
+        1191,
+        16,
+        12
+      ],
+      "area": 52
+    },
+    {
+      "file": "fase3_reino_central_854.png",
+      "bbox": [
+        655,
+        1192,
+        13,
+        15
+      ],
+      "area": 72
+    },
+    {
+      "file": "fase3_reino_central_855.png",
+      "bbox": [
+        318,
+        1193,
+        33,
+        19
+      ],
+      "area": 212
+    },
+    {
+      "file": "fase3_reino_central_856.png",
+      "bbox": [
+        605,
+        1193,
+        15,
+        13
+      ],
+      "area": 75
+    },
+    {
+      "file": "fase3_reino_central_857.png",
+      "bbox": [
+        708,
+        1193,
+        13,
+        17
+      ],
+      "area": 89
+    },
+    {
+      "file": "fase3_reino_central_858.png",
+      "bbox": [
+        909,
+        1193,
+        14,
+        17
+      ],
+      "area": 84
+    },
+    {
+      "file": "fase3_reino_central_859.png",
+      "bbox": [
+        976,
+        1194,
+        13,
+        14
+      ],
+      "area": 53
+    },
+    {
+      "file": "fase3_reino_central_860.png",
+      "bbox": [
+        1215,
+        1194,
+        16,
+        21
+      ],
+      "area": 86
+    },
+    {
+      "file": "fase3_reino_central_861.png",
+      "bbox": [
+        416,
+        1195,
+        27,
+        16
+      ],
+      "area": 131
+    },
+    {
+      "file": "fase3_reino_central_862.png",
+      "bbox": [
+        1188,
+        1195,
+        16,
+        9
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_863.png",
+      "bbox": [
+        770,
+        1196,
+        15,
+        15
+      ],
+      "area": 82
+    },
+    {
+      "file": "fase3_reino_central_864.png",
+      "bbox": [
+        634,
+        1198,
+        18,
+        16
+      ],
+      "area": 107
+    },
+    {
+      "file": "fase3_reino_central_865.png",
+      "bbox": [
+        698,
+        1198,
+        107,
+        23
+      ],
+      "area": 611
+    },
+    {
+      "file": "fase3_reino_central_866.png",
+      "bbox": [
+        1109,
+        1198,
+        10,
+        14
+      ],
+      "area": 43
+    },
+    {
+      "file": "fase3_reino_central_867.png",
+      "bbox": [
+        1149,
+        1198,
+        42,
+        17
+      ],
+      "area": 426
+    },
+    {
+      "file": "fase3_reino_central_868.png",
+      "bbox": [
+        350,
+        1200,
+        20,
+        17
+      ],
+      "area": 100
+    },
+    {
+      "file": "fase3_reino_central_869.png",
+      "bbox": [
+        187,
+        1202,
+        17,
+        11
+      ],
+      "area": 56
+    },
+    {
+      "file": "fase3_reino_central_870.png",
+      "bbox": [
+        494,
+        1202,
+        10,
+        13
+      ],
+      "area": 48
+    },
+    {
+      "file": "fase3_reino_central_871.png",
+      "bbox": [
+        1131,
+        1202,
+        21,
+        10
+      ],
+      "area": 87
+    },
+    {
+      "file": "fase3_reino_central_872.png",
+      "bbox": [
+        1188,
+        1202,
+        22,
+        11
+      ],
+      "area": 102
+    },
+    {
+      "file": "fase3_reino_central_873.png",
+      "bbox": [
+        394,
+        1203,
+        21,
+        14
+      ],
+      "area": 118
+    },
+    {
+      "file": "fase3_reino_central_874.png",
+      "bbox": [
+        368,
+        1204,
+        29,
+        14
+      ],
+      "area": 149
+    },
+    {
+      "file": "fase3_reino_central_875.png",
+      "bbox": [
+        947,
+        1204,
+        19,
+        13
+      ],
+      "area": 74
+    }
+  ]
+}

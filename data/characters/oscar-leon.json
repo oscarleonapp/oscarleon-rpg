@@ -1,0 +1,26 @@
+{
+  "id": "oscar_leon",
+  "name": "Oscar León",
+  "origin": "Santiago, Gualán, Zacapa",
+  "initialClass": "Niño Agricultor",
+  "finalClass": "Guardián del Maíz Dorado",
+  "maxLevel": 100,
+  "baseStats": {
+    "health": 100,
+    "energy": 80,
+    "strength": 8,
+    "defense": 6,
+    "agility": 7,
+    "wisdom": 5,
+    "charisma": 6,
+    "luck": 5
+  },
+  "startingItems": [
+    "machete_viejo",
+    "morral_de_tela",
+    "semillas_de_maiz",
+    "pan_de_maiz",
+    "honda_de_piedra"
+  ],
+  "specialPower": "Bendición de Q’anil"
+}

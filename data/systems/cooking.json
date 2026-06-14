@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tortilla_de_maiz",
+    "name": "Tortilla de Maíz",
+    "ingredients": [
+      { "id": "maiz", "quantity": 1 }
+    ],
+    "effect": { "restore_hp": 5 },
+    "description": "Comida esencial. Sencilla y nutritiva."
+  },
+  {
+    "id": "caldo_de_mariscos",
+    "name": "Caldo de Mariscos",
+    "region": "Izabal",
+    "ingredients": [
+      { "id": "peces_exoticos", "quantity": 1 },
+      { "id": "conchas", "quantity": 2 }
+    ],
+    "effect": { "restore_hp": 30, "buff": "stamina_regen_up" },
+    "description": "Un manjar de la costa que revitaliza el espíritu."
+  },
+  {
+    "id": "tamal_del_viajero",
+    "name": "Tamal del Viajero",
+    "ingredients": [
+      { "id": "maiz", "quantity": 1 },
+      { "id": "carne_de_jabali", "quantity": 1 }
+    ],
+    "effect": { "restore_energy": 50 },
+    "description": "Ideal para largos viajes por los cañones de El Progreso."
+  }
+]
